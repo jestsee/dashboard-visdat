@@ -12,6 +12,7 @@ specifiers:
   '@typescript-eslint/eslint-plugin': ^5.57.1
   '@typescript-eslint/parser': ^5.57.1
   '@vitejs/plugin-react': ^4.0.0-beta.0
+  chart.js: ^4.2.1
   chroma-js: ^2.4.2
   colord: ^2.9.3
   d3: ^7.8.4
@@ -23,12 +24,14 @@ specifiers:
   path: ^0.12.7
   prop-types: ^15.8.1
   react: ^18.2.0
+  react-chartjs-2: ^5.2.0
   react-dom: ^18.2.0
   react-simple-maps: ^3.0.0
   typescript: ^5.0.2
   vite: ^4.3.0
 
 dependencies:
+  chart.js: registry.npmjs.org/chart.js/4.2.1
   chroma-js: registry.npmjs.org/chroma-js/2.4.2
   colord: registry.npmjs.org/colord/2.9.3
   d3: registry.npmjs.org/d3/7.8.4
@@ -37,6 +40,7 @@ dependencies:
   path: registry.npmjs.org/path/0.12.7
   prop-types: registry.npmjs.org/prop-types/15.8.1
   react: registry.npmjs.org/react/18.2.0
+  react-chartjs-2: registry.npmjs.org/react-chartjs-2/5.2.0_t5yjg6ab35jnsudnh2qdighszm
   react-dom: registry.npmjs.org/react-dom/18.2.0_react@18.2.0
   react-simple-maps: registry.npmjs.org/react-simple-maps/3.0.0_v2m5e27vhdewzwhryxwfaorcca
 
@@ -701,6 +705,12 @@ packages:
       '@jridgewell/sourcemap-codec': registry.npmjs.org/@jridgewell/sourcemap-codec/1.4.14
     dev: true
 
+  registry.npmjs.org/@kurkle/color/0.3.2:
+    resolution: {integrity: sha512-fuscdXJ9G1qb7W8VdHi+IwRqij3lBkosAm4ydQtEmbY58OzHXqQhvlxqEkoz0yssNVn38bcpRWgA9PP+OGoisw==, registry: https://registry.npmjs.com/, tarball: https://registry.npmjs.org/@kurkle/color/-/color-0.3.2.tgz}
+    name: '@kurkle/color'
+    version: 0.3.2
+    dev: false
+
   registry.npmjs.org/@nodelib/fs.scandir/2.1.5:
     resolution: {integrity: sha512-vq24Bq3ym5HEQm2NKCr3yXDwjc7vTsEThRDnkp2DK9p1uqLR+DHurm/NOTo0KG7HYHU7eppKZj3MyqYuMBf62g==, registry: https://registry.npmjs.com/, tarball: https://registry.npmjs.org/@nodelib/fs.scandir/-/fs.scandir-2.1.5.tgz}
     name: '@nodelib/fs.scandir'
@@ -1347,6 +1357,15 @@ packages:
       ansi-styles: registry.npmjs.org/ansi-styles/4.3.0
       supports-color: registry.npmjs.org/supports-color/7.2.0
     dev: true
+
+  registry.npmjs.org/chart.js/4.2.1:
+    resolution: {integrity: sha512-6YbpQ0nt3NovAgOzbkSSeeAQu/3za1319dPUQTXn9WcOpywM8rGKxJHrhS8V8xEkAlk8YhEfjbuAPfUyp6jIsw==, registry: https://registry.npmjs.com/, tarball: https://registry.npmjs.org/chart.js/-/chart.js-4.2.1.tgz}
+    name: chart.js
+    version: 4.2.1
+    engines: {pnpm: ^7.0.0}
+    dependencies:
+      '@kurkle/color': registry.npmjs.org/@kurkle/color/0.3.2
+    dev: false
 
   registry.npmjs.org/chroma-js/2.4.2:
     resolution: {integrity: sha512-U9eDw6+wt7V8z5NncY2jJfZa+hUH8XEj8FQHgFJTrUFnJfXYf4Ml4adI2vXZOjqRDpFWtYVWypDfZwnJ+HIR4A==, registry: https://registry.npmjs.com/, tarball: https://registry.npmjs.org/chroma-js/-/chroma-js-2.4.2.tgz}
@@ -2681,6 +2700,19 @@ packages:
     name: queue-microtask
     version: 1.2.3
     dev: true
+
+  registry.npmjs.org/react-chartjs-2/5.2.0_t5yjg6ab35jnsudnh2qdighszm:
+    resolution: {integrity: sha512-98iN5aguJyVSxp5U3CblRLH67J8gkfyGNbiK3c+l1QI/G4irHMPQw44aEPmjVag+YKTyQ260NcF82GTQ3bdscA==, registry: https://registry.npmjs.com/, tarball: https://registry.npmjs.org/react-chartjs-2/-/react-chartjs-2-5.2.0.tgz}
+    id: registry.npmjs.org/react-chartjs-2/5.2.0
+    name: react-chartjs-2
+    version: 5.2.0
+    peerDependencies:
+      chart.js: ^4.1.1
+      react: ^16.8.0 || ^17.0.0 || ^18.0.0
+    dependencies:
+      chart.js: registry.npmjs.org/chart.js/4.2.1
+      react: registry.npmjs.org/react/18.2.0
+    dev: false
 
   registry.npmjs.org/react-dom/18.2.0_react@18.2.0:
     resolution: {integrity: sha512-6IMTriUmvsjHUjNtEDudZfuDQUoWXVxKHhlEGSk81n4YFS+r/Kl99wXiwlVXtPBtJenozv2P+hxDsw9eA7Xo6g==, registry: https://registry.npmjs.com/, tarball: https://registry.npmjs.org/react-dom/-/react-dom-18.2.0.tgz}

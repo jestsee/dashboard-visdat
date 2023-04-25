@@ -1,7 +1,7 @@
 import { ComposableMap, Geographies, Geography } from "react-simple-maps";
 import { scaleQuantile } from "d3";
 import { IData } from "@/types/data";
-import { colord, extend } from "colord";
+import { Colord, colord, extend } from "colord";
 import mixPlugin from "colord/plugins/mix";
 
 extend([mixPlugin]);
@@ -10,9 +10,10 @@ const geoUrl = "/features.json";
 
 interface Props {
   data: IData[];
+  onCountryChange: (country: string) => void;
 }
 
-const MapChart = ({ data }: Props) => {
+const MapChart = ({ data, onCountryChange }: Props) => {
   // color scale
   const rateColorScale = scaleQuantile<string, string>()
     .domain(data.map((d) => parseFloat(d.Rate)))
@@ -22,12 +23,12 @@ const MapChart = ({ data }: Props) => {
     .domain(data.map((d) => parseFloat(d.GDP)))
     .range(["#E0F1BC", "#A1D99C", "#88BB96"]); // change color here
 
-  const combinedColorScale = (rate?: string, gdp?: string): string => {
+  const combinedColorScale = (rate?: string, gdp?: string): Colord => {
     const rateColor = (
-      rate ? colord(rateColorScale(parseFloat(rate))) : colord("#00000000")
+      rate ? colord(rateColorScale(parseFloat(rate))) : colord("#F5F4F6")
     ).toRgb();
     const gdpColor = (
-      gdp ? colord(gdpColorScale(parseFloat(gdp))) : colord("#00000000")
+      gdp ? colord(gdpColorScale(parseFloat(gdp))) : colord("#F5F4F6")
     ).toRgb();
 
     // blend mode: darken
@@ -38,12 +39,12 @@ const MapChart = ({ data }: Props) => {
     ];
 
     const rgbColor = `rgb(${blendedColor[0]},${blendedColor[1]}, ${blendedColor[2]})`;
-    return colord(rgbColor).toHex();
+    return colord(rgbColor);
   };
 
   return (
     <ComposableMap
-      style={{ height: "100vh" }}
+      style={{ height: "80vh" }}
       projectionConfig={{
         rotate: [-10, 0, 0],
         scale: 147,
@@ -57,16 +58,19 @@ const MapChart = ({ data }: Props) => {
               if (!d) return;
               return (
                 <Geography
-                  onClick={() => console.log("alo", geo.id)}
+                  onClick={() => onCountryChange(geo.id)}
                   key={geo.rsmKey}
                   geography={geo}
-                  fill={
-                    d.Rate && d.GDP
-                      ? combinedColorScale(d.Rate, d.GDP)
-                      : // rateColorScale(parseFloat(d.Rate))
-                        // gdpColorScale(parseFloat(d.GDP))
-                        "#F5F4F6"
-                  }
+                  fill={combinedColorScale(d.Rate, d.GDP).toHex()}
+                  style={{
+                    hover: {
+                      fill: combinedColorScale(d.Rate, d.GDP)
+                        .darken(0.15)
+                        .toHex(),
+                    },
+                  }}
+                  // rateColorScale(parseFloat(d.Rate))
+                  // gdpColorScale(parseFloat(d.GDP))
                 />
               );
             })
