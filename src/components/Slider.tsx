@@ -18,7 +18,7 @@ const Slider = ({ years, value, onChange }: Props) => {
       />
       <div className="w-full flex justify-between text-xs px-2">
         {years.map((item) => (
-          <span>
+          <span key={item}>
             | <p>{item}</p>
           </span>
         ))}

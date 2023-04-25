@@ -10,6 +10,7 @@ import {
   Legend,
 } from "chart.js";
 import { IData } from "@/types/data";
+import { useState } from "react";
 
 ChartJS.register(
   CategoryScale,
@@ -26,8 +27,25 @@ interface Props {
 }
 
 const LineChart = ({ data }: Props) => {
+  const [type, setType] = useState<"GDP" | "Rate">("Rate");
+
+  const handleTypeChange = () => {
+    if (type === "GDP") return setType("Rate");
+    setType("GDP");
+  };
+
   return (
     <>
+      <div>
+        <label className="label cursor-pointer">
+          <span className="label-text">{type}</span>
+          <input
+            type="checkbox"
+            className="toggle"
+            onChange={handleTypeChange}
+          />
+        </label>
+      </div>
       <Line
         datasetIdKey="id"
         data={{
@@ -35,7 +53,7 @@ const LineChart = ({ data }: Props) => {
           datasets: [
             {
               // label: data[0].Code,
-              data: data.map((item) => item.Rate),
+              data: data.map((item) => item[type as keyof typeof item]),
               tension: 0.4, // atur kelengkungan
             },
           ],

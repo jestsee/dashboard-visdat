@@ -9,6 +9,7 @@ import { IData } from "@/types/data";
 import { Tooltip } from "react-tooltip";
 import { Colord, colord, extend } from "colord";
 import mixPlugin from "colord/plugins/mix";
+import { useState } from "react";
 
 extend([mixPlugin]);
 
@@ -19,7 +20,11 @@ interface Props {
   onCountryChange: (country: string) => void;
 }
 
+type Mode = "all" | "rate" | "gdp";
+
 const MapChart = ({ data, onCountryChange }: Props) => {
+  const [mode, setMode] = useState<Mode>("all");
+
   // color scale
   const rateColorScale = scaleQuantile<string, string>()
     .domain(data.map((d) => parseFloat(d.Rate)))
@@ -48,8 +53,27 @@ const MapChart = ({ data, onCountryChange }: Props) => {
     return colord(rgbColor);
   };
 
+  const getColor = (rate?: string, gdp?: string): Colord => {
+    switch (mode) {
+      case "all":
+        return combinedColorScale(rate, gdp);
+      case "gdp":
+        return colord(gdp ? gdpColorScale(parseFloat(gdp)) : "#F5F4F6");
+      default:
+        return colord(rate ? rateColorScale(parseFloat(rate)) : "#F5F4F6");
+    }
+  };
+
   return (
     <>
+      <select
+        className="select w-full max-w-xs"
+        onChange={(e) => setMode(e.target.value as Mode)}
+      >
+        <option value="all">Mortality Rate & GDP</option>
+        <option value="rate">Mortality Rate</option>
+        <option value="gdp">GDP</option>
+      </select>
       <ComposableMap
         style={{ height: "80vh" }}
         projectionConfig={{
@@ -64,6 +88,7 @@ const MapChart = ({ data, onCountryChange }: Props) => {
                 geographies.map((geo) => {
                   const d = data.find((s) => s.Code === geo.id);
                   if (!d) return;
+                  const color = getColor(d.Rate, d.GDP);
                   return (
                     <Geography
                       data-tooltip-id="my-tooltip"
@@ -72,12 +97,10 @@ const MapChart = ({ data, onCountryChange }: Props) => {
                       onClick={() => onCountryChange(geo.id)}
                       key={geo.rsmKey}
                       geography={geo}
-                      fill={combinedColorScale(d.Rate, d.GDP).toHex()}
+                      fill={color.toHex()}
                       style={{
                         hover: {
-                          fill: combinedColorScale(d.Rate, d.GDP)
-                            .darken(0.15)
-                            .toHex(),
+                          fill: color.darken(0.15).toHex(),
                         },
                       }}
                       // rateColorScale(parseFloat(d.Rate))
