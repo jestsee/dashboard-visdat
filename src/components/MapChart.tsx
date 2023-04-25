@@ -1,9 +1,4 @@
-import {
-  ComposableMap,
-  Geographies,
-  Geography,
-  ZoomableGroup,
-} from "react-simple-maps";
+import { ComposableMap, Geographies, Geography } from "react-simple-maps";
 import { scaleQuantile } from "d3";
 import { IData } from "@/types/data";
 import { Tooltip } from "react-tooltip";
