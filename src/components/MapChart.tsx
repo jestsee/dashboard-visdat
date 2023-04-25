@@ -14,7 +14,7 @@ import { useState } from "react";
 extend([mixPlugin]);
 
 const geoUrl = "/features.json";
-
+const blankColor = "#F5F4F6";
 interface Props {
   data: IData[];
   onCountryChange: (country: string) => void;
@@ -36,10 +36,10 @@ const MapChart = ({ data, onCountryChange }: Props) => {
 
   const combinedColorScale = (rate?: string, gdp?: string): Colord => {
     const rateColor = (
-      rate ? colord(rateColorScale(parseFloat(rate))) : colord("#F5F4F6")
+      rate ? colord(rateColorScale(parseFloat(rate))) : colord(blankColor)
     ).toRgb();
     const gdpColor = (
-      gdp ? colord(gdpColorScale(parseFloat(gdp))) : colord("#F5F4F6")
+      gdp ? colord(gdpColorScale(parseFloat(gdp))) : colord(blankColor)
     ).toRgb();
 
     // blend mode: darken
@@ -58,9 +58,9 @@ const MapChart = ({ data, onCountryChange }: Props) => {
       case "all":
         return combinedColorScale(rate, gdp);
       case "gdp":
-        return colord(gdp ? gdpColorScale(parseFloat(gdp)) : "#F5F4F6");
+        return colord(gdp ? gdpColorScale(parseFloat(gdp)) : blankColor);
       default:
-        return colord(rate ? rateColorScale(parseFloat(rate)) : "#F5F4F6");
+        return colord(rate ? rateColorScale(parseFloat(rate)) : blankColor);
     }
   };
 
