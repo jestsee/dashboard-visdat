@@ -1,6 +1,12 @@
-import { ComposableMap, Geographies, Geography } from "react-simple-maps";
+import {
+  ComposableMap,
+  Geographies,
+  Geography,
+  ZoomableGroup,
+} from "react-simple-maps";
 import { scaleQuantile } from "d3";
 import { IData } from "@/types/data";
+import { Tooltip } from "react-tooltip";
 import { Colord, colord, extend } from "colord";
 import mixPlugin from "colord/plugins/mix";
 
@@ -43,41 +49,47 @@ const MapChart = ({ data, onCountryChange }: Props) => {
   };
 
   return (
-    <ComposableMap
-      style={{ height: "80vh" }}
-      projectionConfig={{
-        rotate: [-10, 0, 0],
-        scale: 147,
-      }}
-    >
-      {data.length > 0 && (
-        <Geographies geography={geoUrl} id="map-chart">
-          {({ geographies }) =>
-            geographies.map((geo) => {
-              const d = data.find((s) => s.Code === geo.id);
-              if (!d) return;
-              return (
-                <Geography
-                  onClick={() => onCountryChange(geo.id)}
-                  key={geo.rsmKey}
-                  geography={geo}
-                  fill={combinedColorScale(d.Rate, d.GDP).toHex()}
-                  style={{
-                    hover: {
-                      fill: combinedColorScale(d.Rate, d.GDP)
-                        .darken(0.15)
-                        .toHex(),
-                    },
-                  }}
-                  // rateColorScale(parseFloat(d.Rate))
-                  // gdpColorScale(parseFloat(d.GDP))
-                />
-              );
-            })
-          }
-        </Geographies>
-      )}
-    </ComposableMap>
+    <>
+      <ComposableMap
+        style={{ height: "80vh" }}
+        projectionConfig={{
+          rotate: [-10, 0, 0],
+          scale: 147,
+        }}
+      >
+        {data.length > 0 && (
+          <Geographies geography={geoUrl} id="map-chart">
+            {({ geographies }) =>
+              geographies.map((geo) => {
+                const d = data.find((s) => s.Code === geo.id);
+                if (!d) return;
+                return (
+                  <Geography
+                    data-tooltip-id="my-tooltip"
+                    data-tooltip-content={d.Entity}
+                    data-tooltip-place="top"
+                    onClick={() => onCountryChange(geo.id)}
+                    key={geo.rsmKey}
+                    geography={geo}
+                    fill={combinedColorScale(d.Rate, d.GDP).toHex()}
+                    style={{
+                      hover: {
+                        fill: combinedColorScale(d.Rate, d.GDP)
+                          .darken(0.15)
+                          .toHex(),
+                      },
+                    }}
+                    // rateColorScale(parseFloat(d.Rate))
+                    // gdpColorScale(parseFloat(d.GDP))
+                  />
+                );
+              })
+            }
+          </Geographies>
+        )}
+      </ComposableMap>
+      <Tooltip id="my-tooltip" />
+    </>
   );
 };
 

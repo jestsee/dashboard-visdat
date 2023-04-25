@@ -4,6 +4,7 @@ import MapChart from "@/components/MapChart";
 import { csv } from "d3";
 import { IData } from "./types/data";
 import LineChart from "@/components/LineChart";
+import "react-tooltip/dist/react-tooltip.css";
 
 function App() {
   const [rawData, setRawData] = useState<IData[]>([]);
