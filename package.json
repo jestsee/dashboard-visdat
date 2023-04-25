@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "chroma-js": "^2.4.2",
+    "colord": "^2.9.3",
     "d3": "^7.8.4",
     "d3-fetch": "^3.0.1",
     "d3-scale": "^4.0.2",

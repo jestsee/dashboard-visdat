@@ -13,6 +13,7 @@ specifiers:
   '@typescript-eslint/parser': ^5.57.1
   '@vitejs/plugin-react': ^4.0.0-beta.0
   chroma-js: ^2.4.2
+  colord: ^2.9.3
   d3: ^7.8.4
   d3-fetch: ^3.0.1
   d3-scale: ^4.0.2
@@ -29,6 +30,7 @@ specifiers:
 
 dependencies:
   chroma-js: registry.npmjs.org/chroma-js/2.4.2
+  colord: registry.npmjs.org/colord/2.9.3
   d3: registry.npmjs.org/d3/7.8.4
   d3-fetch: registry.npmjs.org/d3-fetch/3.0.1
   d3-scale: registry.npmjs.org/d3-scale/4.0.2
@@ -1380,6 +1382,12 @@ packages:
     name: color-name
     version: 1.1.4
     dev: true
+
+  registry.npmjs.org/colord/2.9.3:
+    resolution: {integrity: sha512-jeC1axXpnb0/2nn/Y1LPuLdgXBLH7aDcHu4KEKfqw3CUhX7ZpfBSlPKyqXE6btIgEzfWtrX3/tyBCaCvXvMkOw==, registry: https://registry.npmjs.com/, tarball: https://registry.npmjs.org/colord/-/colord-2.9.3.tgz}
+    name: colord
+    version: 2.9.3
+    dev: false
 
   registry.npmjs.org/commander/2.20.3:
     resolution: {integrity: sha512-GpVkmM8vF2vQUkj2LvZmD35JxeJOLCwJ9cUkugyk2nuhbv3+mJvpLYYt+0+USMxE+oj+ey/lJEnhZw75x/OMcQ==, registry: https://registry.npmjs.com/, tarball: https://registry.npmjs.org/commander/-/commander-2.20.3.tgz}
