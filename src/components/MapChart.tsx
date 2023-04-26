@@ -68,7 +68,7 @@ const MapChart = ({ data, onCountryChange, className }: Props) => {
   return (
     <div className={className}>
       <select
-        className="select w-full max-w-xs"
+        className="select w-full max-w-xs absolute"
         onChange={(e) => setMode(e.target.value as Mode)}
       >
         <option value="all">Mortality Rate & GDP</option>
@@ -78,10 +78,10 @@ const MapChart = ({ data, onCountryChange, className }: Props) => {
       <ComposableMap
         projectionConfig={{
           rotate: [-10, 0, 0],
-          scale: 147,
+          scale: 157,
         }}
       >
-        <ZoomableGroup center={[0, 0]}>
+        <ZoomableGroup center={[20, 0]}>
           {data.length > 0 && (
             <Geographies geography={geoUrl} id="map-chart">
               {({ geographies }) =>

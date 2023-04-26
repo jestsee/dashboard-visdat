@@ -10,14 +10,14 @@ function Dashboard() {
         <MapChart
           data={mapData}
           onCountryChange={setCountry}
-          className="w-[80vw]"
+          className="w-[80vw] bg-slate-50"
         />
         <Slider
           onChange={setYear}
           value={year}
           years={Array.from({ length: 31 }, (_, i) => (1990 + i).toString())}
         />
-        <div className="" style={{ height: "50vh" }}>
+        <div className="h-[50vh]">
           <LineChart data={lineData} />
         </div>
       </div>
