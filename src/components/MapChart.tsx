@@ -10,19 +10,20 @@ import { Tooltip } from "react-tooltip";
 import { Colord, colord, extend } from "colord";
 import mixPlugin from "colord/plugins/mix";
 import { useState } from "react";
+import { BaseProps } from "@/types/props";
 
 extend([mixPlugin]);
 
 const geoUrl = "/features.json";
 const blankColor = "#F5F4F6";
-interface Props {
+interface Props extends BaseProps {
   data: IData[];
   onCountryChange: (country: string) => void;
 }
 
 type Mode = "all" | "rate" | "gdp";
 
-const MapChart = ({ data, onCountryChange }: Props) => {
+const MapChart = ({ data, onCountryChange, className }: Props) => {
   const [mode, setMode] = useState<Mode>("all");
 
   // color scale
@@ -65,7 +66,7 @@ const MapChart = ({ data, onCountryChange }: Props) => {
   };
 
   return (
-    <>
+    <div className={className}>
       <select
         className="select w-full max-w-xs"
         onChange={(e) => setMode(e.target.value as Mode)}
@@ -75,7 +76,6 @@ const MapChart = ({ data, onCountryChange }: Props) => {
         <option value="gdp">GDP</option>
       </select>
       <ComposableMap
-        style={{ height: "80vh" }}
         projectionConfig={{
           rotate: [-10, 0, 0],
           scale: 147,
@@ -103,8 +103,6 @@ const MapChart = ({ data, onCountryChange }: Props) => {
                           fill: color.darken(0.15).toHex(),
                         },
                       }}
-                      // rateColorScale(parseFloat(d.Rate))
-                      // gdpColorScale(parseFloat(d.GDP))
                     />
                   );
                 })
@@ -114,7 +112,7 @@ const MapChart = ({ data, onCountryChange }: Props) => {
         </ZoomableGroup>
       </ComposableMap>
       <Tooltip id="my-tooltip" />
-    </>
+    </div>
   );
 };
 
