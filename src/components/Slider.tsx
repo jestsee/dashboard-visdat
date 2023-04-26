@@ -6,7 +6,7 @@ interface Props {
 
 const Slider = ({ years, value, onChange }: Props) => {
   return (
-    <>
+    <div className="flex gap-2">
       <input
         type="range"
         min={years[0]}
@@ -16,14 +16,15 @@ const Slider = ({ years, value, onChange }: Props) => {
         className="range"
         step="1"
       />
-      <div className="w-full flex justify-between text-xs px-2">
+      <label>{value}</label>
+      {/* <div className="w-full flex justify-between text-xs px-2">
         {years.map((item) => (
           <span key={item}>
             | <p>{item}</p>
           </span>
         ))}
-      </div>
-    </>
+      </div> */}
+    </div>
   );
 };
 

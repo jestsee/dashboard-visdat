@@ -10,7 +10,7 @@ function Dashboard() {
         <MapChart
           data={mapData}
           onCountryChange={setCountry}
-          className="w-[80vw] bg-slate-50"
+          className="w-[50vw] bg-slate-50"
         />
         <Slider
           onChange={setYear}

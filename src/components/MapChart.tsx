@@ -66,7 +66,7 @@ const MapChart = ({ data, onCountryChange, className }: Props) => {
   };
 
   return (
-    <div className={className}>
+    <div>
       <select
         className="select w-full max-w-xs absolute"
         onChange={(e) => setMode(e.target.value as Mode)}
@@ -76,6 +76,7 @@ const MapChart = ({ data, onCountryChange, className }: Props) => {
         <option value="gdp">GDP</option>
       </select>
       <ComposableMap
+        className={className}
         projectionConfig={{
           rotate: [-10, 0, 0],
           scale: 157,
