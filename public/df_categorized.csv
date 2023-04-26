@@ -1,0 +1,2087 @@
+﻿Entity,Code,Year,Rate,GDP,Rate_Cat,GDP_Cat,Rate-GDP_Cat
+Afghanistan,AFG,2010,8.775619,15633856787.0,high,med,high-med
+Albania,ALB,2010,1.32566,11926922829.0,med,med,med-med
+Algeria,DZA,2010,2.743151,161207270185.0,med,high,med-high
+Andorra,AND,2010,0.450005,3449966857.0,low,low,low-low
+Angola,AGO,2010,12.035612,81699526881.0,high,high,high-high
+Antigua and Barbuda,ATG,2010,1.002232,1148700000.0,low,low,low-low
+Argentina,ARG,2010,1.445416,423627422092.0,med,high,med-high
+Armenia,ARM,2010,1.826908,9260284938.0,med,low,med-low
+Australia,AUS,2010,0.476612,1148610059015.0,low,high,low-high
+Austria,AUT,2010,0.433581,392275107259.0,low,high,low-high
+Azerbaijan,AZE,2010,3.733677,52909294792.0,med,med,med-med
+Bahamas,BHS,2010,1.555457,10095760000.0,med,low,med-low
+Bahrain,BHR,2010,0.851339,25713271277.0,low,med,low-med
+Bangladesh,BGD,2010,4.914837,115279077465.0,high,high,high-high
+Barbados,BRB,2010,1.498119,4529928300.0,med,low,med-low
+Belarus,BLR,2010,0.559106,57222490769.0,low,med,low-med
+Belgium,BEL,2010,0.444587,481420882905.0,low,high,low-high
+Belize,BLZ,2010,1.893654,1738500000.0,med,low,med-low
+Benin,BEN,2010,10.899803,9535345011.0,high,low,high-low
+Bhutan,BTN,2010,4.235812,1547991318.0,high,low,high-low
+Bolivia,BOL,2010,4.159196000000001,19649631308.0,high,med,high-med
+Bosnia and Herzegovina,BIH,2010,0.720398,17176781066.0,low,med,low-med
+Botswana,BWA,2010,5.135918,12637319933.0,high,med,high-med
+Brazil,BRA,2010,1.8637360000000005,2208871646203.0,med,high,med-high
+Brunei,BRN,2010,0.968736,13707370737.0,low,med,low-med
+Bulgaria,BGR,2010,1.077763,50682061053.0,low,med,low-med
+Burkina Faso,BFA,2010,12.152411,10109618964.0,high,low,high-low
+Burundi,BDI,2010,9.104714,2032135247.0,high,low,high-low
+Cambodia,KHM,2010,4.381919,11242275199.0,high,med,high-med
+Cameroon,CMR,2010,11.005624,27507499709.0,high,med,high-med
+Canada,CAN,2010,0.572955,1617343367486.0,low,high,low-high
+Cape Verde,CPV,2010,2.629192,1663913071.0,med,low,med-low
+Central African Republic,CAF,2010,14.499483,2142591376.0,high,low,high-low
+Chad,TCD,2010,14.770569000000002,10668102735.0,high,med,high-med
+Chile,CHL,2010,0.8697860000000001,217105420017.0,low,high,low-high
+China,CHN,2010,1.575244,6087163874512.0,med,high,med-high
+Colombia,COL,2010,1.832826,286563099757.0,med,high,med-high
+Comoros,COM,2010,8.459773,907978724.0,high,low,high-low
+Congo,COG,2010,6.203462,13148395202.0,high,med,high-med
+Costa Rica,CRI,2010,1.050884,37658614803.0,low,med,low-med
+Cote d'Ivoire,CIV,2010,10.628259,34936305297.0,high,med,high-med
+Croatia,HRV,2010,0.54786,60672093865.0,low,med,low-med
+Cuba,CUB,2010,0.636862,59562962963.0,low,med,low-med
+Cyprus,CYP,2010,0.337453,25800247912.0,low,med,low-med
+Czechia,CZE,2010,0.338102,209069940963.0,low,high,low-high
+Democratic Republic of Congo,COD,2010,11.382086,21565720044.0,high,med,high-med
+Denmark,DNK,2010,0.410449,321995279402.0,low,high,low-high
+Djibouti,DJI,2010,7.661019,1128611700.0,high,low,high-low
+Dominica,DMA,2010,2.455399,493825926.0,med,low,med-low
+Dominican Republic,DOM,2010,3.5141550000000006,53860175556.0,med,med,med-med
+Ecuador,ECU,2010,1.898291,69555367000.0,med,med,med-med
+Egypt,EGY,2010,2.867338,218983666062.0,med,high,med-high
+El Salvador,SLV,2010,1.938075,18447920000.0,med,med,med-med
+Equatorial Guinea,GNQ,2010,11.116512,16314442183.0,high,med,high-med
+Eritrea,ERI,2010,5.505282,1589515447.0,high,low,high-low
+Estonia,EST,2010,0.45875,19523477326.0,low,med,low-med
+Eswatini,SWZ,2010,8.546633,4438778424.0,high,low,high-low
+Ethiopia,ETH,2010,8.203373000000001,29933790334.0,high,med,high-med
+Fiji,FJI,2010,2.363877,3140181444.0,med,low,med-low
+Finland,FIN,2010,0.301611,249424310817.0,low,high,low-high
+France,FRA,2010,0.421118,2645187882117.0,low,high,low-high
+Gabon,GAB,2010,6.166139,14372591916.0,high,med,high-med
+Gambia,GMB,2010,7.362242000000001,1543292393.0,high,low,high-low
+Georgia,GEO,2010,1.41756,12243505583.0,med,med,med-med
+Germany,DEU,2010,0.417387,3399667820000.0,low,high,low-high
+Ghana,GHA,2010,6.911598,32197272797.0,high,med,high-med
+Greece,GRC,2010,0.392798,297124961972.0,low,high,low-high
+Grenada,GRD,2010,1.5062670000000002,771013259.0,med,low,med-low
+Guatemala,GTM,2010,3.478394,40676432029.0,med,med,med-med
+Guinea,GIN,2010,11.770046,6853467858.0,high,low,high-low
+Guinea-Bissau,GNB,2010,11.449665,849878424.0,high,low,high-low
+Guyana,GUY,2010,3.743078,3432913073.0,med,low,med-low
+Haiti,HTI,2010,20.358983,11859315079.0,high,med,high-med
+Honduras,HND,2010,2.332099,15839344592.0,med,med,med-med
+Hungary,HUN,2010,0.601091,132175349954.0,low,high,low-high
+Iceland,ISL,2010,0.26994,13751161918.0,low,med,low-med
+India,IND,2010,5.815390000000001,1675615335601.0,high,high,high-high
+Indonesia,IDN,2010,3.382705,755094160363.0,med,high,med-high
+Iran,IRN,2010,1.9325410000000005,486807615326.0,med,high,med-high
+Iraq,IRQ,2010,3.4930830000000004,138516722650.0,med,high,med-high
+Ireland,IRL,2010,0.417373,221913560882.0,low,high,low-high
+Israel,ISR,2010,0.455427,238364092298.0,low,high,low-high
+Italy,ITA,2010,0.396409,2136099955237.0,low,high,low-high
+Jamaica,JAM,2010,1.7997890000000003,13220556883.0,med,med,med-med
+Japan,JPN,2010,0.320576,5759071769013.0,low,high,low-high
+Jordan,JOR,2010,2.007143,27133804244.0,med,med,med-med
+Kazakhstan,KAZ,2010,2.03703,148047348241.0,med,high,med-high
+Kenya,KEN,2010,5.742011000000001,45405587557.0,high,med,high-med
+Kiribati,KIR,2010,6.440625000000001,155299762.0,high,low,high-low
+Kuwait,KWT,2010,1.035603,115419399860.0,low,high,low-high
+Kyrgyzstan,KGZ,2010,2.954299,4794357795.0,med,low,med-low
+Laos,LAO,2010,6.827375000000001,7131773633.0,high,low,high-low
+Latvia,LVA,2010,0.7798240000000001,23956163077.0,low,med,low-med
+Lebanon,LBN,2010,1.018884,38443907042.0,low,med,low-med
+Lesotho,LSO,2010,9.642329,2234731974.0,high,low,high-low
+Liberia,LBR,2010,9.981708,1998000000.0,high,low,high-low
+Libya,LBY,2010,1.658637,75380170508.0,med,high,med-high
+Lithuania,LTU,2010,0.6038410000000001,37128694028.0,low,med,low-med
+Luxembourg,LUX,2010,0.283192,56213985987.0,low,med,low-med
+Madagascar,MDG,2010,6.931976000000001,9982711338.0,high,low,high-low
+Malawi,MWI,2010,8.418284,6959655571.0,high,low,high-low
+Malaysia,MYS,2010,0.8056760000000001,255016609233.0,low,high,low-high
+Maldives,MDV,2010,1.385282,2588176055.0,med,low,med-low
+Mali,MLI,2010,13.027705,10689167195.0,high,med,high-med
+Malta,MLT,2010,0.667425,9035927350.0,low,low,low-low
+Marshall Islands,MHL,2010,3.899031,160318500.0,high,low,high-low
+Mauritania,MRT,2010,9.560123,5628882266.0,high,low,high-low
+Mauritius,MUS,2010,1.449464,10003670690.0,med,low,med-low
+Mexico,MEX,2010,1.919522,1057801295584.0,med,high,med-high
+Micronesia (country),FSM,2010,3.310945,296944100.0,med,low,med-low
+Moldova,MDA,2010,1.7146830000000002,6974982393.0,med,low,med-low
+Monaco,MCO,2010,0.399736,5367625613.0,low,low,low-low
+Mongolia,MNG,2010,2.629356,7189481824.0,med,low,med-low
+Montenegro,MNE,2010,0.6701060000000001,4143033276.0,low,low,low-low
+Morocco,MAR,2010,3.1191820000000003,93216746662.0,med,high,med-high
+Mozambique,MOZ,2010,10.489973,11104648673.0,high,med,high-med
+Myanmar,MMR,2010,6.365827,37796052939.0,high,med,high-med
+Namibia,NAM,2010,4.910535,11431334447.0,high,med,high-med
+Nauru,NRU,2010,3.751596,47564520.0,high,low,high-low
+Nepal,NPL,2010,4.588971,16002656434.0,high,med,high-med
+Netherlands,NLD,2010,0.441586,847380859017.0,low,high,low-high
+New Zealand,NZL,2010,0.613905,146517541181.0,low,high,low-high
+Nicaragua,NIC,2010,2.390451,8758639096.0,med,low,med-low
+Niger,NER,2010,12.190282000000002,7851191899.0,high,low,high-low
+Nigeria,NGA,2010,13.553081,366990528103.0,high,high,high-high
+North Macedonia,MKD,2010,1.035687,9407168702.0,low,low,low-low
+Norway,NOR,2010,0.327189,428757038467.0,low,high,low-high
+Oman,OMN,2010,1.171106,64993498049.0,low,med,low-med
+Pakistan,PAK,2010,8.710903,177165635077.0,high,high,high-high
+Palau,PLW,2010,2.313026,185943000.0,med,low,med-low
+Palestine,PSE,2010,2.206592,9681500000.0,med,low,med-low
+Panama,PAN,2010,1.985761,29440287600.0,med,med,med-med
+Papua New Guinea,PNG,2010,5.793442000000001,14250755231.0,high,med,high-med
+Paraguay,PRY,2010,2.6166,27260886405.0,med,med,med-med
+Peru,PER,2010,1.97519,147528937029.0,med,high,med-high
+Philippines,PHL,2010,3.167784,208368726861.0,med,high,med-high
+Poland,POL,2010,0.595796,475696613936.0,low,high,low-high
+Portugal,PRT,2010,0.3819,238113003233.0,low,high,low-high
+Qatar,QAT,2010,0.914655,125122306346.0,low,high,low-high
+Romania,ROU,2010,1.236661,170029359011.0,med,high,med-high
+Russia,RUS,2010,1.0368000000000002,1524917468442.0,low,high,low-high
+Rwanda,RWA,2010,6.384369,6121529488.0,high,low,high-low
+Saint Kitts and Nevis,KNA,2010,1.7513310000000002,778718111.0,med,low,med-low
+Saint Lucia,LCA,2010,1.96518,1486758037.0,med,low,med-low
+Saint Vincent and the Grenadines,VCT,2010,1.983281,720447889.0,med,low,med-low
+Samoa,WSM,2010,1.934816,680250453.0,med,low,med-low
+San Marino,SMR,2010,0.285624,1881214371.0,low,low,low-low
+Sao Tome and Principe,STP,2010,3.605437,196652514.0,med,low,med-low
+Saudi Arabia,SAU,2010,1.22513,528207332650.0,low,high,low-high
+Senegal,SEN,2010,6.573260000000001,16121314671.0,high,med,high-med
+Serbia,SRB,2010,0.760005,41819468692.0,low,med,low-med
+Seychelles,SYC,2010,1.409338,969936525.0,med,low,med-low
+Sierra Leone,SLE,2010,16.062904,2578026297.0,high,low,high-low
+Singapore,SGP,2010,0.283099,239809387605.0,low,high,low-high
+Slovakia,SVK,2010,0.6987800000000001,91162836320.0,low,high,low-high
+Slovenia,SVN,2010,0.323292,48208240226.0,low,med,low-med
+Solomon Islands,SLB,2010,2.63784,898133796.0,med,low,med-low
+South Africa,ZAF,2010,5.198301000000001,417365076968.0,high,high,high-high
+South Korea,KOR,2010,0.412463,1144066965324.0,low,high,low-high
+South Sudan,SSD,2010,10.841070000000002,14602072411.0,high,med,high-med
+Spain,ESP,2010,0.384647,1422108199783.0,low,high,low-high
+Sri Lanka,LKA,2010,1.137649,58636150710.0,low,med,low-med
+Sudan,SDN,2010,7.567568,74151186600.0,high,med,high-med
+Suriname,SUR,2010,2.312663,4368398048.0,med,low,med-low
+Sweden,SWE,2010,0.305779,495812558843.0,low,high,low-high
+Switzerland,CHE,2010,0.45595,598851028907.0,low,high,low-high
+Syria,SYR,2010,1.88739,252518218263.0,med,high,med-high
+Tajikistan,TJK,2010,4.2708900000000005,5642178580.0,high,low,high-low
+Tanzania,TZA,2010,7.193183000000001,32014247548.0,high,med,high-med
+Thailand,THA,2010,1.3578450000000002,341104820155.0,med,high,med-high
+Timor,TLS,2010,6.147069,881827795.0,high,low,high-low
+Togo,TGO,2010,8.896516,3429461495.0,high,low,high-low
+Tonga,TON,2010,1.316914,366840012.0,med,low,med-low
+Trinidad and Tobago,TTO,2010,2.254753,22157948396.0,med,med,med-med
+Tunisia,TUN,2010,1.839904,46206091938.0,med,med,med-med
+Turkey,TUR,2010,1.811281,776992599947.0,med,high,med-high
+Turkmenistan,TKM,2010,4.311668,22583157895.0,high,med,high-med
+Tuvalu,TUV,2010,3.1305530000000004,32104201.0,med,low,med-low
+Uganda,UGA,2010,7.628531,26673441667.0,high,med,high-med
+Ukraine,UKR,2010,1.173133,141209864408.0,low,high,low-high
+United Arab Emirates,ARE,2010,0.8657640000000001,289787452662.0,low,high,low-high
+United Kingdom,GBR,2010,0.516953,2491397494468.0,low,high,low-high
+United States,USA,2010,0.7336820000000001,15048964444000.0,low,high,low-high
+Uruguay,URY,2010,1.071096,40284481652.0,low,med,low-med
+Uzbekistan,UZB,2010,2.8724450000000004,49765676402.0,med,med,med-med
+Vanuatu,VUT,2010,2.9131160000000005,670713208.0,med,low,med-low
+Venezuela,VEN,2010,1.705839,393192354511.0,med,high,med-high
+Vietnam,VNM,2010,2.291529,147201163803.0,med,high,med-high
+Yemen,YEM,2010,5.879103000000001,30906749533.0,high,med,high-med
+Zambia,ZMB,2010,7.901105,20265559484.0,high,med,high-med
+Zimbabwe,ZWE,2010,8.642749,12041655180.0,high,med,high-med
+Afghanistan,AFG,2011,8.397012,18190410821.0,high,med,high-med
+Albania,ALB,2011,1.2146750000000002,12890764531.0,med,med,med-med
+Algeria,DZA,2011,2.670366,200013052199.0,med,high,med-high
+Andorra,AND,2011,0.423767,3629203786.0,low,low,low-low
+Angola,AGO,2011,11.250685,109436566876.0,high,high,high-high
+Antigua and Barbuda,ATG,2011,0.949914,1137637037.0,low,low,low-low
+Argentina,ARG,2011,1.389602,530163281575.0,med,high,med-high
+Armenia,ARM,2011,1.7326160000000002,10142111334.0,med,low,med-low
+Australia,AUS,2011,0.453696,1398405797101.0,low,high,low-high
+Austria,AUT,2011,0.419829,431685217368.0,low,high,low-high
+Azerbaijan,AZE,2011,3.487096,65951627200.0,med,med,med-med
+Bahamas,BHS,2011,1.521305,10070450000.0,med,low,med-low
+Bahrain,BHR,2011,0.8205170000000002,28776595745.0,low,med,low-med
+Bangladesh,BGD,2011,4.667924,128637938711.0,high,high,high-high
+Barbados,BRB,2011,1.484776,4657699450.0,med,low,med-low
+Belarus,BLR,2011,0.5190450000000001,61757788945.0,low,med,low-med
+Belgium,BEL,2011,0.435647,523330354138.0,low,high,low-high
+Belize,BLZ,2011,1.834522,1819500000.0,med,low,med-low
+Benin,BEN,2011,10.666963,10693321370.0,high,low,high-low
+Bhutan,BTN,2011,4.001219,1777101317.0,high,low,high-low
+Bolivia,BOL,2011,3.921292,23963033429.0,high,med,high-med
+Bosnia and Herzegovina,BIH,2011,0.69123,18644723861.0,low,med,low-med
+Botswana,BWA,2011,5.192857,15110716534.0,high,med,high-med
+Brazil,BRA,2011,1.7870280000000005,2616201578192.0,med,high,med-high
+Brunei,BRN,2011,0.983016,18525319978.0,low,med,low-med
+Bulgaria,BGR,2011,1.036507,57678241024.0,low,med,low-med
+Burkina Faso,BFA,2011,11.68658,12080296644.0,high,low,high-low
+Burundi,BDI,2011,8.552652,2235820868.0,high,low,high-low
+Cambodia,KHM,2011,4.053942,12829541141.0,high,med,high-med
+Cameroon,CMR,2011,10.580139,30630912185.0,high,med,high-med
+Canada,CAN,2011,0.565581,1793326630175.0,low,high,low-high
+Cape Verde,CPV,2011,2.523202,1865915544.0,med,low,med-low
+Central African Republic,CAF,2011,14.051377,2437982840.0,high,low,high-low
+Chad,TCD,2011,14.371586,12172309523.0,high,med,high-med
+Chile,CHL,2011,0.854374,251224856981.0,low,high,low-high
+China,CHN,2011,1.457424,7551500124203.0,med,high,med-high
+Colombia,COL,2011,1.7726990000000002,334943877377.0,med,high,med-high
+Comoros,COM,2011,8.197693,1023086184.0,high,low,high-low
+Congo,COG,2011,5.971882000000001,15655384440.0,high,med,high-med
+Costa Rica,CRI,2011,1.022966,42762617082.0,low,med,low-med
+Cote d'Ivoire,CIV,2011,10.308485,36693712825.0,high,med,high-med
+Croatia,HRV,2011,0.531223,63408294943.0,low,med,low-med
+Cuba,CUB,2011,0.62046,68990000000.0,low,med,low-med
+Cyprus,CYP,2011,0.323942,27642086581.0,low,med,low-med
+Czechia,CZE,2011,0.325897,229562733399.0,low,high,low-high
+Democratic Republic of Congo,COD,2011,10.987803,25839749199.0,high,med,high-med
+Denmark,DNK,2011,0.406281,344003137611.0,low,high,low-high
+Djibouti,DJI,2011,7.436751,1239144502.0,high,low,high-low
+Dominica,DMA,2011,2.579001,501025926.0,med,low,med-low
+Dominican Republic,DOM,2011,3.503022,58029750746.0,med,med,med-med
+Ecuador,ECU,2011,1.813246,79276664000.0,med,high,med-high
+Egypt,EGY,2011,2.746713,235989672978.0,med,high,med-high
+El Salvador,SLV,2011,1.845594,20283780000.0,med,med,med-med
+Equatorial Guinea,GNQ,2011,10.738765,21357344847.0,high,med,high-med
+Eritrea,ERI,2011,5.310736,2065001626.0,high,low,high-low
+Estonia,EST,2011,0.420394,23213994093.0,low,med,low-med
+Eswatini,SWZ,2011,7.343267000000001,4820499924.0,high,low,high-low
+Ethiopia,ETH,2011,7.765155,31952763089.0,high,med,high-med
+Fiji,FJI,2011,2.355659,3779378134.0,med,low,med-low
+Finland,FIN,2011,0.28809,275604356167.0,low,high,low-high
+France,FRA,2011,0.415069,2865157541994.0,low,high,low-high
+Gabon,GAB,2011,5.931525000000001,18210308748.0,high,med,high-med
+Gambia,GMB,2011,7.05679,1409694554.0,high,low,high-low
+Georgia,GEO,2011,1.30429,15107441447.0,med,med,med-med
+Germany,DEU,2011,0.409779,3749314991051.0,low,high,low-high
+Ghana,GHA,2011,6.585587,39337314810.0,high,med,high-med
+Greece,GRC,2011,0.396076,282995942007.0,low,high,low-high
+Grenada,GRD,2011,1.528131,778655926.0,med,low,med-low
+Guatemala,GTM,2011,3.338666,46876114650.0,med,med,med-med
+Guinea,GIN,2011,11.530361,6785137173.0,high,low,high-low
+Guinea-Bissau,GNB,2011,10.90965,1099818652.0,high,low,high-low
+Guyana,GUY,2011,3.666186,3691384318.0,med,low,med-low
+Haiti,HTI,2011,7.744044,13008754111.0,high,med,high-med
+Honduras,HND,2011,2.238308,17710315006.0,med,med,med-med
+Hungary,HUN,2011,0.585913,141942264554.0,low,high,low-high
+Iceland,ISL,2011,0.260717,15221622926.0,low,med,low-med
+India,IND,2011,5.503932,1823049927772.0,high,high,high-high
+Indonesia,IDN,2011,3.247723,892969107923.0,med,high,med-high
+Iran,IRN,2011,1.832386,626133114527.0,med,high,med-high
+Iraq,IRQ,2011,3.382743,185749664444.0,med,high,med-high
+Ireland,IRL,2011,0.4071990000000001,239003132208.0,low,high,low-high
+Israel,ISR,2011,0.440004,266791854431.0,low,high,low-high
+Italy,ITA,2011,0.386931,2294994296590.0,low,high,low-high
+Jamaica,JAM,2011,1.7527290000000002,14444655300.0,med,med,med-med
+Japan,JPN,2011,0.321152,6233147172341.0,low,high,low-high
+Jordan,JOR,2011,1.951004,29524149165.0,med,med,med-med
+Kazakhstan,KAZ,2011,1.831079,192626507972.0,med,high,med-high
+Kenya,KEN,2011,5.553279,46869457318.0,high,med,high-med
+Kiribati,KIR,2011,6.332476,180665807.0,high,low,high-low
+Kuwait,KWT,2011,0.996938,154068115942.0,low,high,low-high
+Kyrgyzstan,KGZ,2011,2.770945,6197766119.0,med,low,med-low
+Laos,LAO,2011,6.505711,8750107402.0,high,low,high-low
+Latvia,LVA,2011,0.722127,27474380566.0,low,med,low-med
+Lebanon,LBN,2011,0.973765,39927125961.0,low,med,low-med
+Lesotho,LSO,2011,9.387667,2579421686.0,high,low,high-low
+Liberia,LBR,2011,9.674935,2398000000.0,high,low,high-low
+Libya,LBY,2011,1.943147,48167374612.0,med,med,med-med
+Lithuania,LTU,2011,0.55476,43535051482.0,low,med,low-med
+Luxembourg,LUX,2011,0.27903,61696281326.0,low,med,low-med
+Madagascar,MDG,2011,6.695053000000001,11551819618.0,high,low,high-low
+Malawi,MWI,2011,7.763373,8004000737.0,high,low,high-low
+Malaysia,MYS,2011,0.8001590000000001,297951960784.0,low,high,low-high
+Maldives,MDV,2011,1.293676,2774351760.0,med,low,med-low
+Mali,MLI,2011,12.55625,12995113407.0,high,med,high-med
+Malta,MLT,2011,0.6648160000000001,9638919822.0,low,low,low-low
+Marshall Islands,MHL,2011,3.856014,171567100.0,high,low,high-low
+Mauritania,MRT,2011,9.303409,6764635687.0,high,low,high-low
+Mauritius,MUS,2011,1.4649660000000002,11518393367.0,med,low,med-low
+Mexico,MEX,2011,1.854855,1180489601958.0,med,high,med-high
+Micronesia (country),FSM,2011,3.234406,311301600.0,med,low,med-low
+Moldova,MDA,2011,1.6848500000000002,8414351672.0,med,low,med-low
+Monaco,MCO,2011,0.391165,6088808463.0,low,low,low-low
+Mongolia,MNG,2011,2.4366890000000003,10409797649.0,med,low,med-low
+Montenegro,MNE,2011,0.6052690000000001,4544516982.0,low,low,low-low
+Morocco,MAR,2011,2.945459,101370474295.0,med,high,med-high
+Mozambique,MOZ,2011,10.050167000000002,14381552433.0,high,med,high-med
+Myanmar,MMR,2011,6.103673000000001,54118601975.0,high,med,high-med
+Namibia,NAM,2011,4.888077,12523402329.0,high,med,high-med
+Nauru,NRU,2011,3.685334000000001,66055408.0,high,low,high-low
+Nepal,NPL,2011,4.363589,21573862467.0,high,med,high-med
+Netherlands,NLD,2011,0.429777,905270626333.0,low,high,low-high
+New Zealand,NZL,2011,0.603919,168291357112.0,low,high,low-high
+Nicaragua,NIC,2011,2.291907,9774307336.0,med,low,med-low
+Niger,NER,2011,11.449436,8772951262.0,high,low,high-low
+Nigeria,NGA,2011,13.31306,414466540787.0,high,high,high-high
+North Macedonia,MKD,2011,1.000056,10494632699.0,low,low,low-low
+Norway,NOR,2011,0.313553,498283438454.0,low,high,low-high
+Oman,OMN,2011,1.157348,77497529259.0,low,med,low-med
+Pakistan,PAK,2011,8.503088,213587413184.0,high,high,high-high
+Palau,PLW,2011,2.245803,196911100.0,med,low,med-low
+Palestine,PSE,2011,2.142091,11186100000.0,med,low,med-low
+Panama,PAN,2011,1.9275020000000005,34686224300.0,med,med,med-med
+Papua New Guinea,PNG,2011,5.6487110000000005,17984910502.0,high,med,high-med
+Paraguay,PRY,2011,2.536159,33756238767.0,med,med,med-med
+Peru,PER,2011,1.879129,171761737047.0,med,high,med-high
+Philippines,PHL,2011,3.127847,234216930370.0,med,high,med-high
+Poland,POL,2011,0.566229,524382678547.0,low,high,low-high
+Portugal,PRT,2011,0.374119,245117990242.0,low,high,low-high
+Qatar,QAT,2011,0.892864,167775268626.0,low,high,low-high
+Romania,ROU,2011,1.178714,192614085154.0,med,high,med-high
+Russia,RUS,2011,1.011608,2045925608274.0,low,high,low-high
+Rwanda,RWA,2011,5.858316,6881379762.0,high,low,high-low
+Saint Kitts and Nevis,KNA,2011,1.7403690000000005,836092407.0,med,low,med-low
+Saint Lucia,LCA,2011,2.002093,1576988407.0,med,low,med-low
+Saint Vincent and the Grenadines,VCT,2011,1.9226030000000005,713796370.0,med,low,med-low
+Samoa,WSM,2011,1.923924,744104842.0,med,low,med-low
+San Marino,SMR,2011,0.270428,1813752784.0,low,low,low-low
+Sao Tome and Principe,STP,2011,3.3017200000000004,231489270.0,med,low,med-low
+Saudi Arabia,SAU,2011,1.153102,671238840108.0,low,high,low-high
+Senegal,SEN,2011,6.207417,17814284622.0,high,med,high-med
+Serbia,SRB,2011,0.736715,49258136129.0,low,med,low-med
+Seychelles,SYC,2011,1.422012,1065826670.0,med,low,med-low
+Sierra Leone,SLE,2011,15.376809000000002,2942546781.0,high,low,high-low
+Singapore,SGP,2011,0.280956,279351168707.0,low,high,low-high
+Slovakia,SVK,2011,0.6804060000000001,99922685425.0,low,high,low-high
+Slovenia,SVN,2011,0.307916,51583869785.0,low,med,low-med
+Solomon Islands,SLB,2011,2.56425,1063889652.0,med,low,med-low
+South Africa,ZAF,2011,4.560773,458201514137.0,high,high,high-high
+South Korea,KOR,2011,0.397758,1253223044719.0,low,high,low-high
+South Sudan,SSD,2011,10.346659,14907308933.0,high,med,high-med
+Spain,ESP,2011,0.369667,1480710495710.0,low,high,low-high
+Sri Lanka,LKA,2011,1.0927360000000002,67753288946.0,low,med,low-med
+Sudan,SDN,2011,7.367174,78403418360.0,high,high,high-high
+Suriname,SUR,2011,2.254633,4422276622.0,med,low,med-low
+Sweden,SWE,2011,0.30055,574094112973.0,low,high,low-high
+Switzerland,CHE,2011,0.449426,715888126682.0,low,high,low-high
+Syria,SYR,2011,2.006676,67539427671.0,med,med,med-med
+Tajikistan,TJK,2011,4.141015,6522732203.0,high,low,high-low
+Tanzania,TZA,2011,6.841564,34657141721.0,high,med,high-med
+Thailand,THA,2011,1.295921,370819140947.0,med,high,med-high
+Timor,TLS,2011,5.884515,1042411479.0,high,low,high-low
+Togo,TGO,2011,8.624536,3872459250.0,high,low,high-low
+Tonga,TON,2011,1.29447,414523388.0,med,low,med-low
+Trinidad and Tobago,TTO,2011,2.183775,25433011405.0,med,med,med-med
+Tunisia,TUN,2011,1.802924,48122744708.0,med,med,med-med
+Turkey,TUR,2011,1.688898,838762755164.0,med,high,med-high
+Turkmenistan,TKM,2011,4.245934,29233333333.0,high,med,high-med
+Tuvalu,TUV,2011,3.006984,39195462.0,med,low,med-low
+Uganda,UGA,2011,7.161042000000001,27871725206.0,high,med,high-med
+Ukraine,UKR,2011,1.118253,169333048848.0,low,high,low-high
+United Arab Emirates,ARE,2011,0.840724,350666058380.0,low,high,low-high
+United Kingdom,GBR,2011,0.4971,2666403005061.0,low,high,low-high
+United States,USA,2011,0.720557,15599728123000.0,low,high,low-high
+Uruguay,URY,2011,1.031827,47962439304.0,low,med,low-med
+Uzbekistan,UZB,2011,2.643641,60178909297.0,med,med,med-med
+Vanuatu,VUT,2011,2.927849,770153304.0,med,low,med-low
+Venezuela,VEN,2011,1.715205,316482190800.0,med,high,med-high
+Vietnam,VNM,2011,2.2672350000000003,172595034069.0,med,high,med-high
+Yemen,YEM,2011,5.854157000000001,32726417878.0,high,med,high-med
+Zambia,ZMB,2011,7.684748000000001,23459515276.0,high,med,high-med
+Zimbabwe,ZWE,2011,8.075601,14101920310.0,high,med,high-med
+Afghanistan,AFG,2012,8.033996,20203572960.0,high,med,high-med
+Albania,ALB,2012,1.118314,12319830437.0,low,low,low-low
+Algeria,DZA,2012,2.616549,209058991952.0,med,high,med-high
+Andorra,AND,2012,0.398954,3188808943.0,low,low,low-low
+Angola,AGO,2012,10.50805,124998210652.0,high,high,high-high
+Antigua and Barbuda,ATG,2012,0.9001220000000001,1199948148.0,low,low,low-low
+Argentina,ARG,2012,1.328583,545982375701.0,med,high,med-high
+Armenia,ARM,2012,1.6445820000000002,10619320049.0,med,low,med-low
+Australia,AUS,2012,0.432011,1546892142710.0,low,high,low-high
+Austria,AUT,2012,0.404479,409401816051.0,low,high,low-high
+Azerbaijan,AZE,2012,3.2510190000000003,69683935845.0,med,med,med-med
+Bahamas,BHS,2012,1.48943,10720500000.0,med,low,med-low
+Bahrain,BHR,2012,0.7975650000000001,30749308511.0,low,med,low-med
+Bangladesh,BGD,2012,4.4374080000000005,133355749482.0,high,high,high-high
+Barbados,BRB,2012,1.471303,4610096000.0,med,low,med-low
+Belarus,BLR,2012,0.4855400000000001,65685102555.0,low,med,low-med
+Belgium,BEL,2012,0.42659,496152879925.0,low,high,low-high
+Belize,BLZ,2012,1.767305,1903000000.0,med,low,med-low
+Benin,BEN,2012,10.436839,11141358106.0,high,low,high-low
+Bhutan,BTN,2012,3.797327,1781281282.0,high,low,high-low
+Bolivia,BOL,2012,3.697421,27084497482.0,high,med,high-med
+Bosnia and Herzegovina,BIH,2012,0.667643,17226849166.0,low,med,low-med
+Botswana,BWA,2012,5.084160000000001,13907510006.0,high,med,high-med
+Brazil,BRA,2012,1.723587,2465188674415.0,med,high,med-high
+Brunei,BRN,2012,0.99925,19047940301.0,low,med,low-med
+Bulgaria,BGR,2012,0.983645,54300857424.0,low,med,low-med
+Burkina Faso,BFA,2012,11.246675000000002,12561016091.0,high,med,high-med
+Burundi,BDI,2012,8.030579000000001,2333341375.0,high,low,high-low
+Cambodia,KHM,2012,3.768805,14054443213.0,high,med,high-med
+Cameroon,CMR,2012,10.134625,30155064574.0,high,med,high-med
+Canada,CAN,2012,0.558312,1828366481522.0,low,high,low-high
+Cape Verde,CPV,2012,2.3960000000000004,1741809809.0,med,low,med-low
+Central African Republic,CAF,2012,13.617741000000002,2510126699.0,high,low,high-low
+Chad,TCD,2012,13.978798,12367363678.0,high,med,high-med
+Chile,CHL,2012,0.8402290000000001,267175872540.0,low,high,low-high
+China,CHN,2012,1.3486140000000002,8532229986994.0,med,high,med-high
+Colombia,COL,2012,1.7140080000000002,370921317943.0,med,high,med-high
+Comoros,COM,2012,7.942917,1015843369.0,high,low,high-low
+Congo,COG,2012,5.792839000000001,17692912613.0,high,med,high-med
+Costa Rica,CRI,2012,0.99223,47231651863.0,low,med,low-med
+Cote d'Ivoire,CIV,2012,10.009763,36302305578.0,high,med,high-med
+Croatia,HRV,2012,0.517819,57369359295.0,low,med,low-med
+Cuba,CUB,2012,0.6056010000000001,73141000000.0,low,med,low-med
+Cyprus,CYP,2012,0.311401,25048659900.0,low,med,low-med
+Czechia,CZE,2012,0.317614,208857719321.0,low,high,low-high
+Democratic Republic of Congo,COD,2012,10.614898,29306235826.0,high,med,high-med
+Denmark,DNK,2012,0.406491,327148943812.0,low,high,low-high
+Djibouti,DJI,2012,7.217529000000001,1353632942.0,high,low,high-low
+Dominica,DMA,2012,2.709496,485996296.0,med,low,med-low
+Dominican Republic,DOM,2012,3.497318,60681537196.0,med,med,med-med
+Ecuador,ECU,2012,1.7336010000000002,87924544000.0,med,high,med-high
+Egypt,EGY,2012,2.6319030000000003,279116666667.0,med,high,med-high
+El Salvador,SLV,2012,1.7572500000000002,21386150000.0,med,med,med-med
+Equatorial Guinea,GNQ,2012,10.359422000000002,22388345810.0,high,med,high-med
+Estonia,EST,2012,0.386138,23019150071.0,low,med,low-med
+Eswatini,SWZ,2012,6.598904000000001,4886533033.0,high,low,high-low
+Ethiopia,ETH,2012,7.349798,43310721414.0,high,med,high-med
+Fiji,FJI,2012,2.354324,3972012571.0,med,low,med-low
+Finland,FIN,2012,0.275784,258290060228.0,low,high,low-high
+France,FRA,2012,0.411305,2683671716967.0,low,high,low-high
+Gabon,GAB,2012,5.710304000000001,17170465294.0,high,med,high-med
+Gambia,GMB,2012,6.771651,1415006238.0,high,low,high-low
+Georgia,GEO,2012,1.213203,16488403076.0,med,med,med-med
+Germany,DEU,2012,0.403704,3527143188785.0,low,high,low-high
+Ghana,GHA,2012,6.2712330000000005,41270954737.0,high,med,high-med
+Greece,GRC,2012,0.402394,242029307133.0,low,high,low-high
+Grenada,GRD,2012,1.5509510000000002,799882259.0,med,low,med-low
+Guatemala,GTM,2012,3.2015580000000003,49593961142.0,med,med,med-med
+Guinea,GIN,2012,11.296448,7638045254.0,high,low,high-low
+Guinea-Bissau,GNB,2012,10.41581,989271230.0,high,low,high-low
+Guyana,GUY,2012,3.5853560000000004,4063089192.0,med,low,med-low
+Haiti,HTI,2012,7.559444000000001,13708926466.0,high,med,high-med
+Honduras,HND,2012,2.153004,18528601901.0,med,med,med-med
+Hungary,HUN,2012,0.574598,128814279315.0,low,high,low-high
+Iceland,ISL,2012,0.25186,14751508134.0,low,med,low-med
+India,IND,2012,5.196518,1827637859506.0,high,high,high-high
+Indonesia,IDN,2012,3.12097,917869910106.0,med,high,med-high
+Iran,IRN,2012,1.748641,644035510448.0,med,high,med-high
+Iraq,IRQ,2012,3.276702,218002481738.0,med,high,med-high
+Ireland,IRL,2012,0.398073,225628699653.0,low,high,low-high
+Israel,ISR,2012,0.4254800000000001,262282344092.0,low,high,low-high
+Italy,ITA,2012,0.377238,2086957656822.0,low,high,low-high
+Jamaica,JAM,2012,1.7026250000000005,14807086889.0,med,med,med-med
+Japan,JPN,2012,0.300726,6272362996105.0,low,high,low-high
+Jordan,JOR,2012,1.896442,31634561670.0,med,med,med-med
+Kazakhstan,KAZ,2012,1.633406,207998568866.0,med,high,med-high
+Kenya,KEN,2012,5.405203,56396706006.0,high,med,high-med
+Kiribati,KIR,2012,6.211185,189630151.0,high,low,high-low
+Kuwait,KWT,2012,0.95625,174070382279.0,low,high,low-high
+Kyrgyzstan,KGZ,2012,2.613595,6605139933.0,med,low,med-low
+Laos,LAO,2012,6.193466000000001,10192848926.0,high,low,high-low
+Latvia,LVA,2012,0.6606860000000001,28169902669.0,low,med,low-med
+Lebanon,LBN,2012,0.931177,44016799516.0,low,med,low-med
+Lesotho,LSO,2012,9.269279,2477702253.0,high,low,high-low
+Liberia,LBR,2012,9.420113,2791614000.0,high,low,high-low
+Libya,LBY,2012,1.501429,92538004280.0,med,high,med-high
+Lithuania,LTU,2012,0.5199090000000001,42927454291.0,low,med,low-med
+Luxembourg,LUX,2012,0.276692,59776383527.0,low,med,low-med
+Madagascar,MDG,2012,6.477269,11578974888.0,high,low,high-low
+Malawi,MWI,2012,7.0671610000000005,6028487929.0,high,low,high-low
+Malaysia,MYS,2012,0.796139,314443149443.0,low,high,low-high
+Maldives,MDV,2012,1.2107210000000002,2886170572.0,med,low,med-low
+Mali,MLI,2012,12.099146,12442036265.0,high,med,high-med
+Malta,MLT,2012,0.662447,9462289606.0,low,low,low-low
+Marshall Islands,MHL,2012,3.794188,179855800.0,high,low,high-low
+Mauritania,MRT,2012,9.051528,6728208836.0,high,low,high-low
+Mauritius,MUS,2012,1.494699,11668685524.0,med,low,med-low
+Mexico,MEX,2012,1.793123,1201089987015.0,med,high,med-high
+Micronesia (country),FSM,2012,3.161451,327248700.0,med,low,med-low
+Moldova,MDA,2012,1.6532990000000003,8709138765.0,med,low,med-low
+Monaco,MCO,2012,0.382239,5743029680.0,low,low,low-low
+Mongolia,MNG,2012,2.276991,12292770631.0,med,low,med-low
+Montenegro,MNE,2012,0.546458,4087725813.0,low,low,low-low
+Morocco,MAR,2012,2.781832,98266306615.0,med,high,med-high
+Mozambique,MOZ,2012,9.6312,16350804543.0,high,med,high-med
+Myanmar,MMR,2012,5.8578220000000005,58318677645.0,high,med,high-med
+Namibia,NAM,2012,5.046666,13042007432.0,high,med,high-med
+Nauru,NRU,2012,3.600772,96927201.0,high,low,high-low
+Nepal,NPL,2012,4.146022,21703106502.0,high,med,high-med
+Netherlands,NLD,2012,0.420288,838923319920.0,low,high,low-high
+New Zealand,NZL,2012,0.5927450000000001,176206659723.0,low,high,low-high
+Nicaragua,NIC,2012,2.1971800000000004,10532006608.0,med,low,med-low
+Niger,NER,2012,10.817202000000002,9426913349.0,high,low,high-low
+Nigeria,NGA,2012,13.110955000000002,463971000389.0,high,high,high-high
+North Macedonia,MKD,2012,1.014085,9745251126.0,low,low,low-low
+Norway,NOR,2012,0.301675,509506317147.0,low,high,low-high
+Oman,OMN,2012,1.143866,87408842653.0,med,med,med-med
+Pakistan,PAK,2012,8.283213000000002,224383620830.0,high,high,high-high
+Palau,PLW,2012,2.180671,212397800.0,med,low,med-low
+Palestine,PSE,2012,2.083057,12208400000.0,med,low,med-low
+Panama,PAN,2012,1.872145,40429700000.0,med,med,med-med
+Papua New Guinea,PNG,2012,5.516008,21295659244.0,high,med,high-med
+Paraguay,PRY,2012,2.455831,33271921136.0,med,med,med-med
+Peru,PER,2012,1.790108,192648999090.0,med,high,med-high
+Philippines,PHL,2012,3.0858950000000003,261920509951.0,med,high,med-high
+Poland,POL,2012,0.542395,495236910794.0,low,high,low-high
+Portugal,PRT,2012,0.36865,216224240578.0,low,high,low-high
+Qatar,QAT,2012,0.8699370000000001,186833502363.0,low,high,low-high
+Romania,ROU,2012,1.121092,179132893143.0,med,high,med-high
+Russia,RUS,2012,0.983451,2208295773643.0,low,high,low-high
+Rwanda,RWA,2012,5.492744,7650671477.0,high,low,high-low
+Saint Kitts and Nevis,KNA,2012,1.7350370000000002,826231630.0,med,low,med-low
+Saint Lucia,LCA,2012,2.042842,1605146778.0,med,low,med-low
+Saint Vincent and the Grenadines,VCT,2012,1.859598,730032593.0,med,low,med-low
+Samoa,WSM,2012,1.911351,773157453.0,med,low,med-low
+San Marino,SMR,2012,0.256208,1604779648.0,low,low,low-low
+Sao Tome and Principe,STP,2012,3.0189800000000004,250680846.0,med,low,med-low
+Saudi Arabia,SAU,2012,1.084987,735974843349.0,low,high,low-high
+Senegal,SEN,2012,5.865158000000001,17660871726.0,high,med,high-med
+Serbia,SRB,2012,0.711817,43309252921.0,low,med,low-med
+Seychelles,SYC,2012,1.4364670000000002,1059498884.0,med,low,med-low
+Sierra Leone,SLE,2012,14.725205,3801862611.0,high,low,high-low
+Singapore,SGP,2012,0.277957,295087220933.0,low,high,low-high
+Slovakia,SVK,2012,0.664101,94623731086.0,low,high,low-high
+Slovenia,SVN,2012,0.293914,46577793184.0,low,med,low-med
+Solomon Islands,SLB,2012,2.4889690000000004,1185215902.0,med,low,med-low
+South Africa,ZAF,2012,4.145279,434400545086.0,high,high,high-high
+South Korea,KOR,2012,0.384659,1278427634343.0,low,high,low-high
+South Sudan,SSD,2012,10.004898,11931472169.0,high,low,high-low
+Spain,ESP,2012,0.356583,1324750738725.0,low,high,low-high
+Sri Lanka,LKA,2012,1.04034,70447191496.0,low,med,low-med
+Sudan,SDN,2012,7.169201,63195499524.0,high,med,high-med
+Suriname,SUR,2012,2.196113,4980000000.0,med,low,med-low
+Sweden,SWE,2012,0.296505,552483727283.0,low,high,low-high
+Switzerland,CHE,2012,0.443954,686420221558.0,low,high,low-high
+Syria,SYR,2012,3.699901,43190317725.0,high,med,high-med
+Tajikistan,TJK,2012,4.032631,7633049792.0,high,low,high-low
+Tanzania,TZA,2012,6.532615,39650522646.0,high,med,high-med
+Thailand,THA,2012,1.23744,397558222957.0,med,high,med-high
+Timor,TLS,2012,5.63482,1160389551.0,high,low,high-low
+Togo,TGO,2012,8.35362,3873308389.0,high,low,high-low
+Tonga,TON,2012,1.278478,470714083.0,med,low,med-low
+Trinidad and Tobago,TTO,2012,2.122167,27121712423.0,med,med,med-med
+Tunisia,TUN,2012,1.7728960000000002,47311159485.0,med,med,med-med
+Turkey,TUR,2012,1.5770270000000002,880556375780.0,med,high,med-high
+Turkmenistan,TKM,2012,4.204924,35164210526.0,high,med,high-med
+Tuvalu,TUV,2012,2.8980910000000004,39345620.0,med,low,med-low
+Uganda,UGA,2012,6.668335000000001,27305915761.0,high,med,high-med
+Ukraine,UKR,2012,1.067031,182592416469.0,low,high,low-high
+United Arab Emirates,ARE,2012,0.817625,384610125384.0,low,high,low-high
+United Kingdom,GBR,2012,0.479573,2706340967031.0,low,high,low-high
+United States,USA,2012,0.7085110000000001,16253972230000.0,low,high,low-high
+Uruguay,URY,2012,0.998327,51264390116.0,low,med,low-med
+Uzbekistan,UZB,2012,2.435594,67517349212.0,med,med,med-med
+Vanuatu,VUT,2012,2.934059,747839698.0,med,low,med-low
+Venezuela,VEN,2012,1.732896,381286237848.0,med,high,med-high
+Vietnam,VNM,2012,2.2440010000000004,195590647206.0,med,high,med-high
+Yemen,YEM,2012,5.877569,35401323350.0,high,med,high-med
+Zambia,ZMB,2012,7.470505,25503060420.0,high,med,high-med
+Zimbabwe,ZWE,2012,7.216295,17114849880.0,high,med,high-med
+Afghanistan,AFG,2013,7.687090000000001,20564485419.0,high,med,high-med
+Albania,ALB,2013,1.042445,12776220507.0,low,low,low-low
+Algeria,DZA,2013,2.5777780000000003,209755003251.0,med,high,med-high
+Andorra,AND,2013,0.375831,3193704343.0,low,low,low-low
+Angola,AGO,2013,9.853291,133401582620.0,high,high,high-high
+Antigua and Barbuda,ATG,2013,0.8538190000000001,1181448148.0,low,low,low-low
+Argentina,ARG,2013,1.267062,552025140252.0,med,high,med-high
+Armenia,ARM,2013,1.561661,11121465767.0,med,low,med-low
+Australia,AUS,2013,0.4129,1576380424746.0,low,high,low-high
+Austria,AUT,2013,0.389344,430190979706.0,low,high,low-high
+Azerbaijan,AZE,2013,3.0273610000000004,74164435946.0,med,med,med-med
+Bahamas,BHS,2013,1.458031,10562800000.0,med,low,med-low
+Bahrain,BHR,2013,0.780983,32539468085.0,low,med,low-med
+Bangladesh,BGD,2013,4.217669,149990451022.0,high,high,high-high
+Barbados,BRB,2013,1.455012,4677248300.0,med,low,med-low
+Belarus,BLR,2013,0.457273,75527984234.0,low,med,low-med
+Belgium,BEL,2013,0.4178,521791015247.0,low,high,low-high
+Belize,BLZ,2013,1.692819,2029500000.0,med,low,med-low
+Benin,BEN,2013,10.208662,12517845128.0,high,low,high-low
+Bhutan,BTN,2013,3.615025,1756215665.0,high,low,high-low
+Bolivia,BOL,2013,3.4888840000000005,30659338886.0,med,med,med-med
+Bosnia and Herzegovina,BIH,2013,0.649937,18178503835.0,low,med,low-med
+Botswana,BWA,2013,4.961633,14271752527.0,high,med,high-med
+Brazil,BRA,2013,1.671193,2472806919902.0,med,high,med-high
+Brunei,BRN,2013,1.01729,18093829923.0,low,med,low-med
+Bulgaria,BGR,2013,0.925275,55810138436.0,low,med,low-med
+Burkina Faso,BFA,2013,10.834002,13444301139.0,high,med,high-med
+Burundi,BDI,2013,7.553337000000001,2451606684.0,high,low,high-low
+Cambodia,KHM,2013,3.534189,15227991395.0,high,med,high-med
+Cameroon,CMR,2013,9.673785,33728622819.0,high,med,high-med
+Canada,CAN,2013,0.5508510000000001,1846597421835.0,low,high,low-high
+Cape Verde,CPV,2013,2.252966,1850470042.0,med,low,med-low
+Central African Republic,CAF,2013,13.250078,1691544192.0,high,low,high-low
+Chad,TCD,2013,13.594792000000002,12953535496.0,high,med,high-med
+Chile,CHL,2013,0.826582,277239461340.0,low,high,low-high
+China,CHN,2013,1.2487500000000002,9570406235660.0,med,high,med-high
+Colombia,COL,2013,1.657591,382116120909.0,med,high,med-high
+Comoros,COM,2013,7.686638999999999,1116224161.0,high,low,high-low
+Congo,COG,2013,5.618670000000001,17958721572.0,high,med,high-med
+Costa Rica,CRI,2013,0.960766,50949672206.0,low,med,low-med
+Cote d'Ivoire,CIV,2013,9.695385000000002,42760237561.0,high,med,high-med
+Croatia,HRV,2013,0.506923,59032066092.0,low,med,low-med
+Cuba,CUB,2013,0.591597,77148000000.0,low,med,low-med
+Cyprus,CYP,2013,0.301619,23961144906.0,low,med,low-med
+Czechia,CZE,2013,0.313492,211685616593.0,low,high,low-high
+Democratic Republic of Congo,COD,2013,10.252703,32679745298.0,high,med,high-med
+Denmark,DNK,2013,0.40872,343584391648.0,low,high,low-high
+Djibouti,DJI,2013,7.014130000000001,2042817163.0,high,low,high-low
+Dominica,DMA,2013,2.844636,498296296.0,med,low,med-low
+Dominican Republic,DOM,2013,3.497109,62682163837.0,med,med,med-med
+Ecuador,ECU,2013,1.660961,95129659000.0,med,high,med-high
+Egypt,EGY,2013,2.5256450000000004,288434108527.0,med,high,med-high
+El Salvador,SLV,2013,1.6787109999999998,21990960000.0,med,med,med-med
+Equatorial Guinea,GNQ,2013,10.020879,21948835350.0,high,med,high-med
+Estonia,EST,2013,0.356397,25115753366.0,low,med,low-med
+Eswatini,SWZ,2013,6.2539940000000005,4597532030.0,high,low,high-low
+Ethiopia,ETH,2013,6.958098,47648211133.0,high,med,high-med
+Fiji,FJI,2013,2.366405,4189915667.0,med,low,med-low
+Finland,FIN,2013,0.265178,271362405891.0,low,high,low-high
+France,FRA,2013,0.410356,2811876903329.0,low,high,low-high
+Gabon,GAB,2013,5.491459,17595745653.0,high,med,high-med
+Gambia,GMB,2013,6.498856000000001,1375608956.0,high,low,high-low
+Georgia,GEO,2013,1.1435190000000002,17189551521.0,med,med,med-med
+Germany,DEU,2013,0.399078,3733804649549.0,low,high,low-high
+Ghana,GHA,2013,5.978686,62823043706.0,high,med,high-med
+Greece,GRC,2013,0.412772,238907690051.0,low,high,low-high
+Grenada,GRD,2013,1.575175,842620111.0,med,low,med-low
+Guatemala,GTM,2013,3.0701650000000003,52996540704.0,med,med,med-med
+Guinea,GIN,2013,11.072643,8376613843.0,high,low,high-low
+Guinea-Bissau,GNB,2013,9.967454,1046087418.0,high,low,high-low
+Guyana,GUY,2013,3.4991000000000003,4167800259.0,med,low,med-low
+Haiti,HTI,2013,7.373744999999999,14902474091.0,high,med,high-med
+Honduras,HND,2013,2.073304,18499710128.0,med,med,med-med
+Hungary,HUN,2013,0.5609190000000001,135684315698.0,low,high,low-high
+Iceland,ISL,2013,0.243671,16125060515.0,low,med,low-med
+India,IND,2013,4.903101,1856722121394.0,high,high,high-high
+Indonesia,IDN,2013,2.997892,912524136718.0,med,high,med-high
+Iran,IRN,2013,1.676409,492775565650.0,med,high,med-high
+Iraq,IRQ,2013,3.1722330000000003,234637675129.0,med,high,med-high
+Ireland,IRL,2013,0.389798,238340859897.0,low,high,low-high
+Israel,ISR,2013,0.412532,297732778479.0,low,high,low-high
+Italy,ITA,2013,0.367418,2141924094299.0,low,high,low-high
+Jamaica,JAM,2013,1.649032,14264202737.0,med,med,med-med
+Japan,JPN,2013,0.291426,5212328181166.0,low,high,low-high
+Jordan,JOR,2013,1.844484,34454440181.0,med,med,med-med
+Kazakhstan,KAZ,2013,1.455113,236634552078.0,med,high,med-high
+Kenya,KEN,2013,5.229949,61671425370.0,high,med,high-med
+Kiribati,KIR,2013,6.075239,184550782.0,high,low,high-low
+Kuwait,KWT,2013,0.920335,174161142454.0,low,high,low-high
+Kyrgyzstan,KGZ,2013,2.474178,7335027592.0,med,low,med-low
+Laos,LAO,2013,5.901008000000001,11983252611.0,high,low,high-low
+Latvia,LVA,2013,0.601118,30204783462.0,low,med,low-med
+Lebanon,LBN,2013,0.895069,46880103081.0,low,med,low-med
+Lesotho,LSO,2013,9.255065,2367113170.0,high,low,high-low
+Liberia,LBR,2013,9.195441,3177198100.0,high,low,high-low
+Libya,LBY,2013,1.4375710000000002,75350633011.0,med,med,med-med
+Lithuania,LTU,2013,0.500263,46523420074.0,low,med,low-med
+Luxembourg,LUX,2013,0.275617,65203276467.0,low,med,low-med
+Madagascar,MDG,2013,6.271888000000001,12423555269.0,high,low,high-low
+Malawi,MWI,2013,6.344806,5518880769.0,high,low,high-low
+Malaysia,MYS,2013,0.7958000000000001,323277158907.0,low,high,low-high
+Maldives,MDV,2013,1.13185,3295011382.0,med,low,med-low
+Mali,MLI,2013,11.660517,13242691430.0,high,med,high-med
+Malta,MLT,2013,0.660664,10551600478.0,low,low,low-low
+Marshall Islands,MHL,2013,3.7173,185468000.0,high,low,high-low
+Mauritania,MRT,2013,8.774484,7223063170.0,high,low,high-low
+Mauritius,MUS,2013,1.5020920000000002,12292957324.0,med,low,med-low
+Mexico,MEX,2013,1.733813,1274443084717.0,med,high,med-high
+Micronesia (country),FSM,2013,3.071981,317214400.0,med,low,med-low
+Moldova,MDA,2013,1.6261260000000002,9496717702.0,med,low,med-low
+Monaco,MCO,2013,0.372842,6555983530.0,low,low,low-low
+Mongolia,MNG,2013,2.146513,12582122604.0,med,low,med-low
+Montenegro,MNE,2013,0.492071,4466039315.0,low,low,low-low
+Morocco,MAR,2013,2.628702,106825649872.0,med,high,med-high
+Mozambique,MOZ,2013,9.229392,16974320551.0,high,med,high-med
+Myanmar,MMR,2013,5.622852000000001,60572257122.0,high,med,high-med
+Namibia,NAM,2013,4.905644000000001,12043276401.0,high,low,high-low
+Nauru,NRU,2013,3.513357,98491844.0,high,low,high-low
+Nepal,NPL,2013,3.938887,22162208956.0,high,med,high-med
+Netherlands,NLD,2013,0.412988,877172824535.0,low,high,low-high
+New Zealand,NZL,2013,0.5802710000000001,190906575136.0,low,high,low-high
+Nicaragua,NIC,2013,2.1078900000000003,10982979274.0,med,low,med-low
+Niger,NER,2013,10.266041,10224897935.0,high,low,high-low
+Nigeria,NGA,2013,12.942366000000002,520117163618.0,high,high,high-high
+North Macedonia,MKD,2013,1.064637,10817712139.0,med,low,med-low
+Norway,NOR,2013,0.291353,522761531915.0,low,high,low-high
+Oman,OMN,2013,1.132301,89936020806.0,med,high,med-high
+Pakistan,PAK,2013,8.059879,231218567179.0,high,high,high-high
+Palau,PLW,2013,2.117017,221117200.0,med,low,med-low
+Palestine,PSE,2013,2.025389,13515500000.0,med,med,med-med
+Panama,PAN,2013,1.810148,45599900000.0,med,med,med-med
+Papua New Guinea,PNG,2013,5.379893,21261432791.0,high,med,high-med
+Paraguay,PRY,2013,2.378733,38501122141.0,med,med,med-med
+Peru,PER,2013,1.709715,201175469114.0,med,high,med-high
+Philippines,PHL,2013,3.048738,283902728261.0,med,high,med-high
+Poland,POL,2013,0.521605,515764728216.0,low,high,low-high
+Portugal,PRT,2013,0.365542,226433858006.0,low,high,low-high
+Qatar,QAT,2013,0.843892,198727642967.0,low,high,low-high
+Romania,ROU,2013,1.058978,189790228072.0,low,high,low-high
+Russia,RUS,2013,0.944794,2292473246621.0,low,high,low-high
+Rwanda,RWA,2013,5.201091000000001,7815975294.0,high,low,high-low
+Saint Kitts and Nevis,KNA,2013,1.7295380000000002,875376407.0,med,low,med-low
+Saint Lucia,LCA,2013,2.088099,1664816741.0,med,low,med-low
+Saint Vincent and the Grenadines,VCT,2013,1.797207,764781259.0,med,low,med-low
+Samoa,WSM,2013,1.892567,797728653.0,med,low,med-low
+San Marino,SMR,2013,0.243313,1678841812.0,low,low,low-low
+Sao Tome and Principe,STP,2013,2.7707770000000003,300554484.0,med,low,med-low
+Saudi Arabia,SAU,2013,1.021815,746647127408.0,low,high,low-high
+Senegal,SEN,2013,5.539921,18918668644.0,high,med,high-med
+Serbia,SRB,2013,0.685206,48394239475.0,low,med,low-med
+Seychelles,SYC,2013,1.45052,1328091522.0,med,low,med-low
+Sierra Leone,SLE,2013,14.121751,4920343195.0,high,low,high-low
+Singapore,SGP,2013,0.275346,307576360585.0,low,high,low-high
+Slovakia,SVK,2013,0.649581,98935222175.0,low,high,low-high
+Slovenia,SVN,2013,0.28104,48415657265.0,low,med,low-med
+Solomon Islands,SLB,2013,2.4174480000000003,1285917750.0,med,low,med-low
+Somalia,SOM,2013,14.297709,4577000000.0,high,low,high-low
+South Africa,ZAF,2013,3.925975,400886013596.0,high,high,high-high
+South Korea,KOR,2013,0.37269,1370795199976.0,low,high,low-high
+South Sudan,SSD,2013,9.834397,18426469017.0,high,med,high-med
+Spain,ESP,2013,0.345587,1355579535913.0,low,high,low-high
+Sri Lanka,LKA,2013,0.983685,77000596661.0,low,med,low-med
+Sudan,SDN,2013,6.9786980000000005,66026600235.0,high,med,high-med
+Suriname,SUR,2013,2.1400300000000003,5145757576.0,med,low,med-low
+Sweden,SWE,2013,0.293124,586841821797.0,low,high,low-high
+Switzerland,CHE,2013,0.439191,706234937371.0,low,high,low-high
+Syria,SYR,2013,4.5253760000000005,21361254648.0,high,med,high-med
+Tajikistan,TJK,2013,3.938498,8448469838.0,high,low,high-low
+Tanzania,TZA,2013,6.266940000000001,45680532614.0,high,med,high-med
+Thailand,THA,2013,1.182763,420333203150.0,med,high,med-high
+Timor,TLS,2013,5.419106,1395519568.0,high,low,high-low
+Togo,TGO,2013,8.092448000000001,4321655656.0,high,low,high-low
+Tonga,TON,2013,1.2635310000000002,450643615.0,med,low,med-low
+Trinidad and Tobago,TTO,2013,2.062314,28557451143.0,med,med,med-med
+Tunisia,TUN,2013,1.74942,48684187850.0,med,med,med-med
+Turkey,TUR,2013,1.474987,957783020853.0,med,high,med-high
+Turkmenistan,TKM,2013,4.194854,39197543860.0,high,med,high-med
+Tuvalu,TUV,2013,2.7891380000000003,38617494.0,med,low,med-low
+Uganda,UGA,2013,6.232054000000001,28915786997.0,high,med,high-med
+Ukraine,UKR,2013,1.0215120000000002,190498811460.0,low,high,low-high
+United Arab Emirates,ARE,2013,0.797008,400218529748.0,low,high,low-high
+United Kingdom,GBR,2013,0.465156,2786315215250.0,low,high,low-high
+United States,USA,2013,0.697737,16843190993000.0,low,high,low-high
+Uruguay,URY,2013,0.965929,57531233351.0,low,med,low-med
+Uzbekistan,UZB,2013,2.2486360000000003,73180036692.0,med,med,med-med
+Vanuatu,VUT,2013,2.912275,758304466.0,med,low,med-low
+Venezuela,VEN,2013,1.761494,371005379787.0,med,high,med-high
+Vietnam,VNM,2013,2.222217,213708830437.0,med,high,med-high
+Yemen,YEM,2013,5.838862000000001,40415233436.0,high,med,high-med
+Zambia,ZMB,2013,7.1062140000000005,28037239463.0,high,med,high-med
+Zimbabwe,ZWE,2013,6.629513,19091019990.0,high,med,high-med
+Afghanistan,AFG,2014,7.360150000000001,20550582747.0,high,med,high-med
+Albania,ALB,2014,0.988653,13228147516.0,low,low,low-low
+Algeria,DZA,2014,2.547385,213810024944.0,med,high,med-high
+Andorra,AND,2014,0.354269,3271808157.0,low,low,low-low
+Angola,AGO,2014,9.287292,137244439121.0,high,high,high-high
+Antigua and Barbuda,ATG,2014,0.8111520000000001,1249733333.0,low,low,low-low
+Argentina,ARG,2014,1.207864,526319673732.0,med,high,med-high
+Armenia,ARM,2014,1.484185,11609512940.0,med,low,med-low
+Australia,AUS,2014,0.397909,1467545212522.0,low,high,low-high
+Austria,AUT,2014,0.376478,442584815286.0,low,high,low-high
+Azerbaijan,AZE,2014,2.817347,75244294275.0,med,med,med-med
+Bahamas,BHS,2014,1.4280720000000002,11176100000.0,med,low,med-low
+Bahrain,BHR,2014,0.768711,33387712766.0,low,med,low-med
+Bangladesh,BGD,2014,4.008742000000001,172885454931.0,high,high,high-high
+Barbados,BRB,2014,1.431944,4696344350.0,med,low,med-low
+Belarus,BLR,2014,0.432378,78813839984.0,low,med,low-med
+Belgium,BEL,2014,0.410649,535390200131.0,low,high,low-high
+Belize,BLZ,2014,1.6121990000000002,2138000000.0,med,low,med-low
+Benin,BEN,2014,9.982186,13284527850.0,high,low,high-low
+Bhutan,BTN,2014,3.459097,1907090813.0,high,low,high-low
+Bolivia,BOL,2014,3.300215,32996188017.0,med,med,med-med
+Bosnia and Herzegovina,BIH,2014,0.636379,18558343305.0,low,med,low-med
+Botswana,BWA,2014,5.017364000000001,15470059202.0,high,med,high-med
+Brazil,BRA,2014,1.628939,2455993625159.0,med,high,med-high
+Brunei,BRN,2014,1.038074,17098342541.0,low,med,low-med
+Bulgaria,BGR,2014,0.868521,57082011260.0,low,med,low-med
+Burkina Faso,BFA,2014,10.452607,13943016924.0,high,med,high-med
+Burundi,BDI,2014,7.126144,2705783272.0,high,low,high-low
+Cambodia,KHM,2014,3.3423810000000005,16702610842.0,med,med,med-med
+Cameroon,CMR,2014,9.236904,36386546918.0,high,med,high-med
+Canada,CAN,2014,0.5431739999999999,1805749878440.0,low,high,low-high
+Cape Verde,CPV,2014,2.103206,1859898513.0,med,low,med-low
+Central African Republic,CAF,2014,12.824256,1894813505.0,high,low,high-low
+Chad,TCD,2014,13.227250000000002,13940768066.0,high,med,high-med
+Chile,CHL,2014,0.8100310000000001,259405202008.0,low,high,low-high
+China,CHN,2014,1.15594,10475682920595.0,med,high,med-high
+Colombia,COL,2014,1.6034880000000002,381112110485.0,med,high,med-high
+Comoros,COM,2014,7.466339000000001,1149587652.0,high,low,high-low
+Congo,COG,2014,5.439324,17912908766.0,high,med,high-med
+Costa Rica,CRI,2014,0.93243,52016408951.0,low,med,low-med
+Cote d'Ivoire,CIV,2014,9.364638,48843008580.0,high,med,high-med
+Croatia,HRV,2014,0.498056,58423981441.0,low,med,low-med
+Cuba,CUB,2014,0.578384,80656000000.0,low,med,low-med
+Cyprus,CYP,2014,0.29355,23226782251.0,low,med,low-med
+Czechia,CZE,2014,0.313445,209358834156.0,low,high,low-high
+Democratic Republic of Congo,COD,2014,9.920650000000002,35909040266.0,high,med,high-med
+Denmark,DNK,2014,0.41076,352993631618.0,low,high,low-high
+Djibouti,DJI,2014,6.800588000000001,2214679081.0,high,low,high-low
+Dominica,DMA,2014,2.97978,520207407.0,med,low,med-low
+Dominican Republic,DOM,2014,3.499172,67179914027.0,high,med,high-med
+Ecuador,ECU,2014,1.5948520000000002,101726331000.0,med,high,med-high
+Egypt,EGY,2014,2.426369,305595408895.0,med,high,med-high
+El Salvador,SLV,2014,1.609071,22593470000.0,med,med,med-med
+Equatorial Guinea,GNQ,2014,9.68352,21765454404.0,high,med,high-med
+Estonia,EST,2014,0.329873,26634083965.0,low,med,low-med
+Eswatini,SWZ,2014,6.2372760000000005,4422968340.0,high,low,high-low
+Ethiopia,ETH,2014,6.58626,55612228234.0,high,med,high-med
+Fiji,FJI,2014,2.394158,4857220602.0,med,low,med-low
+Finland,FIN,2014,0.256128,274862826772.0,low,high,low-high
+France,FRA,2014,0.412273,2855964488590.0,low,high,low-high
+Gabon,GAB,2014,5.276497,18203968002.0,high,med,high-med
+Gambia,GMB,2014,6.238289000000001,1229460602.0,high,low,high-low
+Georgia,GEO,2014,1.090674,17627003455.0,med,med,med-med
+Germany,DEU,2014,0.39581,3889093051024.0,low,high,low-high
+Ghana,GHA,2014,5.7076150000000005,54782847753.0,high,med,high-med
+Greece,GRC,2014,0.426434,235458133125.0,low,high,low-high
+Grenada,GRD,2014,1.599752,911500000.0,med,low,med-low
+Guatemala,GTM,2014,2.946104,57852399964.0,med,med,med-med
+Guinea,GIN,2014,10.924162,8778473615.0,high,low,high-low
+Guinea-Bissau,GNB,2014,9.569535,1054915645.0,high,low,high-low
+Guyana,GUY,2014,3.405327,4127659492.0,med,low,med-low
+Haiti,HTI,2014,7.189418000000001,15139264670.0,high,med,high-med
+Honduras,HND,2014,1.997752,19756494435.0,med,med,med-med
+Hungary,HUN,2014,0.538518,141033843266.0,low,high,low-high
+Iceland,ISL,2014,0.235976,17867662178.0,low,med,low-med
+India,IND,2014,4.6219410000000005,2039127446299.0,high,high,high-high
+Indonesia,IDN,2014,2.879776,890814755233.0,med,high,med-high
+Iran,IRN,2014,1.60753,460382791826.0,med,high,med-high
+Iraq,IRQ,2014,3.068111,228415656175.0,med,high,med-high
+Ireland,IRL,2014,0.380728,259170903648.0,low,high,low-high
+Israel,ISR,2014,0.401138,314330061977.0,low,high,low-high
+Italy,ITA,2014,0.357681,2162009615997.0,low,high,low-high
+Jamaica,JAM,2014,1.5998100000000002,13899228824.0,med,med,med-med
+Japan,JPN,2014,0.28271,4896994405353.0,low,high,low-high
+Jordan,JOR,2014,1.794126,36847643587.0,med,med,med-med
+Kazakhstan,KAZ,2014,1.304809,221415572820.0,med,high,med-high
+Kenya,KEN,2014,5.064336000000001,68285768554.0,high,med,high-med
+Kiribati,KIR,2014,5.9181420000000005,177862268.0,high,low,high-low
+Kuwait,KWT,2014,0.8933220000000001,162631412509.0,low,high,low-high
+Kyrgyzstan,KGZ,2014,2.3487050000000003,7468096567.0,med,low,med-low
+Laos,LAO,2014,5.630143,13279248479.0,high,low,high-low
+Latvia,LVA,2014,0.547908,31386896487.0,low,med,low-med
+Lebanon,LBN,2014,0.8606500000000001,48095213746.0,low,med,low-med
+Lesotho,LSO,2014,9.424524,2441053176.0,high,low,high-low
+Liberia,LBR,2014,9.214035,3225652000.0,high,low,high-low
+Libya,LBY,2014,1.3787890000000005,57372445772.0,med,med,med-med
+Lithuania,LTU,2014,0.4948349999999999,48533659592.0,low,med,low-med
+Luxembourg,LUX,2014,0.275843,68804811898.0,low,med,low-med
+Madagascar,MDG,2014,6.082817,12522957228.0,high,low,high-low
+Malawi,MWI,2014,5.757609,6047813437.0,high,low,high-low
+Malaysia,MYS,2014,0.7990280000000001,338061963396.0,low,high,low-high
+Maldives,MDV,2014,1.054497,3697351597.0,med,low,med-low
+Mali,MLI,2014,11.238641,14364937997.0,high,med,high-med
+Malta,MLT,2014,0.658906,11626278730.0,low,low,low-low
+Marshall Islands,MHL,2014,3.626755,185172900.0,high,low,high-low
+Mauritania,MRT,2014,8.506770000000001,6592537782.0,high,low,high-low
+Mauritius,MUS,2014,1.4762560000000002,13074137210.0,med,low,med-low
+Mexico,MEX,2014,1.676478,1315351183525.0,med,high,med-high
+Micronesia (country),FSM,2014,2.986787,319271200.0,med,low,med-low
+Moldova,MDA,2014,1.5977750000000002,9510198962.0,med,low,med-low
+Monaco,MCO,2014,0.362959,7069616049.0,low,low,low-low
+Mongolia,MNG,2014,2.038629,12226514722.0,med,low,med-low
+Montenegro,MNE,2014,0.44276,4594024180.0,low,low,low-low
+Morocco,MAR,2014,2.486054,119131365761.0,med,high,med-high
+Mozambique,MOZ,2014,8.844336,17716084108.0,high,med,high-med
+Myanmar,MMR,2014,5.406879,63264892768.0,high,med,high-med
+Namibia,NAM,2014,4.791202,12435416063.0,high,low,high-low
+Nauru,NRU,2014,3.414342,104654365.0,high,low,high-low
+Nepal,NPL,2014,3.740484,22731602970.0,high,med,high-med
+Netherlands,NLD,2014,0.407781,892167986714.0,low,high,low-high
+New Zealand,NZL,2014,0.566335,201313497221.0,low,high,low-high
+Nicaragua,NIC,2014,2.021834,11880434071.0,med,low,med-low
+Niger,NER,2014,9.803274000000002,10862944204.0,high,low,high-low
+Nigeria,NGA,2014,12.7893,574183825592.0,high,high,high-high
+North Macedonia,MKD,2014,1.117396,11362272838.0,med,low,med-low
+Norway,NOR,2014,0.281807,498410050251.0,low,high,low-high
+Oman,OMN,2014,1.124095,92699089727.0,med,high,med-high
+Pakistan,PAK,2014,7.831333,244360888751.0,high,high,high-high
+Palau,PLW,2014,2.0443130000000003,241669800.0,med,low,med-low
+Palestine,PSE,2014,1.970273,13989700000.0,med,med,med-med
+Panama,PAN,2014,1.7552510000000003,49921400000.0,med,med,med-med
+Papua New Guinea,PNG,2014,5.243439,23210682538.0,high,med,high-med
+Paraguay,PRY,2014,2.303252,40377929296.0,med,med,med-med
+Peru,PER,2014,1.63707,200789362452.0,med,high,med-high
+Philippines,PHL,2014,3.007458,297483247101.0,med,high,med-high
+Poland,POL,2014,0.502244,539087652560.0,low,high,low-high
+Portugal,PRT,2014,0.364607,229901964222.0,low,high,low-high
+Qatar,QAT,2014,0.8132070000000001,206224598571.0,low,high,low-high
+Romania,ROU,2014,0.9898250000000002,199712289502.0,low,high,low-high
+Russia,RUS,2014,0.891229,2059241965491.0,low,high,low-high
+Rwanda,RWA,2014,4.972564,8234762201.0,high,low,high-low
+Saint Kitts and Nevis,KNA,2014,1.715736,953174074.0,med,low,med-low
+Saint Lucia,LCA,2014,2.1351910000000003,1749289303.0,med,low,med-low
+Saint Vincent and the Grenadines,VCT,2014,1.7362200000000003,770901444.0,med,low,med-low
+Samoa,WSM,2014,1.873719,796698269.0,med,low,med-low
+San Marino,SMR,2014,0.230868,1673973695.0,low,low,low-low
+Sao Tome and Principe,STP,2014,2.5311710000000005,346528329.0,med,low,med-low
+Saudi Arabia,SAU,2014,0.96427,756350347320.0,low,high,low-high
+Senegal,SEN,2014,5.232106000000001,19797254643.0,high,med,high-med
+Serbia,SRB,2014,0.657016,47062206678.0,low,med,low-med
+Seychelles,SYC,2014,1.465297,1387581392.0,med,low,med-low
+Sierra Leone,SLE,2014,13.921191,5015157816.0,high,low,high-low
+Singapore,SGP,2014,0.274048,314851156183.0,low,high,low-high
+Slovakia,SVK,2014,0.636399,101437045020.0,low,high,low-high
+Slovenia,SVN,2014,0.269547,49997186439.0,low,med,low-med
+Solomon Islands,SLB,2014,2.3448480000000003,1335579570.0,med,low,med-low
+Somalia,SOM,2014,13.839541,5024999992.0,high,low,high-low
+South Africa,ZAF,2014,3.763104,381198869776.0,high,high,high-high
+South Korea,KOR,2014,0.36172,1484318219634.0,low,high,low-high
+South Sudan,SSD,2014,9.788234,13962212847.0,high,med,high-med
+Spain,ESP,2014,0.336935,1371820537889.0,low,high,low-high
+Sri Lanka,LKA,2014,0.926411,82528526230.0,low,med,low-med
+Sudan,SDN,2014,6.788237,76818327442.0,high,med,high-med
+Suriname,SUR,2014,2.087955,5240606061.0,med,low,med-low
+Sweden,SWE,2014,0.289691,581964017237.0,low,high,low-high
+Switzerland,CHE,2014,0.43399,726537808338.0,low,high,low-high
+Syria,SYR,2014,4.7040500000000005,21502061462.0,high,med,high-med
+Tajikistan,TJK,2014,3.842785,9112544556.0,high,low,high-low
+Tanzania,TZA,2014,5.992448,49964825081.0,high,med,high-med
+Thailand,THA,2014,1.130924,407339454061.0,med,high,med-high
+Timor,TLS,2014,5.211069,1447310449.0,high,low,high-low
+Togo,TGO,2014,7.834331000000001,4574986537.0,high,low,high-low
+Tonga,TON,2014,1.252319,439878828.0,med,low,med-low
+Trinidad and Tobago,TTO,2014,1.9924410000000004,29489012807.0,med,med,med-med
+Tunisia,TUN,2014,1.7307320000000002,50271072628.0,med,med,med-med
+Turkey,TUR,2014,1.3816100000000002,938952628604.0,med,high,med-high
+Turkmenistan,TKM,2014,4.196237,43524210526.0,high,med,high-med
+Tuvalu,TUV,2014,2.692206,38759690.0,med,low,med-low
+Uganda,UGA,2014,5.880115,32612397758.0,high,med,high-med
+Ukraine,UKR,2014,0.981789,133503411376.0,low,high,low-high
+United Arab Emirates,ARE,2014,0.778317,414105366759.0,low,high,low-high
+United Kingdom,GBR,2014,0.454163,3065223279584.0,low,high,low-high
+United States,USA,2014,0.688186,17550680174000.0,low,high,low-high
+Uruguay,URY,2014,0.929333,57236013086.0,low,med,low-med
+Uzbekistan,UZB,2014,2.081579,80845384375.0,med,med,med-med
+Vanuatu,VUT,2014,2.87596,772315721.0,med,low,med-low
+Venezuela,VEN,2014,1.799383,482359318768.0,med,high,med-high
+Vietnam,VNM,2014,2.200567,233451484774.0,med,high,med-high
+Yemen,YEM,2014,5.868763,43228585321.0,high,med,high-med
+Zambia,ZMB,2014,6.829301,27141023558.0,high,med,high-med
+Zimbabwe,ZWE,2014,6.273878,19495519630.0,high,med,high-med
+Afghanistan,AFG,2015,7.0446740000000005,19998156214.0,high,med,high-med
+Albania,ALB,2015,0.955666,11386850130.0,low,low,low-low
+Algeria,DZA,2015,2.516814,165979279263.0,med,high,med-high
+Andorra,AND,2015,0.333845,2789870188.0,low,low,low-low
+Angola,AGO,2015,8.80503,87219300385.0,high,high,high-high
+Antigua and Barbuda,ATG,2015,0.775477,1336692593.0,low,low,low-low
+Argentina,ARG,2015,1.149156,594749285413.0,med,high,med-high
+Armenia,ARM,2015,1.409067,10553337673.0,med,low,med-low
+Australia,AUS,2015,0.387426,1350615691821.0,low,high,low-high
+Austria,AUT,2015,0.367075,381971148531.0,low,high,low-high
+Azerbaijan,AZE,2015,2.625715,53074370486.0,med,med,med-med
+Bahamas,BHS,2015,1.398998,11861900000.0,med,low,med-low
+Bahrain,BHR,2015,0.758355,31050638298.0,low,med,low-med
+Bangladesh,BGD,2015,3.807254,195078678697.0,high,high,high-high
+Barbados,BRB,2015,1.403,4724691200.0,med,low,med-low
+Belarus,BLR,2015,0.408725,56454734397.0,low,med,low-med
+Belgium,BEL,2015,0.406843,462335574841.0,low,high,low-high
+Belize,BLZ,2015,1.5309080000000002,2210500000.0,med,low,med-low
+Benin,BEN,2015,9.762839,11388160997.0,high,low,high-low
+Bhutan,BTN,2015,3.3128860000000007,2003598213.0,high,low,high-low
+Bolivia,BOL,2015,3.132866,33000198248.0,med,med,med-med
+Bosnia and Herzegovina,BIH,2015,0.626099,16211541593.0,low,med,low-med
+Botswana,BWA,2015,4.965495000000001,13530738158.0,high,med,high-med
+Brazil,BRA,2015,1.593588,1802214373741.0,med,high,med-high
+Brunei,BRN,2015,1.059255,12930394938.0,med,med,med-med
+Bulgaria,BGR,2015,0.817971,50781996713.0,low,med,low-med
+Burkina Faso,BFA,2015,10.089463000000002,11832159276.0,high,low,high-low
+Burundi,BDI,2015,6.761729,3104003611.0,high,low,high-low
+Cambodia,KHM,2015,3.175986,18049954289.0,med,med,med-med
+Cameroon,CMR,2015,8.797468,32210232912.0,high,med,high-med
+Canada,CAN,2015,0.535589,1556508816217.0,low,high,low-high
+Cape Verde,CPV,2015,1.952794,1596800287.0,med,low,med-low
+Central African Republic,CAF,2015,12.332026,1695825708.0,high,low,high-low
+Chad,TCD,2015,12.868014,10950392220.0,high,low,high-low
+Chile,CHL,2015,0.7893110000000001,242496649874.0,low,high,low-high
+China,CHN,2015,1.070457,11061553079876.0,med,high,med-high
+Colombia,COL,2015,1.552337,293481753079.0,med,high,med-high
+Comoros,COM,2015,7.231719,966029542.0,high,low,high-low
+Congo,COG,2015,5.257334,11890259136.0,high,low,high-low
+Costa Rica,CRI,2015,0.908311,56441917653.0,low,med,low-med
+Cote d'Ivoire,CIV,2015,9.078118000000002,45814637971.0,high,med,high-med
+Croatia,HRV,2015,0.490772,50242783066.0,low,med,low-med
+Cuba,CUB,2015,0.5659270000000001,87133000000.0,low,high,low-high
+Cyprus,CYP,2015,0.288808,19909190059.0,low,med,low-med
+Czechia,CZE,2015,0.316532,188033050460.0,low,high,low-high
+Democratic Republic of Congo,COD,2015,9.591324,37917704900.0,high,med,high-med
+Denmark,DNK,2015,0.410916,302673070847.0,low,high,low-high
+Djibouti,DJI,2015,6.583443,2424391785.0,high,low,high-low
+Dominica,DMA,2015,3.11093,540737037.0,med,low,med-low
+Dominican Republic,DOM,2015,3.499755,71164825257.0,high,med,high-med
+Ecuador,ECU,2015,1.536569,99290381000.0,med,high,med-high
+Egypt,EGY,2015,2.330325,329366576819.0,med,high,med-high
+El Salvador,SLV,2015,1.5465590000000002,23438240000.0,med,med,med-med
+Equatorial Guinea,GNQ,2015,9.317626,13185496836.0,high,med,high-med
+Estonia,EST,2015,0.306001,22890762090.0,low,med,low-med
+Eswatini,SWZ,2015,5.716401,4063245671.0,high,low,high-low
+Ethiopia,ETH,2015,6.235958,64589334979.0,high,med,high-med
+Fiji,FJI,2015,2.436639,4682546881.0,med,low,med-low
+Finland,FIN,2015,0.2492039999999999,234534382385.0,low,high,low-high
+France,FRA,2015,0.415907,2439188643163.0,low,high,low-high
+Gabon,GAB,2015,5.0300910000000005,14383107714.0,high,med,high-med
+Gambia,GMB,2015,5.979655000000001,1378176868.0,high,low,high-low
+Georgia,GEO,2015,1.050551,14953950557.0,med,med,med-med
+Germany,DEU,2015,0.393256,3357585719352.0,low,high,low-high
+Ghana,GHA,2015,5.456352,49406568433.0,high,med,high-med
+Greece,GRC,2015,0.4370860000000001,195683527003.0,low,high,low-high
+Grenada,GRD,2015,1.621703,997007407.0,med,low,med-low
+Guatemala,GTM,2015,2.8333120000000003,62186186576.0,med,med,med-med
+Guinea,GIN,2015,10.729504,8794202444.0,high,low,high-low
+Guinea-Bissau,GNB,2015,9.208197,1048229629.0,high,low,high-low
+Guyana,GUY,2015,3.308682000000001,4279840194.0,med,low,med-low
+Haiti,HTI,2015,6.9896910000000005,14833154472.0,high,med,high-med
+Honduras,HND,2015,1.9239070000000005,20979767785.0,med,med,med-med
+Hungary,HUN,2015,0.5063850000000001,125174166987.0,low,high,low-high
+Iceland,ISL,2015,0.22828,17517210519.0,low,med,low-med
+India,IND,2015,4.3527890000000005,2103587813813.0,high,high,high-high
+Indonesia,IDN,2015,2.767154,860854235065.0,med,high,med-high
+Iran,IRN,2015,1.545335,408212918054.0,med,high,med-high
+Iraq,IRQ,2015,2.9709830000000004,166774109674.0,med,high,med-high
+Ireland,IRL,2015,0.369873,291775166507.0,low,high,low-high
+Israel,ISR,2015,0.391499,303414276832.0,low,high,low-high
+Italy,ITA,2015,0.348115,1836637711061.0,low,high,low-high
+Jamaica,JAM,2015,1.552235,14188935948.0,med,med,med-med
+Japan,JPN,2015,0.274856,4444930651964.0,low,high,low-high
+Jordan,JOR,2015,1.7455200000000002,38587017944.0,med,med,med-med
+Kazakhstan,KAZ,2015,1.186959,184388432149.0,med,high,med-high
+Kenya,KEN,2015,4.891058000000001,70120413329.0,high,med,high-med
+Kiribati,KIR,2015,5.764063,170291037.0,high,low,high-low
+Kuwait,KWT,2015,0.8755330000000001,114567298106.0,low,high,low-high
+Kyrgyzstan,KGZ,2015,2.2311530000000004,6678178340.0,med,low,med-low
+Laos,LAO,2015,5.380664,14426381187.0,high,med,high-med
+Latvia,LVA,2015,0.5030330000000001,27263090547.0,low,med,low-med
+Lebanon,LBN,2015,0.827962,49929337837.0,low,med,low-med
+Lesotho,LSO,2015,9.461162,2359759799.0,high,low,high-low
+Liberia,LBR,2015,8.825453000000001,3227075700.0,high,low,high-low
+Libya,LBY,2015,1.3269760000000002,48717854040.0,med,med,med-med
+Lithuania,LTU,2015,0.492966,41435533340.0,low,med,low-med
+Luxembourg,LUX,2015,0.27702,60071584216.0,low,med,low-med
+Madagascar,MDG,2015,5.900661,11323020829.0,high,low,high-low
+Malawi,MWI,2015,5.329899000000001,6373212641.0,high,low,high-low
+Malaysia,MYS,2015,0.805304,301354756113.0,low,high,low-high
+Maldives,MDV,2015,0.97888,4109424800.0,low,low,low-low
+Mali,MLI,2015,10.831459,13104764334.0,high,med,high-med
+Malta,MLT,2015,0.657432,11091423499.0,low,low,low-low
+Marshall Islands,MHL,2015,3.5400550000000006,182997300.0,high,low,high-low
+Mauritania,MRT,2015,8.267768,6166857629.0,high,low,high-low
+Mauritius,MUS,2015,1.448163,12007291046.0,med,med,med-med
+Mexico,MEX,2015,1.621382,1171867608198.0,med,high,med-high
+Micronesia (country),FSM,2015,2.889227,316489900.0,med,low,med-low
+Moldova,MDA,2015,1.576492,7745241913.0,med,low,med-low
+Monaco,MCO,2015,0.352987,6261622101.0,low,low,low-low
+Mongolia,MNG,2015,1.942749,11619892396.0,med,low,med-low
+Montenegro,MNE,2015,0.397869,4054712083.0,low,low,low-low
+Morocco,MAR,2015,2.350502,110414366621.0,med,high,med-high
+Mozambique,MOZ,2015,8.395156,15950969019.0,high,med,high-med
+Myanmar,MMR,2015,5.2190270000000005,63045305229.0,high,med,high-med
+Namibia,NAM,2015,4.762926,11335179561.0,high,low,high-low
+Nauru,NRU,2015,3.3163150000000003,86529661.0,high,low,high-low
+Nepal,NPL,2015,3.551839,24360795411.0,high,med,high-med
+Netherlands,NLD,2015,0.40474,765572770634.0,low,high,low-high
+New Zealand,NZL,2015,0.551165,178064471138.0,low,high,low-high
+Nicaragua,NIC,2015,1.9403680000000003,12756706583.0,med,med,med-med
+Niger,NER,2015,9.376387,9683867894.0,high,low,high-low
+Nigeria,NGA,2015,12.644652,493026782402.0,high,high,high-high
+North Macedonia,MKD,2015,1.136011,10064515432.0,med,low,med-low
+Norway,NOR,2015,0.272519,385801550067.0,low,high,low-high
+Oman,OMN,2015,1.118944,78710793238.0,med,med,med-med
+Pakistan,PAK,2015,7.601658,270556131701.0,high,high,high-high
+Palau,PLW,2015,1.980029,280457700.0,med,low,med-low
+Palestine,PSE,2015,1.916172,13972400000.0,med,med,med-med
+Panama,PAN,2015,1.7011710000000002,54091800000.0,med,med,med-med
+Papua New Guinea,PNG,2015,5.099565,21723531173.0,high,med,high-med
+Paraguay,PRY,2015,2.2318480000000003,36211447840.0,med,med,med-med
+Peru,PER,2015,1.568022,189805300842.0,med,high,med-high
+Philippines,PHL,2015,2.964772,306446140629.0,med,high,med-high
+Poland,POL,2015,0.4854320000000001,477111287969.0,low,high,low-high
+Portugal,PRT,2015,0.364874,199394066525.0,low,high,low-high
+Qatar,QAT,2015,0.777516,161739955577.0,low,high,low-high
+Romania,ROU,2015,0.916238,177882417555.0,low,high,low-high
+Russia,RUS,2015,0.8240930000000001,1363481063447.0,low,high,low-high
+Rwanda,RWA,2015,4.770533,8539424910.0,high,low,high-low
+Saint Kitts and Nevis,KNA,2015,1.690938,957040741.0,med,low,med-low
+Saint Lucia,LCA,2015,2.186243,1807227215.0,med,low,med-low
+Saint Vincent and the Grenadines,VCT,2015,1.674966,786554593.0,med,low,med-low
+Samoa,WSM,2015,1.8556550000000005,824160018.0,med,low,med-low
+San Marino,SMR,2015,0.218993,1419394771.0,low,low,low-low
+Sao Tome and Principe,STP,2015,2.3149390000000003,316066072.0,med,low,med-low
+Saudi Arabia,SAU,2015,0.90952,654269739552.0,low,high,low-high
+Senegal,SEN,2015,4.935984,17774766636.0,high,med,high-med
+Serbia,SRB,2015,0.628974,39655958843.0,low,med,low-med
+Seychelles,SYC,2015,1.478591,1416001322.0,med,low,med-low
+Sierra Leone,SLE,2015,14.019001,4218723875.0,high,low,high-low
+Singapore,SGP,2015,0.273578,308004146058.0,low,high,low-high
+Slovakia,SVK,2015,0.6242730000000001,88900883131.0,low,high,low-high
+Slovenia,SVN,2015,0.259208,43107506024.0,low,med,low-med
+Solomon Islands,SLB,2015,2.2735730000000003,1307908070.0,med,low,med-low
+Somalia,SOM,2015,13.430022,5335000000.0,high,low,high-low
+South Africa,ZAF,2015,3.634501,346709790459.0,high,high,high-high
+South Korea,KOR,2015,0.351612,1465773245547.0,low,high,low-high
+South Sudan,SSD,2015,9.785733,11997800760.0,high,med,high-med
+Spain,ESP,2015,0.330797,1196156971280.0,low,high,low-high
+Sri Lanka,LKA,2015,0.872017,85140963537.0,low,med,low-med
+Sudan,SDN,2015,6.590055,84985132167.0,high,med,high-med
+Suriname,SUR,2015,2.034135,5126188135.0,med,low,med-low
+Sweden,SWE,2015,0.286016,505103781350.0,low,high,low-high
+Switzerland,CHE,2015,0.428002,694118186380.0,low,high,low-high
+Syria,SYR,2015,4.156517,16468399180.0,high,med,high-med
+Tajikistan,TJK,2015,3.749398,8271454301.0,high,low,high-low
+Tanzania,TZA,2015,5.811161,47378603784.0,high,med,high-med
+Thailand,THA,2015,1.080418,401296437425.0,med,high,med-high
+Timor,TLS,2015,5.022595,1594447631.0,high,low,high-low
+Togo,TGO,2015,7.585424000000001,4180866177.0,high,low,high-low
+Tonga,TON,2015,1.24065,437006227.0,med,low,med-low
+Trinidad and Tobago,TTO,2015,1.932085,26851970254.0,med,med,med-med
+Tunisia,TUN,2015,1.7172280000000002,45780077488.0,med,med,med-med
+Turkey,TUR,2015,1.295229,864316670331.0,med,high,med-high
+Turkmenistan,TKM,2015,4.219019,35799714286.0,high,med,high-med
+Tuvalu,TUV,2015,2.597386,36811660.0,med,low,med-low
+Uganda,UGA,2015,5.569748000000001,32387183845.0,high,med,high-med
+Ukraine,UKR,2015,0.947583,91030959455.0,low,high,low-high
+United Arab Emirates,ARE,2015,0.76007,370275469560.0,low,high,low-high
+United Kingdom,GBR,2015,0.446529,2934857946213.0,low,high,low-high
+United States,USA,2015,0.679389,18206020741000.0,low,high,low-high
+Uruguay,URY,2015,0.8866780000000001,53274304222.0,low,med,low-med
+Uzbekistan,UZB,2015,1.934294,86196265192.0,med,high,med-high
+Vanuatu,VUT,2015,2.821718,730870582.0,med,low,med-low
+Vietnam,VNM,2015,2.180634,239258340826.0,med,high,med-high
+Yemen,YEM,2015,6.067571000000001,42444495590.0,high,med,high-med
+Zambia,ZMB,2015,6.767587000000001,21251216799.0,high,med,high-med
+Zimbabwe,ZWE,2015,6.127913,19963120610.0,high,med,high-med
+Afghanistan,AFG,2016,6.748671000000001,18019558182.0,high,med,high-med
+Albania,ALB,2016,0.941625,11861199831.0,low,med,low-med
+Algeria,DZA,2016,2.4783150000000003,160034163871.0,med,high,med-high
+Andorra,AND,2016,0.31509,2896679212.0,low,low,low-low
+Angola,AGO,2016,8.407974000000001,49840491178.0,high,med,high-med
+Antigua and Barbuda,ATG,2016,0.7427920000000001,1436585185.0,low,low,low-low
+Argentina,ARG,2016,1.089678,557531376218.0,med,high,med-high
+Armenia,ARM,2016,1.3387460000000002,10546135160.0,med,low,med-low
+Australia,AUS,2016,0.380558,1206535157956.0,low,high,low-high
+Austria,AUT,2016,0.360644,395837353031.0,low,high,low-high
+Azerbaijan,AZE,2016,2.4476400000000003,37867518957.0,med,med,med-med
+Bahamas,BHS,2016,1.367701,11834600000.0,med,low,med-low
+Bahrain,BHR,2016,0.745809,32234973404.0,low,med,low-med
+Bangladesh,BGD,2016,3.611465,265236247989.0,high,high,high-high
+Barbados,BRB,2016,1.370853,4832811750.0,med,low,med-low
+Belarus,BLR,2016,0.385353,47722657821.0,low,med,low-med
+Belgium,BEL,2016,0.406531,476062757357.0,low,high,low-high
+Belize,BLZ,2016,1.450086,2258500000.0,med,low,med-low
+Benin,BEN,2016,9.537881,11821065852.0,high,low,high-low
+Bhutan,BTN,2016,3.191199,2158972129.0,med,low,med-low
+Bolivia,BOL,2016,2.988337,33941126200.0,med,med,med-med
+Bosnia and Herzegovina,BIH,2016,0.617542,16913330977.0,low,med,low-med
+Botswana,BWA,2016,4.915605,15082579074.0,high,med,high-med
+Brazil,BRA,2016,1.67439,1795700168991.0,med,high,med-high
+Brunei,BRN,2016,1.0818390000000002,11400854268.0,med,low,med-low
+Bulgaria,BGR,2016,0.7735820000000001,53953897624.0,low,med,low-med
+Burkina Faso,BFA,2016,9.745227,12833363370.0,high,med,high-med
+Burundi,BDI,2016,6.439883000000001,2639321161.0,high,low,high-low
+Cambodia,KHM,2016,3.030184,20016747754.0,med,med,med-med
+Cameroon,CMR,2016,8.418146,33814337900.0,high,med,high-med
+Canada,CAN,2016,0.5282490000000001,1527994741907.0,low,high,low-high
+Cape Verde,CPV,2016,1.810561,1663008687.0,med,low,med-low
+Central African Republic,CAF,2016,11.81509,1825018191.0,high,low,high-low
+Chad,TCD,2016,12.492047,10097778354.0,high,low,high-low
+Chile,CHL,2016,0.766127,249298719723.0,low,high,low-high
+China,CHN,2016,0.991829,11233276536737.0,med,high,med-high
+Colombia,COL,2016,1.5040060000000002,282825012368.0,med,high,med-high
+Comoros,COM,2016,7.014567,1012835518.0,high,low,high-low
+Congo,COG,2016,5.078339,10219341277.0,high,low,high-low
+Costa Rica,CRI,2016,0.8866130000000001,58847016045.0,low,med,low-med
+Cote d'Ivoire,CIV,2016,8.837354000000001,47964234560.0,high,med,high-med
+Croatia,HRV,2016,0.483894,52397494687.0,low,med,low-med
+Cuba,CUB,2016,0.55415,91370000000.0,low,high,low-high
+Cyprus,CYP,2016,0.285777,21046951516.0,low,med,low-med
+Czechia,CZE,2016,0.319691,196272068576.0,low,high,low-high
+Democratic Republic of Congo,COD,2016,9.281683,37134799975.0,high,med,high-med
+Denmark,DNK,2016,0.407035,313115929314.0,low,high,low-high
+Djibouti,DJI,2016,6.3821200000000005,2604955229.0,high,low,high-low
+Dominica,DMA,2016,3.2352200000000004,576229630.0,high,low,high-low
+Dominican Republic,DOM,2016,3.5025820000000003,75704720190.0,high,med,high-med
+Ecuador,ECU,2016,1.483759,99937696000.0,med,high,med-high
+Egypt,EGY,2016,2.2466640000000004,332441717791.0,med,high,med-high
+El Salvador,SLV,2016,1.487839,24191430000.0,med,med,med-med
+Equatorial Guinea,GNQ,2016,9.001461,11240809132.0,high,low,high-low
+Estonia,EST,2016,0.283995,24072829277.0,low,med,low-med
+Eswatini,SWZ,2016,5.559037,3816022047.0,high,low,high-low
+Ethiopia,ETH,2016,5.902819000000001,74296618481.0,high,med,high-med
+Fiji,FJI,2016,2.491349,4930204220.0,med,low,med-low
+Finland,FIN,2016,0.243728,240771351299.0,low,high,low-high
+France,FRA,2016,0.4206959999999999,2472964344587.0,low,high,low-high
+Gabon,GAB,2016,4.742349,14023890620.0,high,med,high-med
+Gambia,GMB,2016,5.7412860000000006,1484579844.0,high,low,high-low
+Georgia,GEO,2016,1.019756,15141758567.0,med,med,med-med
+Germany,DEU,2016,0.390334,3469853463946.0,low,high,low-high
+Ghana,GHA,2016,5.221066,56165172899.0,high,med,high-med
+Greece,GRC,2016,0.438278,193148146587.0,low,high,low-high
+Grenada,GRD,2016,1.641312,1061640741.0,med,low,med-low
+Guatemala,GTM,2016,2.730831,66053725049.0,med,med,med-med
+Guinea,GIN,2016,10.460034,8595955581.0,high,low,high-low
+Guinea-Bissau,GNB,2016,8.868875000000001,1179004941.0,high,low,high-low
+Guyana,GUY,2016,3.211223,4482697337.0,high,low,high-low
+Haiti,HTI,2016,6.789628,13987693739.0,high,med,high-med
+Honduras,HND,2016,1.862094,21717622071.0,med,med,med-med
+Hungary,HUN,2016,0.472833,128609822750.0,low,high,low-high
+Iceland,ISL,2016,0.220666,20793168031.0,low,med,low-med
+India,IND,2016,4.0974390000000005,2294797980509.0,high,high,high-high
+Indonesia,IDN,2016,2.6604330000000003,931877364178.0,med,high,med-high
+Iran,IRN,2016,1.488073,457954614143.0,med,high,med-high
+Iraq,IRQ,2016,2.8757870000000003,166602488748.0,med,high,med-high
+Ireland,IRL,2016,0.357406,299091127525.0,low,high,low-high
+Israel,ISR,2016,0.383521,322102790387.0,low,high,low-high
+Italy,ITA,2016,0.338505,1877071687634.0,low,high,low-high
+Jamaica,JAM,2016,1.507956,14077109397.0,med,med,med-med
+Japan,JPN,2016,0.267938,5003677627544.0,low,high,low-high
+Jordan,JOR,2016,1.695866,39892551149.0,med,med,med-med
+Kazakhstan,KAZ,2016,1.103975,137278320084.0,med,high,med-high
+Kenya,KEN,2016,4.721872,74815121315.0,high,med,high-med
+Kiribati,KIR,2016,5.597390000000001,178509813.0,high,low,high-low
+Kuwait,KWT,2016,0.866939,109419728567.0,low,high,low-high
+Kyrgyzstan,KGZ,2016,2.119431,6813092066.0,med,low,med-low
+Laos,LAO,2016,5.150048000000001,15912495369.0,high,med,high-med
+Latvia,LVA,2016,0.468053,28083597512.0,low,med,low-med
+Lebanon,LBN,2016,0.799327,51147308774.0,low,med,low-med
+Lesotho,LSO,2016,9.145135000000002,2114428033.0,high,low,high-low
+Liberia,LBR,2016,8.612098000000001,3398419600.0,high,low,high-low
+Libya,LBY,2016,1.278625,49910960875.0,med,med,med-med
+Lithuania,LTU,2016,0.47734,43047309306.0,low,med,low-med
+Luxembourg,LUX,2016,0.278873,62216885436.0,low,med,low-med
+Madagascar,MDG,2016,5.723286000000001,11848613735.0,high,low,high-low
+Malawi,MWI,2016,4.950496,5433040160.0,high,low,high-low
+Malaysia,MYS,2016,0.8148880000000001,301255454041.0,low,high,low-high
+Maldives,MDV,2016,0.904602,4379136462.0,low,low,low-low
+Mali,MLI,2016,10.447472,14026048691.0,high,med,high-med
+Malta,MLT,2016,0.656455,11668253265.0,low,low,low-low
+Marshall Islands,MHL,2016,3.4439390000000003,200716000.0,high,low,high-low
+Mauritania,MRT,2016,8.011809,6398738829.0,high,low,high-low
+Mauritius,MUS,2016,1.450447,12594149441.0,med,med,med-med
+Mexico,MEX,2016,1.568841,1078490651625.0,med,high,med-high
+Micronesia (country),FSM,2016,2.797628,332265200.0,med,low,med-low
+Moldova,MDA,2016,1.5472340000000002,8071469355.0,med,low,med-low
+Monaco,MCO,2016,0.343057,6472990923.0,low,low,low-low
+Mongolia,MNG,2016,1.850269,11181350461.0,med,low,med-low
+Montenegro,MNE,2016,0.35713,4377033429.0,low,low,low-low
+Morocco,MAR,2016,2.230682,111572673974.0,med,high,med-high
+Mozambique,MOZ,2016,8.035841000000001,11936999283.0,high,med,high-med
+Myanmar,MMR,2016,5.032404,60291736894.0,high,med,high-med
+Namibia,NAM,2016,4.632689,10721994676.0,high,low,high-low
+Nauru,NRU,2016,3.2250490000000003,99723395.0,high,low,high-low
+Nepal,NPL,2016,3.372897,24524098185.0,high,med,high-med
+Netherlands,NLD,2016,0.403693,784060430240.0,low,high,low-high
+New Zealand,NZL,2016,0.535467,188838342528.0,low,high,low-high
+Nicaragua,NIC,2016,1.864722,13286083645.0,med,med,med-med
+Niger,NER,2016,9.006289,10398862245.0,high,low,high-low
+Nigeria,NGA,2016,12.469453,404649048648.0,high,high,high-high
+North Macedonia,MKD,2016,1.088076,10672471861.0,med,low,med-low
+Norway,NOR,2016,0.263286,368827142857.0,low,high,low-high
+Oman,OMN,2016,1.116569,75128738622.0,med,med,med-med
+Pakistan,PAK,2016,7.378426000000001,313629858860.0,high,high,high-high
+Palau,PLW,2016,1.917535,298300000.0,med,low,med-low
+Palestine,PSE,2016,1.8627130000000005,15405400000.0,med,med,med-med
+Panama,PAN,2016,1.644456,57907700000.0,med,med,med-med
+Papua New Guinea,PNG,2016,4.966901,20759069103.0,high,med,high-med
+Paraguay,PRY,2016,2.163072,36089700223.0,med,med,med-med
+Peru,PER,2016,1.5029260000000002,191895943824.0,med,high,med-high
+Philippines,PHL,2016,2.9137070000000005,318626761493.0,med,high,med-high
+Poland,POL,2016,0.472415,470022572791.0,low,high,low-high
+Portugal,PRT,2016,0.364647,206426152309.0,low,high,low-high
+Qatar,QAT,2016,0.7388,151732181868.0,low,high,low-high
+Romania,ROU,2016,0.8464860000000001,185286854553.0,low,high,low-high
+Russia,RUS,2016,0.754184,1276786979222.0,low,high,low-high
+Rwanda,RWA,2016,4.597599000000001,8690878328.0,high,low,high-low
+Saint Kitts and Nevis,KNA,2016,1.65897,1008100000.0,med,low,med-low
+Saint Lucia,LCA,2016,2.24044,1865459670.0,med,low,med-low
+Saint Vincent and the Grenadines,VCT,2016,1.61697,814302259.0,med,low,med-low
+Samoa,WSM,2016,1.835533,843929640.0,med,low,med-low
+San Marino,SMR,2016,0.208499,1468377272.0,low,low,low-low
+Sao Tome and Principe,STP,2016,2.118878,345495615.0,med,low,med-low
+Saudi Arabia,SAU,2016,0.8569789999999999,644935682011.0,low,high,low-high
+Senegal,SEN,2016,4.649733,19040312815.0,high,med,high-med
+Serbia,SRB,2016,0.6048930000000001,40692643373.0,low,med,low-med
+Seychelles,SYC,2016,1.4818680000000002,1490228319.0,med,low,med-low
+Sierra Leone,SLE,2016,12.544074000000002,3674794530.0,high,low,high-low
+Singapore,SGP,2016,0.271002,318832428520.0,low,high,low-high
+Slovakia,SVK,2016,0.612994,89952699525.0,low,high,low-high
+Slovenia,SVN,2016,0.249765,44766722791.0,low,med,low-med
+Solomon Islands,SLB,2016,2.2025020000000004,1379482147.0,med,low,med-low
+Somalia,SOM,2016,13.030015,5534000000.0,high,low,high-low
+South Africa,ZAF,2016,3.521418,323585509674.0,high,high,high-high
+South Korea,KOR,2016,0.3421,1500111596236.0,low,high,low-high
+Spain,ESP,2016,0.327169,1233554967012.0,low,high,low-high
+Sri Lanka,LKA,2016,0.8245060000000001,88012262257.0,low,high,low-high
+Sudan,SDN,2016,6.39158,102943741649.0,high,high,high-high
+Suriname,SUR,2016,1.979168,3317437626.0,med,low,med-low
+Sweden,SWE,2016,0.281959,515654671470.0,low,high,low-high
+Switzerland,CHE,2016,0.4214489999999999,687895460903.0,low,high,low-high
+Syria,SYR,2016,3.946073,12598742887.0,high,med,high-med
+Tajikistan,TJK,2016,3.651059,6992393787.0,high,low,high-low
+Tanzania,TZA,2016,5.604695,49774004999.0,high,med,high-med
+Thailand,THA,2016,1.032058,413366150656.0,med,high,med-high
+Timor,TLS,2016,4.844163000000001,1650619370.0,high,low,high-low
+Togo,TGO,2016,7.340549,6031632168.0,high,low,high-low
+Tonga,TON,2016,1.227802,420540179.0,med,low,med-low
+Trinidad and Tobago,TTO,2016,1.879954,23496215885.0,med,med,med-med
+Tunisia,TUN,2016,1.710462,44360754190.0,med,med,med-med
+Turkey,TUR,2016,1.214599,869692960366.0,med,high,med-high
+Turkmenistan,TKM,2016,4.254429,36169428571.0,high,med,high-med
+Tuvalu,TUV,2016,2.512156,41629497.0,med,low,med-low
+Uganda,UGA,2016,5.2442530000000005,29203988815.0,high,med,high-med
+Ukraine,UKR,2016,0.917666,93355993629.0,low,high,low-high
+United Arab Emirates,ARE,2016,0.7408710000000001,369255326236.0,low,high,low-high
+United Kingdom,GBR,2016,0.441224,2699659680997.0,low,high,low-high
+United States,USA,2016,0.670876,18695110842000.0,low,high,low-high
+Uruguay,URY,2016,0.8377760000000001,57236652490.0,low,med,low-med
+Uzbekistan,UZB,2016,1.801617,86138288615.0,med,med,med-med
+Vanuatu,VUT,2016,2.75925,780889606.0,med,low,med-low
+Vietnam,VNM,2016,2.16192,257096001565.0,med,high,med-high
+Yemen,YEM,2016,6.034985000000001,31317828584.0,high,med,high-med
+Zambia,ZMB,2016,6.529908000000001,20958412538.0,high,med,high-med
+Zimbabwe,ZWE,2016,5.866147000000001,20548678070.0,high,med,high-med
+Afghanistan,AFG,2017,6.483309,18896352022.0,high,med,high-med
+Albania,ALB,2017,0.9418760000000002,13019689337.0,med,low,med-low
+Algeria,DZA,2017,2.4313070000000003,170097014589.0,med,high,med-high
+Andorra,AND,2017,0.297223,3000180750.0,low,low,low-low
+Angola,AGO,2017,8.06263,68972769396.0,high,med,high-med
+Antigua and Barbuda,ATG,2017,0.712048,1467977778.0,low,low,low-low
+Argentina,ARG,2017,1.029484,643628665302.0,med,high,med-high
+Armenia,ARM,2017,1.271063,11527458566.0,med,low,med-low
+Australia,AUS,2017,0.376496,1326516328532.0,low,high,low-high
+Austria,AUT,2017,0.357143,417261151845.0,low,high,low-high
+Azerbaijan,AZE,2017,2.283592,40865558912.0,med,med,med-med
+Bahamas,BHS,2017,1.333738,12357600000.0,med,low,med-low
+Bahrain,BHR,2017,0.7310650000000001,35473776596.0,low,med,low-med
+Bangladesh,BGD,2017,3.421863,293754646182.0,high,high,high-high
+Barbados,BRB,2017,1.33538,4981588900.0,med,low,med-low
+Belarus,BLR,2017,0.361731,54726595249.0,low,med,low-med
+Belgium,BEL,2017,0.410109,502764720556.0,low,high,low-high
+Belize,BLZ,2017,1.369712,2286000000.0,med,low,med-low
+Benin,BEN,2017,9.317226,12701655846.0,high,low,high-low
+Bhutan,BTN,2017,3.07484,2450364928.0,high,low,high-low
+Bolivia,BOL,2017,2.8563530000000004,37508642165.0,med,med,med-med
+Bosnia and Herzegovina,BIH,2017,0.6083310000000001,18080118186.0,low,med,low-med
+Botswana,BWA,2017,4.781802,16105182316.0,high,med,high-med
+Brazil,BRA,2017,1.540195,2063507864887.0,med,high,med-high
+Brunei,BRN,2017,1.103615,12128104859.0,med,low,med-low
+Bulgaria,BGR,2017,0.73366,59199447421.0,low,med,low-med
+Burkina Faso,BFA,2017,9.406065,14106956830.0,high,med,high-med
+Burundi,BDI,2017,6.149127,2712324134.0,high,low,high-low
+Cambodia,KHM,2017,2.898118,22177200512.0,med,med,med-med
+Cameroon,CMR,2017,8.064632000000001,36098550142.0,high,med,high-med
+Canada,CAN,2017,0.521185,1649265644244.0,low,high,low-high
+Cape Verde,CPV,2017,1.683428,1769787215.0,med,low,med-low
+Central African Republic,CAF,2017,11.449268,2072349794.0,high,low,high-low
+Chad,TCD,2017,12.108574,10000395242.0,high,low,high-low
+Chile,CHL,2017,0.742974,276364933680.0,low,high,low-high
+China,CHN,2017,0.919683,12310409370893.0,low,high,low-high
+Colombia,COL,2017,1.4560430000000002,311883730442.0,med,high,med-high
+Comoros,COM,2017,6.789714,1077439663.0,high,low,high-low
+Congo,COG,2017,4.911181,11094822713.0,high,low,high-low
+Costa Rica,CRI,2017,0.865813,60516043590.0,low,med,low-med
+Cote d'Ivoire,CIV,2017,8.599333,51588158718.0,high,med,high-med
+Croatia,HRV,2017,0.477004,56323836170.0,low,med,low-med
+Cuba,CUB,2017,0.5431180000000001,96851000000.0,low,high,low-high
+Cyprus,CYP,2017,0.284815,22946726164.0,low,med,low-med
+Czechia,CZE,2017,0.319002,218628940952.0,low,high,low-high
+Democratic Republic of Congo,COD,2017,8.956613,38019265626.0,high,med,high-med
+Denmark,DNK,2017,0.399274,332121063806.0,low,high,low-high
+Djibouti,DJI,2017,6.176996,2762581334.0,high,low,high-low
+Dominica,DMA,2017,3.3450270000000004,521551852.0,high,low,high-low
+Dominican Republic,DOM,2017,3.492818,79997975622.0,high,med,high-med
+Ecuador,ECU,2017,1.435682,104295862000.0,med,high,med-high
+Egypt,EGY,2017,2.166433,235733695652.0,med,high,med-high
+El Salvador,SLV,2017,1.4321160000000002,24979190000.0,med,med,med-med
+Equatorial Guinea,GNQ,2017,8.686781000000002,12200912828.0,high,low,high-low
+Estonia,EST,2017,0.263464,26924385103.0,low,med,low-med
+Eswatini,SWZ,2017,5.787118,4402969226.0,high,low,high-low
+Ethiopia,ETH,2017,5.591844,81770791971.0,high,med,high-med
+Fiji,FJI,2017,2.552648,5353404419.0,med,low,med-low
+Finland,FIN,2017,0.239689,255647979916.0,low,high,low-high
+France,FRA,2017,0.425827,2595151045198.0,low,high,low-high
+Gabon,GAB,2017,4.554082,14929488771.0,high,med,high-med
+Gambia,GMB,2017,5.514267,1504909753.0,high,low,high-low
+Georgia,GEO,2017,0.994069,16242916916.0,med,med,med-med
+Germany,DEU,2017,0.386065,3690849152518.0,low,high,low-high
+Ghana,GHA,2017,5.005025,60406382899.0,high,med,high-med
+Greece,GRC,2017,0.431597,199844406014.0,low,high,low-high
+Grenada,GRD,2017,1.657076,1125681481.0,med,low,med-low
+Guatemala,GTM,2017,2.635714,71654134379.0,med,med,med-med
+Guinea,GIN,2017,10.260182,10324668267.0,high,low,high-low
+Guinea-Bissau,GNB,2017,8.551808,1350177128.0,high,low,high-low
+Guyana,GUY,2017,3.116754,4748174334.0,high,low,high-low
+Haiti,HTI,2017,6.595736,15035560373.0,high,med,high-med
+Honduras,HND,2017,1.8005410000000002,23136232230.0,med,med,med-med
+Hungary,HUN,2017,0.444941,143112196040.0,low,high,low-high
+Iceland,ISL,2017,0.213501,24728285177.0,low,med,low-med
+India,IND,2017,3.856299,2651472946375.0,high,high,high-high
+Indonesia,IDN,2017,2.5611770000000003,1015618742566.0,med,high,med-high
+Iran,IRN,2017,1.4373570000000002,486630146444.0,med,high,med-high
+Iraq,IRQ,2017,2.7859940000000005,187217660051.0,med,high,med-high
+Ireland,IRL,2017,0.343475,336377500161.0,low,high,low-high
+Israel,ISR,2017,0.376864,358245427459.0,low,high,low-high
+Italy,ITA,2017,0.328403,1961796197354.0,low,high,low-high
+Jamaica,JAM,2017,1.45987,14808989993.0,med,med,med-med
+Japan,JPN,2017,0.262036,4930837369151.0,low,high,low-high
+Jordan,JOR,2017,1.6449010000000002,41608435922.0,med,med,med-med
+Kazakhstan,KAZ,2017,1.054644,166805800596.0,med,high,med-high
+Kenya,KEN,2017,4.589412,82035800868.0,high,med,high-med
+Kiribati,KIR,2017,5.445392,188192060.0,high,low,high-low
+Kuwait,KWT,2017,0.8660840000000001,120707435542.0,low,high,low-high
+Kyrgyzstan,KGZ,2017,2.0135300000000003,7702934800.0,med,low,med-low
+Laos,LAO,2017,4.94251,17071162084.0,high,med,high-med
+Latvia,LVA,2017,0.4427190000000001,30483806018.0,low,med,low-med
+Lebanon,LBN,2017,0.7704850000000001,53027680686.0,low,med,low-med
+Lesotho,LSO,2017,9.096767,2306741845.0,high,low,high-low
+Liberia,LBR,2017,8.432236000000001,3390703400.0,high,low,high-low
+Libya,LBY,2017,1.232487,67158415842.0,med,med,med-med
+Lithuania,LTU,2017,0.4426840000000001,47758736932.0,low,med,low-med
+Luxembourg,LUX,2017,0.281154,65712180343.0,low,med,low-med
+Madagascar,MDG,2017,5.545526000000001,13176313594.0,high,low,high-low
+Malawi,MWI,2017,4.615399,8943543677.0,high,low,high-low
+Malaysia,MYS,2017,0.828098,319112175612.0,low,high,low-high
+Maldives,MDV,2017,0.8324360000000001,4754175869.0,low,low,low-low
+Mali,MLI,2017,10.088791,15365711725.0,high,med,high-med
+Malta,MLT,2017,0.6556060000000001,13489380931.0,low,med,low-med
+Marshall Islands,MHL,2017,3.353592,212701200.0,high,low,high-low
+Mauritania,MRT,2017,7.769788,6800141922.0,high,low,high-low
+Mauritius,MUS,2017,1.486296,13713509312.0,med,med,med-med
+Mexico,MEX,2017,1.515865,1158913035796.0,med,high,med-high
+Micronesia (country),FSM,2017,2.7034710000000004,366666800.0,med,low,med-low
+Moldova,MDA,2017,1.525715,9669741744.0,med,low,med-low
+Monaco,MCO,2017,0.332239,6431314957.0,low,low,low-low
+Mongolia,MNG,2017,1.761002,11480847745.0,med,low,med-low
+Montenegro,MNE,2017,0.320285,4856632399.0,low,low,low-low
+Morocco,MAR,2017,2.1238740000000003,118540548906.0,med,high,med-high
+Mozambique,MOZ,2017,7.798723,13219084261.0,high,med,high-med
+Myanmar,MMR,2017,4.851401,61449392056.0,high,med,high-med
+Namibia,NAM,2017,4.485898000000001,12895153157.0,high,low,high-low
+Nauru,NRU,2017,3.13079,109359680.0,high,low,high-low
+Nepal,NPL,2017,3.209829,28971589213.0,high,med,high-med
+Netherlands,NLD,2017,0.404686,833869641687.0,low,high,low-high
+New Zealand,NZL,2017,0.51925,206623758800.0,low,high,low-high
+Nicaragua,NIC,2017,1.7922760000000002,13785909906.0,med,med,med-med
+Niger,NER,2017,8.664084,11185102400.0,high,low,high-low
+Nigeria,NGA,2017,12.253435,375745732275.0,high,high,high-high
+North Macedonia,MKD,2017,0.961714,11307058382.0,med,low,med-low
+Norway,NOR,2017,0.253398,398393955269.0,low,high,low-high
+Oman,OMN,2017,1.115405,80856697009.0,med,med,med-med
+Pakistan,PAK,2017,7.161934,339205615769.0,high,high,high-high
+Palau,PLW,2017,1.857559,285600000.0,med,low,med-low
+Palestine,PSE,2017,1.8095870000000005,16128000000.0,med,med,med-med
+Panama,PAN,2017,1.592282,62202700000.0,med,med,med-med
+Papua New Guinea,PNG,2017,4.820297,22742613554.0,high,med,high-med
+Paraguay,PRY,2017,2.090042,38997129474.0,med,med,med-med
+Peru,PER,2017,1.441458,211007207484.0,med,high,med-high
+Philippines,PHL,2017,2.853955,328480867143.0,med,high,med-high
+Poland,POL,2017,0.4622550000000001,524645833885.0,low,high,low-high
+Portugal,PRT,2017,0.361878,221357874719.0,low,high,low-high
+Qatar,QAT,2017,0.6969540000000001,161099122225.0,low,high,low-high
+Romania,ROU,2017,0.787236,210146748920.0,low,high,low-high
+Russia,RUS,2017,0.689911,1574199387071.0,low,high,low-high
+Rwanda,RWA,2017,4.462109000000001,9252834120.0,high,low,high-low
+Saint Kitts and Nevis,KNA,2017,1.62265,1058937037.0,med,low,med-low
+Saint Lucia,LCA,2017,2.29603,1996710563.0,med,low,med-low
+Saint Vincent and the Grenadines,VCT,2017,1.563192,847620222.0,med,low,med-low
+Samoa,WSM,2017,1.811903,884847176.0,med,low,med-low
+San Marino,SMR,2017,0.198744,1528630707.0,low,low,low-low
+Sao Tome and Principe,STP,2017,1.950385,375614126.0,med,low,med-low
+Saudi Arabia,SAU,2017,0.8094210000000001,688586094413.0,low,high,low-high
+Senegal,SEN,2017,4.395297,20996564752.0,high,med,high-med
+Serbia,SRB,2017,0.5879150000000001,44179055280.0,low,med,low-med
+Seychelles,SYC,2017,1.474565,1573433081.0,med,low,med-low
+Sierra Leone,SLE,2017,12.0726,3719369107.0,high,low,high-low
+Singapore,SGP,2017,0.264825,343193352162.0,low,high,low-high
+Slovakia,SVK,2017,0.6028290000000001,95649966261.0,low,high,low-high
+Slovenia,SVN,2017,0.241134,48589100043.0,low,med,low-med
+Solomon Islands,SLB,2017,2.136276,1469787256.0,med,low,med-low
+Somalia,SOM,2017,12.612658,5609000000.0,high,low,high-low
+South Africa,ZAF,2017,3.4613340000000004,381448814653.0,high,high,high-high
+South Korea,KOR,2017,0.332887,1623901496836.0,low,high,low-high
+Spain,ESP,2017,0.32557,1313245330198.0,low,high,low-high
+Sri Lanka,LKA,2017,0.784575,94376246467.0,low,high,low-high
+Sudan,SDN,2017,6.197487000000001,129717804935.0,high,high,high-high
+Suriname,SUR,2017,1.925397,3591660724.0,med,low,med-low
+Sweden,SWE,2017,0.277107,541018749769.0,low,high,low-high
+Switzerland,CHE,2017,0.415127,695200833086.0,low,high,low-high
+Syria,SYR,2017,2.351005,16369724433.0,med,med,med-med
+Tajikistan,TJK,2017,3.534059,7536439875.0,high,low,high-low
+Tanzania,TZA,2017,5.408714,53320647489.0,high,med,high-med
+Thailand,THA,2017,0.986712,456356961443.0,med,high,med-high
+Timor,TLS,2017,4.677657,1595724261.0,high,low,high-low
+Togo,TGO,2017,7.109075000000001,6395472574.0,high,low,high-low
+Tonga,TON,2017,1.212484,460379145.0,med,low,med-low
+Trinidad and Tobago,TTO,2017,1.827122,23797686966.0,med,med,med-med
+Tunisia,TUN,2017,1.707164,42163966273.0,med,med,med-med
+Turkey,TUR,2017,1.140911,858996263096.0,med,high,med-high
+Turkmenistan,TKM,2017,4.2852,37926285714.0,high,med,high-med
+Tuvalu,TUV,2017,2.431873,45217658.0,med,low,med-low
+Uganda,UGA,2017,4.989274000000001,30744473912.0,high,med,high-med
+Ukraine,UKR,2017,0.889778,112090530369.0,low,high,low-high
+United Arab Emirates,ARE,2017,0.7204710000000001,390516804017.0,low,high,low-high
+United Kingdom,GBR,2017,0.43718,2683399006716.0,low,high,low-high
+United States,USA,2017,0.662378,19477336549000.0,low,high,low-high
+Uruguay,URY,2017,0.784101,64233966861.0,low,med,low-med
+Uzbekistan,UZB,2017,1.6814530000000003,62081323299.0,med,med,med-med
+Vanuatu,VUT,2017,2.6948380000000003,880062103.0,med,low,med-low
+Vietnam,VNM,2017,2.144425,281353625688.0,med,high,med-high
+Yemen,YEM,2017,6.015328,26842231205.0,high,med,high-med
+Zambia,ZMB,2017,6.462933,25873601261.0,high,med,high-med
+Zimbabwe,ZWE,2017,5.704974,17584890937.0,high,med,high-med
+Afghanistan,AFG,2018,6.233867,18418848300.0,high,med,high-med
+Albania,ALB,2018,0.953143,15156432310.0,med,med,med-med
+Algeria,DZA,2018,2.380357,174910878623.0,med,high,med-high
+Andorra,AND,2018,0.280881,3218316013.0,low,low,low-low
+Angola,AGO,2018,7.731711000000001,77792944472.0,high,med,high-med
+Antigua and Barbuda,ATG,2018,0.6858050000000001,1605944444.0,low,low,low-low
+Argentina,ARG,2018,0.969247,524819742919.0,med,high,med-high
+Armenia,ARM,2018,1.207623,12457941907.0,med,low,med-low
+Australia,AUS,2018,0.3741,1428288504767.0,low,high,low-high
+Austria,AUT,2018,0.35637,454991174096.0,low,high,low-high
+Azerbaijan,AZE,2018,2.153565,47112941176.0,med,med,med-med
+Bahamas,BHS,2018,1.2994960000000002,12755800000.0,med,low,med-low
+Bahrain,BHR,2018,0.7137560000000001,37802005319.0,low,med,low-med
+Bangladesh,BGD,2018,3.240174,321379023557.0,high,high,high-high
+Barbados,BRB,2018,1.3004110000000002,5097283200.0,med,low,med-low
+Belarus,BLR,2018,0.337311,60031262269.0,low,med,low-med
+Belgium,BEL,2018,0.416237,543299066999.0,low,high,low-high
+Belize,BLZ,2018,1.294219,2315000000.0,med,low,med-low
+Benin,BEN,2018,9.088104,14262408080.0,high,low,high-low
+Bhutan,BTN,2018,2.9625820000000003,2446866405.0,high,low,high-low
+Bolivia,BOL,2018,2.7399660000000003,40287647930.0,med,med,med-med
+Bosnia and Herzegovina,BIH,2018,0.5981650000000001,20183510863.0,low,med,low-med
+Botswana,BWA,2018,4.702083,17031901441.0,high,med,high-med
+Brazil,BRA,2018,1.516725,1916947014068.0,med,high,med-high
+Brunei,BRN,2018,1.124702,13567351175.0,med,low,med-low
+Bulgaria,BGR,2018,0.695778,66363537115.0,low,med,low-med
+Burkina Faso,BFA,2018,9.083271000000002,15890065020.0,high,med,high-med
+Burundi,BDI,2018,5.8995120000000005,2660123598.0,high,low,high-low
+Cambodia,KHM,2018,2.769979,24571753583.0,med,med,med-med
+Cameroon,CMR,2018,7.732889,39973839065.0,high,med,high-med
+Canada,CAN,2018,0.51432,1725329192783.0,low,high,low-high
+Cape Verde,CPV,2018,1.578453,1966501118.0,med,low,med-low
+Central African Republic,CAF,2018,11.105226000000002,2220978978.0,high,low,high-low
+Chad,TCD,2018,11.731667000000002,11239167048.0,high,low,high-low
+Chile,CHL,2018,0.7207060000000001,295402652037.0,low,high,low-high
+China,CHN,2018,0.852821,13894817549374.0,low,high,low-high
+Colombia,COL,2018,1.408721,334198218101.0,med,high,med-high
+Comoros,COM,2018,6.568755,1188797575.0,high,low,high-low
+Congo,COG,2018,4.762155,13670036996.0,high,low,high-low
+Costa Rica,CRI,2018,0.8439230000000001,62420165100.0,low,med,low-med
+Cote d'Ivoire,CIV,2018,8.322155,58011466451.0,high,med,high-med
+Croatia,HRV,2018,0.470381,62316840750.0,low,med,low-med
+Cuba,CUB,2018,0.532419,100050000000.0,low,high,low-high
+Cyprus,CYP,2018,0.283838,25596474965.0,low,med,low-med
+Czechia,CZE,2018,0.313695,249000540729.0,low,high,low-high
+Democratic Republic of Congo,COD,2018,8.663870000000001,47568210069.0,high,med,high-med
+Denmark,DNK,2018,0.388288,356841216410.0,low,high,low-high
+Djibouti,DJI,2018,5.970554,2913466732.0,high,low,high-low
+Dominica,DMA,2018,3.435832,554770370.0,high,low,high-low
+Dominican Republic,DOM,2018,3.475908,85555378043.0,high,med,high-med
+Ecuador,ECU,2018,1.3900370000000002,107562008000.0,med,high,med-high
+Egypt,EGY,2018,2.089183,249712999437.0,med,high,med-high
+El Salvador,SLV,2018,1.3810250000000002,26020850000.0,med,med,med-med
+Equatorial Guinea,GNQ,2018,8.39234,13097011143.0,high,low,high-low
+Estonia,EST,2018,0.244294,30624720196.0,low,med,low-med
+Eswatini,SWZ,2018,5.223048,4665237415.0,high,low,high-low
+Ethiopia,ETH,2018,5.316274,84269348327.0,high,med,high-med
+Fiji,FJI,2018,2.620303,5581371848.0,med,low,med-low
+Finland,FIN,2018,0.236716,275708001768.0,low,high,low-high
+France,FRA,2018,0.430846,2790956878747.0,low,high,low-high
+Gabon,GAB,2018,4.408405,16867326390.0,high,med,high-med
+Gambia,GMB,2018,5.306957000000001,1670670669.0,high,low,high-low
+Georgia,GEO,2018,0.972282,17596922470.0,med,med,med-med
+Germany,DEU,2018,0.38027,3974443355020.0,low,high,low-high
+Ghana,GHA,2018,4.814170000000001,67299280680.0,high,med,high-med
+Greece,GRC,2018,0.422565,212049447242.0,low,high,low-high
+Grenada,GRD,2018,1.662231,1166511111.0,med,low,med-low
+Guatemala,GTM,2018,2.540328,73328024537.0,med,med,med-med
+Guinea,GIN,2018,10.044655,11857030337.0,high,low,high-low
+Guinea-Bissau,GNB,2018,8.254233000000001,1504630121.0,high,low,high-low
+Guyana,GUY,2018,3.024093,4787636237.0,high,low,high-low
+Haiti,HTI,2018,6.407066,16455034353.0,high,med,high-med
+Honduras,HND,2018,1.737329,24067778954.0,med,med,med-med
+Hungary,HUN,2018,0.424779,160564628964.0,low,high,low-high
+Iceland,ISL,2018,0.206721,26264127687.0,low,med,low-med
+India,IND,2018,3.632938,2702929718960.0,high,high,high-high
+Indonesia,IDN,2018,2.464455,1042271531012.0,med,high,med-high
+Iran,IRN,2018,1.3857540000000002,331682036228.0,med,high,med-high
+Iraq,IRQ,2018,2.6998370000000005,227367469034.0,med,high,med-high
+Ireland,IRL,2018,0.329338,385736680797.0,low,high,low-high
+Israel,ISR,2018,0.370709,376691526553.0,low,high,low-high
+Italy,ITA,2018,0.316822,2091932426267.0,low,high,low-high
+Jamaica,JAM,2018,1.41679,15730793853.0,med,med,med-med
+Japan,JPN,2018,0.257206,5037835383111.0,low,high,low-high
+Jordan,JOR,2018,1.597895,43370860549.0,med,med,med-med
+Kazakhstan,KAZ,2018,1.029191,179339994859.0,med,high,med-high
+Kenya,KEN,2018,4.433178000000001,92202956321.0,high,high,high-high
+Kiribati,KIR,2018,5.277721,196230574.0,high,low,high-low
+Kuwait,KWT,2018,0.8712260000000001,138182400494.0,med,high,med-high
+Kyrgyzstan,KGZ,2018,1.916376,8271108638.0,med,low,med-low
+Laos,LAO,2018,4.752803,18141651381.0,high,med,high-med
+Latvia,LVA,2018,0.424544,34429023435.0,low,med,low-med
+Lebanon,LBN,2018,0.7446,54901519156.0,low,med,low-med
+Lesotho,LSO,2018,9.05812,2553495916.0,high,low,high-low
+Liberia,LBR,2018,8.246007,3422754800.0,high,low,high-low
+Libya,LBY,2018,1.190405,76684175824.0,med,med,med-med
+Lithuania,LTU,2018,0.400735,53751411409.0,low,med,low-med
+Luxembourg,LUX,2018,0.282468,71000359760.0,low,med,low-med
+Madagascar,MDG,2018,5.366982,13760033097.0,high,low,high-low
+Malawi,MWI,2018,4.30924,9880675786.0,high,low,high-low
+Malaysia,MYS,2018,0.8437720000000001,358791603678.0,low,high,low-high
+Maldives,MDV,2018,0.7637550000000001,5300962660.0,low,low,low-low
+Mali,MLI,2018,9.742856000000002,17070866299.0,high,med,high-med
+Malta,MLT,2018,0.6541330000000001,15298771847.0,low,med,low-med
+Marshall Islands,MHL,2018,3.248787,219330300.0,high,low,high-low
+Mauritania,MRT,2018,7.551566,7473550557.0,high,low,high-low
+Mauritius,MUS,2018,1.540296,14735695931.0,med,med,med-med
+Mexico,MEX,2018,1.464251,1222408203104.0,med,high,med-high
+Micronesia (country),FSM,2018,2.620137,401932300.0,med,low,med-low
+Moldova,MDA,2018,1.502756,11457443185.0,med,low,med-low
+Monaco,MCO,2018,0.321573,7194024563.0,low,low,low-low
+Mongolia,MNG,2018,1.678314,13178094459.0,med,low,med-low
+Montenegro,MNE,2018,0.28792,5506766651.0,low,low,low-low
+Morocco,MAR,2018,2.032232,127341174716.0,med,high,med-high
+Mozambique,MOZ,2018,7.561666,14845402474.0,high,med,high-med
+Myanmar,MMR,2018,4.675086,67144725831.0,high,med,high-med
+Namibia,NAM,2018,4.389993,13682062251.0,high,low,high-low
+Nauru,NRU,2018,3.038381,124021394.0,high,low,high-low
+Nepal,NPL,2018,3.064425,33111525872.0,high,med,high-med
+Netherlands,NLD,2018,0.407485,914043438180.0,low,high,low-high
+New Zealand,NZL,2018,0.5030610000000001,211953111036.0,low,high,low-high
+Nicaragua,NIC,2018,1.725629,13025239912.0,med,low,med-low
+Niger,NER,2018,8.347802,12808660528.0,high,low,high-low
+Nigeria,NGA,2018,11.990115,421739210176.0,high,high,high-high
+North Macedonia,MKD,2018,0.807938,12683070061.0,low,low,low-low
+Norway,NOR,2018,0.242781,436999692591.0,low,high,low-high
+Oman,OMN,2018,1.1135,91505851756.0,med,med,med-med
+Pakistan,PAK,2018,6.947188000000001,356128224957.0,high,high,high-high
+Palau,PLW,2018,1.795,284900000.0,med,low,med-low
+Palestine,PSE,2018,1.7528009999999998,16276600000.0,med,med,med-med
+Panama,PAN,2018,1.539911,64929400000.0,med,med,med-med
+Papua New Guinea,PNG,2018,4.677647,24109509853.0,high,med,high-med
+Paraguay,PRY,2018,2.017701,40225448341.0,med,med,med-med
+Peru,PER,2018,1.382533,222597212925.0,med,high,med-high
+Philippines,PHL,2018,2.7852440000000005,346842094175.0,med,high,med-high
+Poland,POL,2018,0.453454,588782567766.0,low,high,low-high
+Portugal,PRT,2018,0.355413,242313116578.0,low,high,low-high
+Qatar,QAT,2018,0.655313,183334953819.0,low,high,low-high
+Romania,ROU,2018,0.741294,243317079359.0,low,high,low-high
+Russia,RUS,2018,0.633349,1657329646184.0,low,high,low-high
+Rwanda,RWA,2018,4.339824,9642440646.0,high,low,high-low
+Saint Kitts and Nevis,KNA,2018,1.582673,1076911111.0,med,low,med-low
+Saint Lucia,LCA,2018,2.350201,2057067919.0,med,low,med-low
+Saint Vincent and the Grenadines,VCT,2018,1.511241,884328185.0,med,low,med-low
+Samoa,WSM,2018,1.781386,878435084.0,med,low,med-low
+San Marino,SMR,2018,0.190733,1655300873.0,low,low,low-low
+Sao Tome and Principe,STP,2018,1.8135010000000005,412253810.0,med,low,med-low
+Saudi Arabia,SAU,2018,0.767607,816578674529.0,low,high,low-high
+Senegal,SEN,2018,4.1729970000000005,23116897847.0,high,med,high-med
+Serbia,SRB,2018,0.577198,50640650221.0,low,med,low-med
+Seychelles,SYC,2018,1.453807,1636312010.0,med,low,med-low
+Sierra Leone,SLE,2018,11.623097,4085114794.0,high,low,high-low
+Singapore,SGP,2018,0.254254,376998146501.0,low,high,low-high
+Slovakia,SVK,2018,0.5932750000000001,106137924016.0,low,high,low-high
+Slovenia,SVN,2018,0.23298,54177882426.0,low,med,low-med
+Solomon Islands,SLB,2018,2.070731,1615479409.0,med,low,med-low
+Somalia,SOM,2018,12.19558,5856000006.0,high,low,high-low
+South Africa,ZAF,2018,3.387878,404159690891.0,high,high,high-high
+South Korea,KOR,2018,0.323651,1724845615629.0,low,high,low-high
+Spain,ESP,2018,0.325249,1421702715218.0,low,high,low-high
+Sri Lanka,LKA,2018,0.750648,94493847352.0,low,high,low-high
+Sudan,SDN,2018,6.014710000000001,32333780383.0,high,med,high-med
+Suriname,SUR,2018,1.868439,3996204757.0,med,low,med-low
+Sweden,SWE,2018,0.272117,555455371487.0,low,high,low-high
+Switzerland,CHE,2018,0.409194,725568717468.0,low,high,low-high
+Syria,SYR,2018,2.338303,21351730539.0,med,med,med-med
+Tajikistan,TJK,2018,3.432866,7765014424.0,high,low,high-low
+Tanzania,TZA,2018,5.211128,57003685912.0,high,med,high-med
+Thailand,THA,2018,0.943946,506754616189.0,med,high,med-high
+Timor,TLS,2018,4.511661,1563887944.0,high,low,high-low
+Togo,TGO,2018,6.879754,7112200725.0,high,low,high-low
+Tonga,TON,2018,1.193836,488903273.0,med,low,med-low
+Trinidad and Tobago,TTO,2018,1.770963,24322359035.0,med,med,med-med
+Tunisia,TUN,2018,1.7010840000000005,42685972269.0,med,med,med-med
+Turkey,TUR,2018,1.07147,778471900961.0,med,high,med-high
+Turkmenistan,TKM,2018,4.282744,40765428571.0,high,med,high-med
+Tuvalu,TUV,2018,2.351671,47818290.0,med,low,med-low
+Uganda,UGA,2018,4.742217,32927025573.0,high,med,high-med
+Ukraine,UKR,2018,0.863294,130891049797.0,low,high,low-high
+United Arab Emirates,ARE,2018,0.6992970000000001,427049432149.0,low,high,low-high
+United Kingdom,GBR,2018,0.432931,2878152147316.0,low,high,low-high
+United States,USA,2018,0.653715,20533057312000.0,low,high,low-high
+Uruguay,URY,2018,0.728373,64515038268.0,low,med,low-med
+Uzbekistan,UZB,2018,1.577906,52633143808.0,med,med,med-med
+Vanuatu,VUT,2018,2.634751,914736985.0,med,low,med-low
+Vietnam,VNM,2018,2.127882,310106472643.0,med,high,med-high
+Yemen,YEM,2018,6.156234,21606161066.0,high,med,high-med
+Zambia,ZMB,2018,6.536867,26311590297.0,high,med,high-med
+Zimbabwe,ZWE,2018,5.484205,34156069918.0,high,med,high-med
+Afghanistan,AFG,2019,6.013503,18904490263.0,high,med,high-med
+Albania,ALB,2019,0.969245,15401830754.0,med,med,med-med
+Algeria,DZA,2019,2.325806,171767403748.0,med,high,med-high
+Andorra,AND,2019,0.266002,3155065488.0,low,low,low-low
+Angola,AGO,2019,7.421841000000001,69309110146.0,high,med,high-med
+Antigua and Barbuda,ATG,2019,0.661278,1687533333.0,low,low,low-low
+Argentina,ARG,2019,0.9099080000000002,447754609219.0,med,high,med-high
+Armenia,ARM,2019,1.148877,13619291361.0,med,low,med-low
+Australia,AUS,2019,0.372157,1392227864397.0,low,high,low-high
+Austria,AUT,2019,0.358278,444621176101.0,low,high,low-high
+Azerbaijan,AZE,2019,2.038256,48174235294.0,med,med,med-med
+Bahamas,BHS,2019,2.2447700000000004,13192800000.0,med,low,med-low
+Bahrain,BHR,2019,0.69555,38653318085.0,low,med,low-med
+Bangladesh,BGD,2019,3.067156,351238474245.0,high,high,high-high
+Barbados,BRB,2019,1.263365,5324250000.0,med,low,med-low
+Belarus,BLR,2019,0.312995,64409647194.0,low,med,low-med
+Belgium,BEL,2019,0.421627,535830876745.0,low,high,low-high
+Belize,BLZ,2019,1.22622,2416500000.0,med,low,med-low
+Benin,BEN,2019,8.84173,14391686309.0,high,med,high-med
+Bhutan,BTN,2019,2.8575510000000004,2535657069.0,high,low,high-low
+Bolivia,BOL,2019,2.632972,40895322844.0,med,med,med-med
+Bosnia and Herzegovina,BIH,2019,0.586079,20202479538.0,low,med,low-med
+Botswana,BWA,2019,4.594865,16695928793.0,high,med,high-med
+Brazil,BRA,2019,1.493455,1873274432754.0,med,high,med-high
+Brunei,BRN,2019,1.142594,13469422959.0,med,low,med-low
+Bulgaria,BGR,2019,0.656466,68915875215.0,low,med,low-med
+Burkina Faso,BFA,2019,8.782075,16178162030.0,high,med,high-med
+Burundi,BDI,2019,5.6601870000000005,2576518846.0,high,low,high-low
+Cambodia,KHM,2019,2.662564,27089389787.0,med,med,med-med
+Cameroon,CMR,2019,7.467018,39670977333.0,high,med,high-med
+Canada,CAN,2019,0.507208,1742015045482.0,low,high,low-high
+Cape Verde,CPV,2019,1.49203,1981845741.0,med,low,med-low
+Central African Republic,CAF,2019,10.662235,2221301401.0,high,low,high-low
+Chad,TCD,2019,11.353024,11314951343.0,high,low,high-low
+Chile,CHL,2019,0.698905,278584733103.0,low,high,low-high
+China,CHN,2019,0.7911220000000001,14279937500607.0,low,high,low-high
+Colombia,COL,2019,1.3619130000000002,323109540252.0,med,high,med-high
+Comoros,COM,2019,6.347803,1195019559.0,high,low,high-low
+Congo,COG,2019,5.253922,12750339023.0,high,low,high-low
+Costa Rica,CRI,2019,0.819046,64417670083.0,low,med,low-med
+Cote d'Ivoire,CIV,2019,8.031983,58539424930.0,high,med,high-med
+Croatia,HRV,2019,0.463156,62327983580.0,low,med,low-med
+Cuba,CUB,2019,0.521618,103428000000.0,low,high,low-high
+Cyprus,CYP,2019,0.281257,25944504646.0,low,med,low-med
+Czechia,CZE,2019,0.304222,252548179965.0,low,high,low-high
+Democratic Republic of Congo,COD,2019,8.384006,51775830726.0,high,med,high-med
+Denmark,DNK,2019,0.374976,346498737962.0,low,high,low-high
+Djibouti,DJI,2019,5.775863,3088853639.0,high,low,high-low
+Dominica,DMA,2019,3.5011980000000005,611537037.0,high,low,high-low
+Dominican Republic,DOM,2019,3.4351840000000005,88941299734.0,high,med,high-med
+Ecuador,ECU,2019,1.3430140000000002,108108009000.0,med,high,med-high
+Egypt,EGY,2019,2.0142230000000003,303080865604.0,med,high,med-high
+El Salvador,SLV,2019,1.3330080000000002,26881140000.0,med,med,med-med
+Equatorial Guinea,GNQ,2019,8.118015,11364133802.0,high,low,high-low
+Estonia,EST,2019,0.226626,31081901909.0,low,med,low-med
+Eswatini,SWZ,2019,4.7998080000000005,4495264161.0,high,low,high-low
+Ethiopia,ETH,2019,5.078925000000001,95912590628.0,high,med,high-med
+Fiji,FJI,2019,2.688197,5481675173.0,med,low,med-low
+Finland,FIN,2019,0.2339649999999999,268514916973.0,low,high,low-high
+France,FRA,2019,0.43473,2728870246706.0,low,high,low-high
+Gabon,GAB,2019,4.302596,16874405460.0,high,med,high-med
+Gambia,GMB,2019,5.117933000000001,1813608280.0,high,low,high-low
+Georgia,GEO,2019,0.949658,17470436259.0,med,med,med-med
+Germany,DEU,2019,0.37321,3888226035922.0,low,high,low-high
+Ghana,GHA,2019,4.637147000000001,68337537816.0,high,med,high-med
+Greece,GRC,2019,0.415192,205257014893.0,low,high,low-high
+Grenada,GRD,2019,1.652995,1213485185.0,med,low,med-low
+Guatemala,GTM,2019,2.4502900000000003,77170421168.0,med,med,med-med
+Guinea,GIN,2019,9.799518,13442861444.0,high,low,high-low
+Guinea-Bissau,GNB,2019,7.961008,1439638443.0,high,low,high-low
+Guyana,GUY,2019,2.933619,5173760192.0,high,low,high-low
+Haiti,HTI,2019,6.22214,14785839383.0,high,med,high-med
+Honduras,HND,2019,1.6772400000000005,25089976947.0,med,med,med-med
+Hungary,HUN,2019,0.411638,163988594922.0,low,high,low-high
+Iceland,ISL,2019,0.199832,24826102120.0,low,med,low-med
+India,IND,2019,3.437378,2831552222520.0,high,high,high-high
+Indonesia,IDN,2019,2.380465,1119099868265.0,med,high,med-high
+Iran,IRN,2019,1.339644,283746685180.0,med,high,med-high
+Iraq,IRQ,2019,2.6090820000000003,233636097800.0,med,high,med-high
+Ireland,IRL,2019,0.315413,399321701632.0,low,high,low-high
+Israel,ISR,2019,0.364629,402470513619.0,low,high,low-high
+Italy,ITA,2019,0.303801,2011302198827.0,low,high,low-high
+Jamaica,JAM,2019,1.369299,15830768550.0,med,med,med-med
+Japan,JPN,2019,0.253174,5123318151511.0,low,high,low-high
+Jordan,JOR,2019,1.5484080000000002,44993992365.0,med,med,med-med
+Kazakhstan,KAZ,2019,1.014587,181667190076.0,med,high,med-high
+Kenya,KEN,2019,4.299964,100379713697.0,high,high,high-high
+Kiribati,KIR,2019,5.115214000000001,177935349.0,high,low,high-low
+Kuwait,KWT,2019,0.879361,136196760181.0,med,high,med-high
+Kyrgyzstan,KGZ,2019,1.830456,8871026074.0,med,low,med-low
+Laos,LAO,2019,4.573892,18740559554.0,high,med,high-med
+Latvia,LVA,2019,0.411176,34343961073.0,low,med,low-med
+Lebanon,LBN,2019,0.7223790000000001,51953744530.0,low,med,low-med
+Lesotho,LSO,2019,9.090027,2453980835.0,high,low,high-low
+Liberia,LBR,2019,8.036587,3319596500.0,high,low,high-low
+Libya,LBY,2019,1.1508660000000002,69252306372.0,med,med,med-med
+Lithuania,LTU,2019,0.361148,54751510088.0,low,med,low-med
+Luxembourg,LUX,2019,0.281501,69825641851.0,low,med,low-med
+Madagascar,MDG,2019,5.18848,14104664515.0,high,low,high-low
+Malawi,MWI,2019,4.06496,11025371147.0,high,low,high-low
+Malaysia,MYS,2019,0.85684,365175135788.0,med,high,med-high
+Maldives,MDV,2019,0.7008200000000001,5609400722.0,low,low,low-low
+Mali,MLI,2019,9.417647,17280251194.0,high,med,high-med
+Malta,MLT,2019,0.6513960000000001,15725847979.0,low,med,low-med
+Marshall Islands,MHL,2019,3.163326,232092300.0,high,low,high-low
+Mauritania,MRT,2019,7.300973000000001,8066126312.0,high,low,high-low
+Mauritius,MUS,2019,1.5983040000000002,14436353898.0,med,med,med-med
+Mexico,MEX,2019,1.4146960000000002,1269011767479.0,med,high,med-high
+Micronesia (country),FSM,2019,2.5433640000000004,412000000.0,med,low,med-low
+Moldova,MDA,2019,1.4763730000000002,11971345003.0,med,low,med-low
+Monaco,MCO,2019,0.312087,7383745662.0,low,low,low-low
+Mongolia,MNG,2019,1.603811,14206359007.0,med,low,med-low
+Montenegro,MNE,2019,0.260516,5542053845.0,low,low,low-low
+Morocco,MAR,2019,1.947197,128919944682.0,med,high,med-high
+Mozambique,MOZ,2019,7.287933,15390039242.0,high,med,high-med
+Myanmar,MMR,2019,4.517965,68697759361.0,high,med,high-med
+Namibia,NAM,2019,4.185182,12541928105.0,high,low,high-low
+Nauru,NRU,2019,2.945431,118724074.0,high,low,high-low
+Nepal,NPL,2019,2.931825,34186190996.0,high,med,high-med
+Netherlands,NLD,2019,0.411628,910194347569.0,low,high,low-high
+New Zealand,NZL,2019,0.487325,213434571358.0,low,high,low-high
+Nicaragua,NIC,2019,1.661524,12596636042.0,med,low,med-low
+Niger,NER,2019,8.034467,12916455161.0,high,low,high-low
+Nigeria,NGA,2019,11.693587,448120015210.0,high,high,high-high
+North Macedonia,MKD,2019,0.6792250000000001,12606338449.0,low,low,low-low
+Norway,NOR,2019,0.231487,404941363636.0,low,high,low-high
+Oman,OMN,2019,1.109122,88060858257.0,med,med,med-med
+Pakistan,PAK,2019,6.732203,320909489230.0,high,high,high-high
+Palau,PLW,2019,1.743375,278900000.0,med,low,med-low
+Palestine,PSE,2019,1.701804,17133500000.0,med,med,med-med
+Panama,PAN,2019,1.484109,66984400000.0,med,med,med-med
+Papua New Guinea,PNG,2019,4.530522,24751344561.0,high,med,high-med
+Paraguay,PRY,2019,1.946855,37925338329.0,med,med,med-med
+Peru,PER,2019,1.3304710000000002,228323495041.0,med,high,med-high
+Philippines,PHL,2019,2.713394,376823278561.0,med,high,med-high
+Poland,POL,2019,0.444888,596054591863.0,low,high,low-high
+Portugal,PRT,2019,0.344669,239986922639.0,low,high,low-high
+Qatar,QAT,2019,0.6145550000000001,175837550989.0,low,high,low-high
+Romania,ROU,2019,0.708848,251019278416.0,low,high,low-high
+Russia,RUS,2019,0.58401,1693113904263.0,low,high,low-high
+Rwanda,RWA,2019,4.192743,10356327149.0,high,low,high-low
+Saint Kitts and Nevis,KNA,2019,1.542133,1107840741.0,med,low,med-low
+Saint Lucia,LCA,2019,2.3989480000000003,2094201725.0,med,low,med-low
+Saint Vincent and the Grenadines,VCT,2019,1.4621000000000002,910149704.0,med,low,med-low
+Samoa,WSM,2019,1.7413930000000002,912944538.0,med,low,med-low
+San Marino,SMR,2019,0.182827,1616188702.0,low,low,low-low
+Sao Tome and Principe,STP,2019,1.702562,427425040.0,med,low,med-low
+Saudi Arabia,SAU,2019,0.7310810000000001,803616264791.0,low,high,low-high
+Senegal,SEN,2019,3.972897,23398811424.0,high,med,high-med
+Serbia,SRB,2019,0.5697230000000001,51514222382.0,low,med,low-med
+Seychelles,SYC,2019,1.425602,1684373490.0,med,low,med-low
+Sierra Leone,SLE,2019,11.189061,4076578543.0,high,low,high-low
+Singapore,SGP,2019,0.239771,375472731271.0,low,high,low-high
+Slovakia,SVK,2019,0.584454,105720354989.0,low,high,low-high
+Slovenia,SVN,2019,0.225229,54331588482.0,low,med,low-med
+Solomon Islands,SLB,2019,2.0048980000000003,1619154819.0,med,low,med-low
+Somalia,SOM,2019,11.826259,6485000000.0,high,low,high-low
+South Africa,ZAF,2019,3.304828,388531954111.0,high,high,high-high
+South Korea,KOR,2019,0.313794,1651422932448.0,low,high,low-high
+Spain,ESP,2019,0.325428,1394320055129.0,low,high,low-high
+Sri Lanka,LKA,2019,0.7199220000000001,89014990792.0,low,med,low-med
+Sudan,SDN,2019,5.84187,32338079165.0,high,med,high-med
+Suriname,SUR,2019,1.811339,4016040575.0,med,low,med-low
+Sweden,SWE,2019,0.267643,533879529188.0,low,high,low-high
+Switzerland,CHE,2019,0.404199,721369112727.0,low,high,low-high
+Syria,SYR,2019,2.2194610000000004,22443299775.0,med,med,med-med
+Tajikistan,TJK,2019,3.327721,8300784857.0,high,low,high-low
+Tanzania,TZA,2019,5.046503,61136873692.0,high,med,high-med
+Thailand,THA,2019,0.903023,544081056185.0,med,high,med-high
+Timor,TLS,2019,4.3696280000000005,2028551628.0,high,low,high-low
+Togo,TGO,2019,6.650347,7220395248.0,high,low,high-low
+Tonga,TON,2019,1.168341,512057749.0,med,low,med-low
+Trinidad and Tobago,TTO,2019,1.7195150000000003,23849557812.0,med,med,med-med
+Tunisia,TUN,2019,1.686959,41906113686.0,med,med,med-med
+Turkey,TUR,2019,1.00682,759937390497.0,med,high,med-high
+Turkmenistan,TKM,2019,4.242673,45231428571.0,high,med,high-med
+Tuvalu,TUV,2019,2.27213,54223149.0,med,low,med-low
+Uganda,UGA,2019,4.532292000000001,35353060634.0,high,med,high-med
+Ukraine,UKR,2019,0.837342,153882982016.0,low,high,low-high
+United Arab Emirates,ARE,2019,0.678416,417989721734.0,low,high,low-high
+United Kingdom,GBR,2019,0.427786,2857057847953.0,low,high,low-high
+United States,USA,2019,0.644661,21380976119000.0,low,high,low-high
+Uruguay,URY,2019,0.672075,61231149881.0,low,med,low-med
+Uzbekistan,UZB,2019,1.483051,59907674027.0,med,med,med-med
+Vanuatu,VUT,2019,2.563371,936526268.0,med,low,med-low
+Vietnam,VNM,2019,2.1127680000000004,334365257437.0,med,high,med-high
+Zambia,ZMB,2019,6.408917,23308667781.0,high,med,high-med
+Zimbabwe,ZWE,2019,5.423561,21832234926.0,high,med,high-med
+Afghanistan,AFG,2020,5.797538,20143442151.0,high,med,high-med
+Albania,ALB,2020,0.984332,15131866271.0,med,med,med-med
+Algeria,DZA,2020,2.268297,145009181491.0,med,high,med-high
+Andorra,AND,2020,0.25322,2891022273.0,low,low,low-low
+Angola,AGO,2020,7.147147,53619073505.0,high,med,high-med
+Antigua and Barbuda,ATG,2020,0.639213,1370281481.0,low,low,low-low
+Argentina,ARG,2020,0.855705,385540224628.0,med,high,med-high
+Armenia,ARM,2020,1.094148,12641697523.0,med,low,med-low
+Australia,AUS,2020,0.369641,1326901059123.0,low,high,low-high
+Austria,AUT,2020,0.362186,435225238000.0,low,high,low-high
+Azerbaijan,AZE,2020,1.938823,42693000000.0,med,med,med-med
+Bahamas,BHS,2020,1.225793,9699500000.0,med,low,med-low
+Bahrain,BHR,2020,0.6757360000000001,34723357447.0,low,med,low-med
+Bangladesh,BGD,2020,2.9104590000000004,373902134700.0,high,high,high-high
+Barbados,BRB,2020,1.22478,4671800000.0,med,low,med-low
+Belarus,BLR,2020,0.290889,61371126414.0,low,med,low-med
+Belgium,BEL,2020,0.423494,525211810653.0,low,high,low-high
+Belize,BLZ,2020,1.166311,2080000000.0,med,low,med-low
+Benin,BEN,2020,8.593855000000001,15651545209.0,high,med,high-med
+Bhutan,BTN,2020,2.762421,2325184481.0,high,low,high-low
+Bolivia,BOL,2020,2.536866,36629843805.0,med,med,med-med
+Bosnia and Herzegovina,BIH,2020,0.572945,19950471171.0,low,med,low-med
+Botswana,BWA,2020,4.484441,14930072459.0,high,med,high-med
+Brazil,BRA,2020,1.469581,1448559976218.0,med,high,med-high
+Brunei,BRN,2020,1.151113,12005825759.0,med,low,med-low
+Bulgaria,BGR,2020,0.614711,70240275010.0,low,med,low-med
+Burkina Faso,BFA,2020,8.499146000000001,17933606353.0,high,med,high-med
+Burundi,BDI,2020,5.435326,2649671999.0,high,low,high-low
+Cambodia,KHM,2020,2.567759,25872798012.0,med,med,med-med
+Cameroon,CMR,2020,7.220796,40773241531.0,high,med,high-med
+Canada,CAN,2020,0.499346,1645423407568.0,low,high,low-high
+Cape Verde,CPV,2020,1.4185850000000002,1703698677.0,med,low,med-low
+Central African Republic,CAF,2020,10.299666000000002,2326720921.0,high,low,high-low
+Chad,TCD,2020,11.004704,10715396135.0,high,low,high-low
+Chile,CHL,2020,0.675163,252727193710.0,low,high,low-high
+China,CHN,2020,0.734218,14687673892882.0,low,high,low-high
+Colombia,COL,2020,1.3186520000000002,270299984938.0,med,high,med-high
+Comoros,COM,2020,6.133843000000001,1225039231.0,high,low,high-low
+Congo,COG,2020,4.463430000000001,10483151176.0,high,low,high-low
+Costa Rica,CRI,2020,0.7912180000000001,62158002233.0,low,med,low-med
+Cote d'Ivoire,CIV,2020,7.791287,61348579465.0,high,med,high-med
+Croatia,HRV,2020,0.455093,57472012427.0,low,med,low-med
+Cuba,CUB,2020,0.510627,107352000000.0,low,high,low-high
+Cyprus,CYP,2020,0.277095,25008448886.0,low,med,low-med
+Czechia,CZE,2020,0.292004,245974558654.0,low,high,low-high
+Democratic Republic of Congo,COD,2020,8.117956,48716960860.0,high,med,high-med
+Denmark,DNK,2020,0.361477,355222449505.0,low,high,low-high
+Djibouti,DJI,2020,5.587807000000001,3181071154.0,high,low,high-low
+Dominica,DMA,2020,3.544687,504214815.0,high,low,high-low
+Dominican Republic,DOM,2020,3.376022,78844702329.0,high,med,high-med
+Ecuador,ECU,2020,1.295289,99291124000.0,med,med,med-med
+Egypt,EGY,2020,1.945575,365252651279.0,med,high,med-high
+El Salvador,SLV,2020,1.287547,24563020000.0,med,med,med-med
+Equatorial Guinea,GNQ,2020,7.84905,10099158075.0,high,low,high-low
+Estonia,EST,2020,0.21135,31370395573.0,low,med,low-med
+Eswatini,SWZ,2020,4.664456,3982226055.0,high,low,high-low
+Ethiopia,ETH,2020,4.870834,107657734392.0,high,high,high-high
+Fiji,FJI,2020,2.743122,4477040340.0,high,low,high-low
+Finland,FIN,2020,0.2310579999999999,271891788363.0,low,high,low-high
+France,FRA,2020,0.436734,2639008701648.0,low,high,low-high
+Gabon,GAB,2020,4.173405000000001,15314577168.0,high,med,high-med
+Gambia,GMB,2020,4.936763,1812169484.0,high,low,high-low
+Georgia,GEO,2020,0.925748,15842922533.0,med,med,med-med
+Germany,DEU,2020,0.365243,3889668895300.0,low,high,low-high
+Ghana,GHA,2020,4.470602,70043199814.0,high,med,high-med
+Greece,GRC,2020,0.407219,188925995937.0,low,high,low-high
+Grenada,GRD,2020,1.635082,1043414815.0,med,low,med-low
+Guatemala,GTM,2020,2.364571,77625486978.0,med,med,med-med
+Guinea,GIN,2020,9.555596,14177835816.0,high,med,high-med
+Guinea-Bissau,GNB,2020,7.683916000000001,1431758243.0,high,low,high-low
+Guyana,GUY,2020,2.8404350000000003,5471256595.0,high,low,high-low
+Haiti,HTI,2020,6.048085,14508218017.0,high,med,high-med
+Honduras,HND,2020,1.6215720000000002,23827840810.0,med,med,med-med
+Hungary,HUN,2020,0.404744,157182045260.0,low,high,low-high
+Iceland,ISL,2020,0.193434,21694674810.0,low,med,low-med
+India,IND,2020,3.263173,2667687951797.0,high,high,high-high
+Indonesia,IDN,2020,2.300453,1058688935455.0,med,high,med-high
+Iran,IRN,2020,1.294251,239735571102.0,med,high,med-high
+Iraq,IRQ,2020,2.523793,184369797315.0,med,high,med-high
+Ireland,IRL,2020,0.302377,425852281928.0,low,high,low-high
+Israel,ISR,2020,0.358109,413267669232.0,low,high,low-high
+Italy,ITA,2020,0.290839,1896755301518.0,low,high,low-high
+Jamaica,JAM,2020,1.328023,13812425037.0,med,med,med-med
+Japan,JPN,2020,0.248996,5040107754084.0,low,high,low-high
+Jordan,JOR,2020,1.501652,44182298292.0,med,med,med-med
+Kazakhstan,KAZ,2020,1.001937,171082379533.0,med,high,med-high
+Kenya,KEN,2020,4.187396,100666542666.0,high,high,high-high
+Kiribati,KIR,2020,4.959136000000001,180911844.0,high,low,high-low
+Kuwait,KWT,2020,0.885642,105960225688.0,med,high,med-high
+Kyrgyzstan,KGZ,2020,1.753326,7780874537.0,med,low,med-low
+Laos,LAO,2020,4.4076580000000005,18981800705.0,high,med,high-med
+Latvia,LVA,2020,0.4003,34601740323.0,low,med,low-med
+Lebanon,LBN,2020,0.6984170000000001,31712128254.0,low,med,low-med
+Lesotho,LSO,2020,8.952007,2231214507.0,high,low,high-low
+Liberia,LBR,2020,7.827968,3039982500.0,high,low,high-low
+Libya,LBY,2020,1.113263,50357312595.0,med,med,med-med
+Lithuania,LTU,2020,0.32755,56846622904.0,low,med,low-med
+Luxembourg,LUX,2020,0.278276,73992591285.0,low,med,low-med
+Madagascar,MDG,2020,5.023835,13051441059.0,high,low,high-low
+Malawi,MWI,2020,3.857946,12182348213.0,high,low,high-low
+Malaysia,MYS,2020,0.8624930000000002,337337932675.0,med,high,med-high
+Maldives,MDV,2020,0.6461990000000001,3746321936.0,low,low,low-low
+Mali,MLI,2020,9.099041,17465392916.0,high,med,high-med
+Malta,MLT,2020,0.6457930000000001,14933066819.0,low,med,low-med
+Marshall Islands,MHL,2020,3.066743,241722400.0,high,low,high-low
+Mauritania,MRT,2020,7.071035999999999,8405491202.0,high,low,high-low
+Mauritius,MUS,2020,1.651739,11401050655.0,med,low,med-low
+Mexico,MEX,2020,1.36746,1090515389749.0,med,high,med-high
+Micronesia (country),FSM,2020,2.4654290000000003,408000000.0,med,low,med-low
+Moldova,MDA,2020,1.447453,11859730544.0,med,low,med-low
+Monaco,MCO,2020,0.302101,6739691605.0,low,low,low-low
+Mongolia,MNG,2020,1.536535,13312981595.0,med,low,med-low
+Montenegro,MNE,2020,0.238792,4769860741.0,low,low,low-low
+Morocco,MAR,2020,1.868682,121348138320.0,med,high,med-high
+Mozambique,MOZ,2020,7.055194,14028811072.0,high,med,high-med
+Myanmar,MMR,2020,4.365279,78930257227.0,high,med,high-med
+Namibia,NAM,2020,4.016113,10581585630.0,high,low,high-low
+Nauru,NRU,2020,2.849089,114626626.0,high,low,high-low
+Nepal,NPL,2020,2.81592,33433670512.0,high,med,high-med
+Netherlands,NLD,2020,0.416018,909793466661.0,low,high,low-high
+New Zealand,NZL,2020,0.471969,211734532308.0,low,high,low-high
+Nicaragua,NIC,2020,1.603775,12586970511.0,med,low,med-low
+Niger,NER,2020,7.751683,13744174690.0,high,med,high-med
+Nigeria,NGA,2020,11.377308,432198936002.0,high,high,high-high
+North Macedonia,MKD,2020,0.593233,12363580535.0,low,low,low-low
+Norway,NOR,2020,0.219919,362198318435.0,low,high,low-high
+Oman,OMN,2020,1.10061,75909397659.0,med,med,med-med
+Pakistan,PAK,2020,6.518279,300425666773.0,high,high,high-high
+Palau,PLW,2020,1.685162,251900000.0,med,low,med-low
+Palestine,PSE,2020,1.651083,15531700000.0,med,med,med-med
+Panama,PAN,2020,1.4338810000000002,53977000000.0,med,med,med-med
+Papua New Guinea,PNG,2020,4.392609,23848265896.0,high,med,high-med
+Paraguay,PRY,2020,1.889643,35432178068.0,med,med,med-med
+Peru,PER,2020,1.282404,201705055939.0,med,high,med-high
+Philippines,PHL,2020,2.6365890000000003,361751116293.0,med,high,med-high
+Poland,POL,2020,0.436262,599449188399.0,low,high,low-high
+Portugal,PRT,2020,0.330393,229031860521.0,low,high,low-high
+Qatar,QAT,2020,0.576258,144411363345.0,low,high,low-high
+Romania,ROU,2020,0.6882170000000001,251362040528.0,low,high,low-high
+Russia,RUS,2020,0.5414850000000001,1489362488440.0,low,high,low-high
+Rwanda,RWA,2020,4.04704,10184345442.0,high,low,high-low
+Saint Kitts and Nevis,KNA,2020,1.4991120000000002,884525926.0,med,low,med-low
+Saint Lucia,LCA,2020,2.4404730000000003,1516015719.0,med,low,med-low
+Saint Vincent and the Grenadines,VCT,2020,1.4118190000000002,872134556.0,med,low,med-low
+Samoa,WSM,2020,1.700711,868904478.0,med,low,med-low
+San Marino,SMR,2020,0.175923,1541204338.0,low,low,low-low
+Sao Tome and Principe,STP,2020,1.6141880000000002,472551023.0,med,low,med-low
+Saudi Arabia,SAU,2020,0.700906,703367841223.0,low,high,low-high
+Senegal,SEN,2020,3.808376,24493157583.0,high,med,high-med
+Serbia,SRB,2020,0.5632130000000001,53356480454.0,low,med,low-med
+Seychelles,SYC,2020,1.3941210000000002,1261198524.0,med,low,med-low
+Sierra Leone,SLE,2020,10.783094,4063289450.0,high,low,high-low
+Singapore,SGP,2020,0.223603,345295933899.0,low,high,low-high
+Slovakia,SVK,2020,0.575451,106696828626.0,low,high,low-high
+Slovenia,SVN,2020,0.217778,53706800044.0,low,med,low-med
+Solomon Islands,SLB,2020,1.93762,1536148246.0,med,low,med-low
+Somalia,SOM,2020,11.461821,6883000000.0,high,low,high-low
+South Africa,ZAF,2020,3.2221580000000003,337619680138.0,high,high,high-high
+South Korea,KOR,2020,0.303311,1644312831906.0,low,high,low-high
+Spain,ESP,2020,0.324614,1276962685648.0,low,high,low-high
+Sri Lanka,LKA,2020,0.692815,85349112171.0,low,med,low-med
+Sudan,SDN,2020,5.657631,27034593750.0,high,med,high-med
+Suriname,SUR,2020,1.75704,2911807496.0,med,low,med-low
+Sweden,SWE,2020,0.263726,547054174236.0,low,high,low-high
+Switzerland,CHE,2020,0.39989,739913619797.0,low,high,low-high
+Syria,SYR,2020,2.240184,11079795397.0,med,low,med-low
+Tajikistan,TJK,2020,3.2279020000000003,8133996648.0,high,low,high-low
+Tanzania,TZA,2020,4.886704000000001,62409709111.0,high,med,high-med
+Thailand,THA,2020,0.865025,499681757031.0,med,high,med-high
+Timor,TLS,2020,4.227212000000001,2158392540.0,high,low,high-low
+Togo,TGO,2020,6.438308000000001,7574636979.0,high,low,high-low
+Tonga,TON,2020,1.1411300000000002,484806718.0,med,low,med-low
+Trinidad and Tobago,TTO,2020,1.6596160000000002,21059428851.0,med,med,med-med
+Tunisia,TUN,2020,1.661768,42537832456.0,med,med,med-med
+Turkey,TUR,2020,0.9486370000000002,720289368333.0,med,high,med-high
+Tuvalu,TUV,2020,2.2004870000000003,55054711.0,med,low,med-low
+Uganda,UGA,2020,4.331629,37600368181.0,high,med,high-med
+Ukraine,UKR,2020,0.8113910000000001,156617861449.0,low,high,low-high
+United Arab Emirates,ARE,2020,0.657313,349473015337.0,low,high,low-high
+United Kingdom,GBR,2020,0.420914,2704609160088.0,low,high,low-high
+United States,USA,2020,0.6345010000000001,21060473613000.0,low,high,low-high
+Uruguay,URY,2020,0.618557,53560755047.0,low,med,low-med
+Uzbekistan,UZB,2020,1.394773,59894305353.0,med,med,med-med
+Vanuatu,VUT,2020,2.4925300000000004,896879875.0,med,low,med-low
+Vietnam,VNM,2020,2.093585,346615750664.0,med,high,med-high
+Zambia,ZMB,2020,6.137835,18110631358.0,high,med,high-med
+Zimbabwe,ZWE,2020,5.388819000000001,21509698406.0,high,med,high-med
