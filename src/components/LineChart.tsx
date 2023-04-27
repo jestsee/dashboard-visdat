@@ -31,8 +31,8 @@ interface Props extends BaseProps {
 const LineChart = ({ data, mode, className }: Props) => {
   return (
     <Line
+      options={{ responsive: true, maintainAspectRatio: false }}
       className={className}
-      height={400}
       datasetIdKey="id"
       data={{
         labels: data.map((item) => item.Year),

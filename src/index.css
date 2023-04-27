@@ -4,6 +4,10 @@
   @tailwind components;
   @tailwind utilities;
 
-  /* .select {
-    @apply h-fit min-h-0 rounded
-  } */
+  * {
+    @apply font-Inter
+  }
+
+  body {
+    @apply bg-gray-200 h-[100vh]
+  }
