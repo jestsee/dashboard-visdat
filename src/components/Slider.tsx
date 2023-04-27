@@ -1,29 +1,24 @@
-interface Props {
+import { BaseProps } from "@/types/props";
+
+interface Props extends BaseProps {
   years: string[];
   value: string;
   onChange: (val: string) => void;
 }
 
-const Slider = ({ years, value, onChange }: Props) => {
+const Slider = ({ years, value, className, onChange }: Props) => {
   return (
-    <div className="flex gap-2">
+    <div className={`flex gap-2 ${className}`}>
       <input
         type="range"
         min={years[0]}
         max={years[years.length - 1]}
         value={value}
         onChange={(e) => onChange(e.target.value)}
-        className="range"
+        className="range range-sm"
         step="1"
       />
       <label>{value}</label>
-      {/* <div className="w-full flex justify-between text-xs px-2">
-        {years.map((item) => (
-          <span key={item}>
-            | <p>{item}</p>
-          </span>
-        ))}
-      </div> */}
     </div>
   );
 };

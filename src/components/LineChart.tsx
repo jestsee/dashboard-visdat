@@ -10,7 +10,8 @@ import {
   Legend,
 } from "chart.js";
 import { IData } from "@/types/data";
-import { useState } from "react";
+import { LineMode } from "@/types/map";
+import { BaseProps } from "@/types/props";
 
 ChartJS.register(
   CategoryScale,
@@ -22,44 +23,28 @@ ChartJS.register(
   Legend
 );
 
-interface Props {
+interface Props extends BaseProps {
   data: IData[];
+  mode: LineMode;
 }
 
-const LineChart = ({ data }: Props) => {
-  const [type, setType] = useState<"GDP" | "Rate">("Rate");
-
-  const handleTypeChange = () => {
-    if (type === "GDP") return setType("Rate");
-    setType("GDP");
-  };
-
+const LineChart = ({ data, mode, className }: Props) => {
   return (
-    <>
-      <div>
-        <label className="label cursor-pointer">
-          <span className="label-text">{type}</span>
-          <input
-            type="checkbox"
-            className="toggle"
-            onChange={handleTypeChange}
-          />
-        </label>
-      </div>
-      <Line
-        datasetIdKey="id"
-        data={{
-          labels: data.map((item) => item.Year),
-          datasets: [
-            {
-              // label: data[0].Code,
-              data: data.map((item) => item[type as keyof typeof item]),
-              tension: 0.4, // atur kelengkungan
-            },
-          ],
-        }}
-      />
-    </>
+    <Line
+      className={className}
+      height={400}
+      datasetIdKey="id"
+      data={{
+        labels: data.map((item) => item.Year),
+        datasets: [
+          {
+            label: data[0] ? data[0].Code : "Loading",
+            data: data.map((item) => item[mode as keyof typeof item]),
+            tension: 0.4, // atur kelengkungan
+          },
+        ],
+      }}
+    />
   );
 };
 
