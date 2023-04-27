@@ -10,10 +10,16 @@ function Dashboard() {
   return (
     <>
       <div className="mx-8 xl:mx-[80px] pt-8">
-        <div className="flex justify-between items-center mb-4">
+        <div className="items-center mb-4">
           <h1 className="text-2xl font-bold mb-1">
             Under-Five Mortality vs. Gross Domestic Product (GDP)
           </h1>
+          <p>
+            <small>
+              Scroll or pinch to zoom in and out in map. Drag map to
+              pan. Hover and click a country to view details.
+            </small>
+          </p>
         </div>
         <div className="w-full grid xl:grid-cols-7 gap-4">
           <div className="xl:col-span-5">
