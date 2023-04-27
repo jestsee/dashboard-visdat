@@ -9,15 +9,13 @@ function Dashboard() {
   return (
     <>
       <div className="mx-[80px] pt-8">
-        <h1 className="text-2xl font-bold mb-1">
-          Under-Five Mortality vs. Gross Domestic Product (GDP)
-        </h1>
-        <h3 className="text-xs mb-8">
-          13519011 Jesica - 13519063 Melita - 13519101 Stefanus - 13519213
-          Clarisa Natalia Edelin
-        </h3>
-        <div className="w-full grid grid-cols-7 gap-4">
-          <div className="col-span-5">
+        <div className="flex justify-between items-center mb-4">
+          <h1 className="text-2xl font-bold mb-1">
+            Under-Five Mortality vs. Gross Domestic Product (GDP)
+          </h1>
+        </div>
+        <div className="w-full grid xl:grid-cols-7 gap-4">
+          <div className="xl:col-span-5">
             <div className="bg-white rounded-2xl p-4 pt-3">
               <div className="flex gap-3 items-center mb-3 justify-between">
                 <p className="font-semibold">Bivariate Choropleth Map</p>
@@ -46,7 +44,7 @@ function Dashboard() {
               />
             </div>
           </div>
-          <div className="col-span-2 flex flex-col gap-4 justify-between w-full">
+          <div className="xl:col-span-2 flex flex-col gap-4 justify-between w-full">
             <div className="bg-white p-4 rounded-xl w-full h-full relative">
               <LineChart
                 data={lineData}
