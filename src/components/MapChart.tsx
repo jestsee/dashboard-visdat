@@ -11,6 +11,7 @@ import { Colord, colord, extend } from "colord";
 import mixPlugin from "colord/plugins/mix";
 import { BaseProps } from "@/types/props";
 import { MapMode } from "@/types/map";
+import { converter } from "./LineChart";
 
 extend([mixPlugin]);
 
@@ -67,14 +68,32 @@ const MapChart = ({
     }
   };
 
+  const getTooltip = (country: string, gdp?: string, rate?: string) => {
+    let content = "<div><b>" + country + "</b>";
+    content =
+      gdp && (mode == "all" || mode == "gdp")
+        ? content +
+          "<p><small>" +
+          gdp.slice(0, -2).replace(/\B(?=(\d{3})+(?!\d))/g, ",") +
+          " USD</small></p>"
+        : content;
+    content =
+      rate && (mode == "all" || mode == "rate")
+        ? content + "<p><small>" + converter(parseFloat(rate)) + "%</small></p>"
+        : content;
+    content = content + "</div>";
+    return content;
+  };
+
   return (
     <div>
       <ComposableMap
+        projection="geoMercator"
         className={className}
         height={400}
         projectionConfig={{
           rotate: [-10, 0, 0],
-          scale: 160,
+          scale: 100,
         }}
       >
         <ZoomableGroup center={[20, 0]}>
@@ -88,8 +107,10 @@ const MapChart = ({
                   return (
                     <Geography
                       data-tooltip-id="my-tooltip"
-                      data-tooltip-content={d.Entity}
+                      // data-tooltip-content={d.Entity}
+                      data-tooltip-html={getTooltip(d.Entity, d.GDP, d.Rate)}
                       data-tooltip-place="top"
+                      data-tooltip-float="true"
                       onClick={() => onCountryChange(geo.id)}
                       key={geo.rsmKey}
                       geography={geo}
@@ -97,6 +118,17 @@ const MapChart = ({
                       style={{
                         hover: {
                           fill: color.darken(0.15).toHex(),
+                          outline: "none",
+                          stroke: "#46474a",
+                          strokeWidth: 0.4,
+                        },
+                        default: {
+                          outline: "none",
+                          stroke: "#46474a",
+                          strokeWidth: 0.2,
+                        },
+                        pressed: {
+                          outline: "none",
                         },
                       }}
                     />

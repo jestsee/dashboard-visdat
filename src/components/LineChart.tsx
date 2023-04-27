@@ -30,7 +30,7 @@ interface Props extends BaseProps {
   mode: LineMode;
 }
 
-const converter = (value: number) => {
+export const converter = (value: number) => {
   if (value >= 100000000000)
     return (value / 1000000000000).toFixed(2).toString() + " T"; // trillion
   if (value >= 1000000000)

@@ -38,7 +38,7 @@ function Dashboard() {
                 className="mt-5"
                 onChange={setYear}
                 value={year}
-                years={Array.from({ length: 10 }, (_, i) =>
+                years={Array.from({ length: 11 }, (_, i) =>
                   (2010 + i).toString()
                 )}
               />
