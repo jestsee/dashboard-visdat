@@ -8,7 +8,7 @@ function Dashboard() {
 
   return (
     <>
-      <div className="mx-[80px] pt-8">
+      <div className="mx-8 xl:mx-[80px] pt-8">
         <div className="flex justify-between items-center mb-4">
           <h1 className="text-2xl font-bold mb-1">
             Under-Five Mortality vs. Gross Domestic Product (GDP)
@@ -18,7 +18,7 @@ function Dashboard() {
           <div className="xl:col-span-5">
             <div className="bg-white rounded-2xl p-4 pt-3">
               <div className="flex gap-3 items-center mb-3 justify-between">
-                <p className="font-semibold">Bivariate Choropleth Map</p>
+                <p className="font-semibold"></p>
                 <select
                   className="select select-bordered select-sm"
                   onChange={(e) => setMapMode(e.target.value as MapMode)}
