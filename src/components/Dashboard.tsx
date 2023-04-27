@@ -1,6 +1,7 @@
 import { LineChart, MapChart, Slider } from "@/components";
 import { useFilterData } from "@/hooks/useFilterData";
 import { MapMode } from "@/types/map";
+import MapLegend from "./MapLegend";
 
 function Dashboard() {
   const { lineData, mapData, year, mapMode, setMapMode, setCountry, setYear } =
@@ -16,7 +17,7 @@ function Dashboard() {
         </div>
         <div className="w-full grid xl:grid-cols-7 gap-4">
           <div className="xl:col-span-5">
-            <div className="bg-white rounded-2xl p-4 pt-3">
+            <div className="relative bg-white rounded-2xl p-4 pt-3">
               <div className="flex gap-3 items-center mb-3 justify-between">
                 <p className="font-semibold"></p>
                 <select
@@ -34,6 +35,7 @@ function Dashboard() {
                 onCountryChange={setCountry}
                 className="bg-gray-100 rounded-xl"
               />
+              <MapLegend />
               <Slider
                 className="mt-5"
                 onChange={setYear}

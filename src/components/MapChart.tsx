@@ -126,6 +126,7 @@ const MapChart = ({
                           outline: "none",
                           stroke: "#46474a",
                           strokeWidth: 0.2,
+                          transition: "fill 150ms linear",
                         },
                         pressed: {
                           outline: "none",
