@@ -19,9 +19,9 @@ function Dashboard() {
 
   return (
     <>
-      <div className="mx-8 xl:mx-[80px] pt-8 items-center">
+      <div className="mx-8 xl:mx-[80px] pt-2 items-center">
         <div className="items-center mb-4" style={{ textAlign: "center" }}>
-          <h1 className="text-2xl font-bold mb-1">
+          <h1 className="text-2xl font-bold">
             Under-Five Mortality vs. Gross Domestic Product (GDP)
           </h1>
           <p>
