@@ -8,7 +8,7 @@ export const useFilterData = () => {
   const [mapMode, setMapMode] = useState<MapMode>('all');
   const [mapData, setMapData] = useState<IData[]>([]);
   const [lineData, setLineData] = useState<IData[]>([]);
-  const [country, setCountry] = useState<Country>({ code: "IDN", entity: 'Indonesia' });
+  const [country, setCountry] = useState('IDN');
   const [year, setYear] = useState("2020");
 
   const countryList: Country[] = [...new Map(rawData.map(item =>
@@ -24,7 +24,7 @@ export const useFilterData = () => {
   }, []);
 
   useEffect(() => {
-    setLineData(rawData.filter((item) => item.Code === country.code));
+    setLineData(rawData.filter((item) => item.Code === country));
   }, [country, rawData]);
 
   useEffect(() => {

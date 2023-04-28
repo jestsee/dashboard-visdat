@@ -2,7 +2,7 @@ import { LineChart, MapChart, Slider } from "@/components";
 import { useFilterData } from "@/hooks/useFilterData";
 import { MapMode } from "@/types/map";
 import MapLegend from "./MapLegend";
-import AutocompleteCountry from "./AutoCompleteCountry";
+import Select from "react-select";
 
 function Dashboard() {
   const {
@@ -11,7 +11,6 @@ function Dashboard() {
     year,
     mapMode,
     countryList,
-    country,
     setMapMode,
     setCountry,
     setYear,
@@ -67,10 +66,13 @@ function Dashboard() {
             </div>
           </div>
           <div className="xl:col-span-2 flex flex-col gap-4 justify-between w-full">
-            <AutocompleteCountry
-              items={countryList}
-              value={country}
-              onChange={(newCountry) => setCountry(newCountry)}
+            <Select
+              placeholder="Search country"
+              onChange={(newValue) => setCountry(newValue?.value ?? "IDN")}
+              options={countryList.map((item) => ({
+                label: item.entity,
+                value: item.code,
+              }))}
             />
             <div className="bg-white p-4 rounded-xl w-full h-full relative">
               <LineChart
@@ -93,14 +95,14 @@ function Dashboard() {
               href="https://ourworldindata.org/explorers/global-health?tab=table"
               style={{ color: "blue" }}
             >
-              https://ourworldindata.org/explorers/global-health?tab=table
+              ourworldindata.org
             </a>{" "}
             and{" "}
             <a
               href="https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?end=2021&start=1960&view=chart&year=1990"
               style={{ color: "blue" }}
             >
-              https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?end=2021&start=1960&view=chart&year=1990
+              data.worldbank.org
             </a>
           </small>
         </p>
