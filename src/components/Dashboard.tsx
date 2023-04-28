@@ -29,10 +29,6 @@ function Dashboard() {
               The data visualization aims to shed light on the correlation
               between child mortality rates under the age of five and the
               economic growth of each country.<br></br>
-              <b>
-                Scroll or pinch to zoom in and out in map. Drag map to pan.
-                Hover and click a country to view details.
-              </b>
             </small>
           </p>
         </div>
@@ -40,7 +36,10 @@ function Dashboard() {
           <div className="xl:col-span-5">
             <div className="relative bg-white rounded-2xl p-4 pt-3">
               <div className="flex gap-3 items-center mb-3 justify-between">
-                <p className="font-semibold"></p>
+                <p className="text-xs font-semibold">
+                  Scroll or pinch to zoom in and out in map. Drag map to pan.
+                  Hover and click a country to view details.
+                </p>
                 <select
                   className="select select-bordered select-sm"
                   onChange={(e) => setMapMode(e.target.value as MapMode)}

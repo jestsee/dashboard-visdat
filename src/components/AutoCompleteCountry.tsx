@@ -26,6 +26,10 @@ const AutocompleteCountry = (props: Props) => {
     setCountries(tempCountries);
   }, [query, items]);
 
+  useEffect(() => {
+    setQuery(value.entity);
+  }, [value]);
+
   return (
     <div
       // use classnames here to easily toggle dropdown open
@@ -40,8 +44,9 @@ const AutocompleteCountry = (props: Props) => {
         className="input input-bordered w-full"
         value={query}
         onChange={(e) => setQuery(e.target.value)}
-        // onPointerLeave={} // set yang paling atas sebagai query
-        placeholder="Type something.."
+        onPointerLeave={() => onChange(countries[0])}
+        onSubmit={() => console.log("submit")} // set yang paling atas sebagai query
+        placeholder="Search country"
         tabIndex={0}
       />
       {/* add this part */}
