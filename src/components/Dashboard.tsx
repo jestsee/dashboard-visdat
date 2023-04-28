@@ -18,22 +18,22 @@ function Dashboard() {
 
   return (
     <>
-      <div className="h-screen flex flex-col mx-8 xl:mx-[80px] pt-8 items-center">
-        <div className="flex-none items-center mb-4" style={{ textAlign: "center" }}>
-          <h1 className="text-xl font-bold mb-1">
+      <div className="mx-8 xl:mx-[80px] pt-8 items-center">
+        <div className="items-center mb-4" style={{ textAlign: "center" }}>
+          <h1 className="text-2xl font-bold mb-1">
             Under-Five Mortality vs. Gross Domestic Product (GDP)
           </h1>
           <p>
             <small>
               The data visualization aims to shed light on the correlation
               between child mortality rates under the age of five and the
-              economic growth of each country.
+              economic growth of each country.<br></br>
             </small>
           </p>
         </div>
-        <div className="flex-grow flex flex-col xl:flex-row xl:space-x-4 gap-4 w-full">
-          <div className="xl:flex-grow">
-            <div className="relative bg-white rounded-2xl p-4 pt-3 h-full">
+        <div className="w-full grid xl:grid-cols-7 gap-4">
+          <div className="xl:col-span-5">
+            <div className="relative bg-white rounded-2xl p-4 pt-3">
               <div className="flex gap-3 items-center mb-3 justify-between">
                 <p className="text-xs font-semibold">
                   Scroll or pinch to zoom in and out in map. Drag map to pan.
@@ -65,7 +65,7 @@ function Dashboard() {
               />
             </div>
           </div>
-          <div className="xl:flex-none xl:w-1/3 flex flex-col gap-4 justify-between w-full">
+          <div className="xl:col-span-2 flex flex-col gap-4 justify-between w-full">
             <Select
               placeholder="Search country"
               onChange={(newValue) => setCountry(newValue?.value ?? "IDN")}
@@ -86,7 +86,7 @@ function Dashboard() {
             </div>
           </div>
         </div>
-        <p className="flex-none mt-4" style={{ textAlign: "center" }}>
+        <p className="mt-4" style={{ textAlign: "center" }}>
           <small>
             13519011 Jesica - 13519063 Melita - 13519101 Stefanus - 13519213
             Clarisa Natalia Edelin <br></br>
