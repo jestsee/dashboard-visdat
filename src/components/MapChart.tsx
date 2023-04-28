@@ -11,7 +11,7 @@ import { Colord, colord, extend } from "colord";
 import mixPlugin from "colord/plugins/mix";
 import { BaseProps } from "@/types/props";
 import { MapMode } from "@/types/map";
-import { converter } from "./LineChart";
+import { converter } from "@/utils";
 
 extend([mixPlugin]);
 

@@ -13,6 +13,7 @@ import {
 import { IData } from "@/types/data";
 import { LineMode } from "@/types/map";
 import { BaseProps } from "@/types/props";
+import { converter } from "@/utils";
 
 ChartJS.register(
   CategoryScale,
@@ -30,17 +31,6 @@ interface Props extends BaseProps {
   mode: LineMode;
 }
 
-export const converter = (value: number) => {
-  if (value >= 100000000000)
-    return (value / 1000000000000).toFixed(2).toString() + " T"; // trillion
-  if (value >= 1000000000)
-    return (value / 1000000000).toFixed(2).toString() + " B"; // billion
-  if (value >= 1000000) {
-    return (value / 1000000).toFixed(2).toString() + " M"; // million
-  }
-  return value.toFixed(2).toString();
-};
-
 const LineChart = ({ data, mode, className }: Props) => {
   return (
     <Line
@@ -50,7 +40,9 @@ const LineChart = ({ data, mode, className }: Props) => {
           title: {
             display: true,
             text: data[0]
-              ? `    ${mode === "GDP" ? "GDP" : "Mortality Rate"}`
+              ? `    ${data[0].Entity}'s ${
+                  mode === "GDP" ? "GDP" : "Mortality Rate"
+                }`
               : "Loading..",
             align: "start",
             font: { size: 16, weight: "600", family: "Inter" },
@@ -110,7 +102,7 @@ const LineChart = ({ data, mode, className }: Props) => {
             pointBackgroundColor: mode === "GDP" ? "#88BB96" : "#DE6E6E",
             pointRadius: 3.6,
             fill: "start",
-            tension: 0.4, // atur kelengkungan
+            tension: 0.5, // atur kelengkungan
             backgroundColor: ({ chart: { ctx } }) => {
               const tempGradient = ctx.createLinearGradient(0, 0, 0, 240);
               tempGradient.addColorStop(
