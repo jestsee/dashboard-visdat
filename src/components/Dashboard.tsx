@@ -2,10 +2,20 @@ import { LineChart, MapChart, Slider } from "@/components";
 import { useFilterData } from "@/hooks/useFilterData";
 import { MapMode } from "@/types/map";
 import MapLegend from "./MapLegend";
+import AutocompleteCountry from "./AutoCompleteCountry";
 
 function Dashboard() {
-  const { lineData, mapData, year, mapMode, setMapMode, setCountry, setYear } =
-    useFilterData();
+  const {
+    lineData,
+    mapData,
+    year,
+    mapMode,
+    countryList,
+    country,
+    setMapMode,
+    setCountry,
+    setYear,
+  } = useFilterData();
 
   return (
     <>
@@ -16,8 +26,8 @@ function Dashboard() {
           </h1>
           <p>
             <small>
-              Scroll or pinch to zoom in and out in map. Drag map to
-              pan. Hover and click a country to view details.
+              Scroll or pinch to zoom in and out in map. Drag map to pan. Hover
+              and click a country to view details.
             </small>
           </p>
         </div>
@@ -53,6 +63,11 @@ function Dashboard() {
             </div>
           </div>
           <div className="xl:col-span-2 flex flex-col gap-4 justify-between w-full">
+            <AutocompleteCountry
+              items={countryList}
+              value={country}
+              onChange={(newCountry) => setCountry(newCountry)}
+            />
             <div className="bg-white p-4 rounded-xl w-full h-full relative">
               <LineChart
                 data={lineData}
@@ -60,7 +75,7 @@ function Dashboard() {
                 className="h-full w-full"
               />
             </div>
-            <div className="bg-white p-4 rounded-xl w-full h-full">
+            <div className="bg-white p-4 rounded-xl w-full h-full relative">
               <LineChart data={lineData} mode="GDP" className="h-full w-full" />
             </div>
           </div>

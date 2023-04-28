@@ -5,3 +5,8 @@ export interface IData {
   Rate: string
   Year: string
 }
+
+export interface Country {
+  code: string
+  entity: string
+}

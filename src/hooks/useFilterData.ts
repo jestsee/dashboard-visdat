@@ -1,4 +1,4 @@
-import { IData } from "@/types/data";
+import { Country, IData } from "@/types/data";
 import { MapMode } from "@/types/map";
 import { csv } from "d3";
 import { useEffect, useState } from "react";
@@ -8,8 +8,11 @@ export const useFilterData = () => {
   const [mapMode, setMapMode] = useState<MapMode>('all');
   const [mapData, setMapData] = useState<IData[]>([]);
   const [lineData, setLineData] = useState<IData[]>([]);
-  const [country, setCountry] = useState("IDN");
+  const [country, setCountry] = useState<Country>({ code: "IDN", entity: 'Indonesia' });
   const [year, setYear] = useState("2020");
+
+  const countryList: Country[] = [...new Map(rawData.map(item =>
+    [item['Code'], item])).values()].map((item) => ({ code: item.Code, entity: item.Entity }));
 
   useEffect(() => {
     csv("/df_categorized.csv").then((tempData) => {
@@ -21,12 +24,12 @@ export const useFilterData = () => {
   }, []);
 
   useEffect(() => {
-    setLineData(rawData.filter((item) => item.Code === country));
+    setLineData(rawData.filter((item) => item.Code === country.code));
   }, [country, rawData]);
 
   useEffect(() => {
     setMapData(rawData.filter((item) => item.Year === year));
   }, [year, rawData]);
 
-  return { mapData, year, lineData, mapMode, setMapMode, setYear, setCountry }
+  return { mapData, year, lineData, mapMode, countryList, country, setMapMode, setYear, setCountry }
 }

@@ -50,9 +50,7 @@ const LineChart = ({ data, mode, className }: Props) => {
           title: {
             display: true,
             text: data[0]
-              ? `    ${data[0].Entity}'s ${
-                  mode === "GDP" ? "GDP" : "Mortality Rate"
-                }`
+              ? `    ${mode === "GDP" ? "GDP" : "Mortality Rate"}`
               : "Loading..",
             align: "start",
             font: { size: 16, weight: "600", family: "Inter" },
