@@ -5,7 +5,7 @@ import {
   ZoomableGroup,
 } from "react-simple-maps";
 import { scaleQuantile } from "d3";
-import { Country, IData } from "@/types/data";
+import { IData } from "@/types/data";
 import { Tooltip } from "react-tooltip";
 import { Colord, colord, extend } from "colord";
 import mixPlugin from "colord/plugins/mix";
@@ -20,7 +20,7 @@ const blankColor = "#F5F4F6";
 interface Props extends BaseProps {
   data: IData[];
   mode?: MapMode;
-  onCountryChange: (country: Country) => void;
+  onCountryChange: (country: string) => void;
 }
 
 const MapChart = ({
@@ -111,12 +111,7 @@ const MapChart = ({
                       data-tooltip-html={getTooltip(d.Entity, d.GDP, d.Rate)}
                       data-tooltip-place="top"
                       data-tooltip-float="true"
-                      onClick={() =>
-                        onCountryChange({
-                          code: geo.id,
-                          entity: geo.properties.name,
-                        })
-                      }
+                      onClick={() => onCountryChange(geo.id)}
                       key={geo.rsmKey}
                       geography={geo}
                       fill={color.toHex()}
